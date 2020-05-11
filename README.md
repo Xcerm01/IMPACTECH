@@ -9,7 +9,7 @@ To cite IMPACTECH work please refer to:
 
 ### License
 
-This repository provides all scripts and auxiliary data, distributed under the GNU General Public License (GPL) Version 3. It is free to run, study, share and modify all versions of the model (using proper citation). The IMPACTECH project members invite stakeholders, businesses, scholars and others to use the work.
+The repository will soon (5/2020) provide all scripts and auxiliary data to the IMPACTECH model. They are distributed under the GNU General Public License (GPL) Version 3. It is free to run, share and adapt, using proper reference. IMPACTECH project members invite public sector experts, businesses, scholars and other interested stakeholders to use the model. If you have a query or interest in providing feedback, please write to xcerm01@gmail.com.
 
 ### Reproducibility
 
