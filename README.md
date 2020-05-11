@@ -1,7 +1,7 @@
 # IMPACTECH
-### Input-output model focused on employment changes with integrated gross fixed capital formation matrix and participatory modelling inputs
+### Input-output model focused on changes in employment with integrated gross fixed capital formation and consumption matrix and participatory modelling inputs
 
-IMPACTECH model provides a tool to assess expected employment changes due to shifts in technologies in key energy industries.
+IMPACTECH model provides a tool to assess expected employment changes due to shifts in technologies in key energy industries. It integrates gross-fixed capital formation and consumption matrix and builds on inputs from participatory modelling regarding assumptions about future changes in technical coefficients.
 
 ### How to cite
 
