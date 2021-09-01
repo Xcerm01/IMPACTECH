@@ -1,5 +1,5 @@
 # IMPACTECH
-### Input-output model focused on changes in employment with integrated gross fixed capital formation and consumption matrix and participatory modelling inputs
+### Input-output model assessing changes in socioeconomic indicators and greenhouse gas emissions due to changing energy mix in the Czech economy
 
 IMPACTECH model provides a tool to assess expected changes in labour demand, gross value added, gross domestic product and greenhouse gas emissions related to the changes in the energy sources in the energy sector. It contains a detailed gross-fixed capital formation module and benefits from the possibility to explicitly integrate assumptions about future technological changes for selected renewable energy sources.
 
