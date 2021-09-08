@@ -1,20 +1,21 @@
 # IMPACTECH_CZ
-### An input-output model assessing changes in socioeconomic indicators and greenhouse gas emissions due to changing energy mix in the Czech economy
+### Input-output model assessing changes in socioeconomic indicators and greenhouse gas emissions as a result of the energy transition with a focus on the Czech Republic
 
-IMPACTECH model provides a tool to assess expected changes in labour demand, gross value added, gross domestic product and greenhouse gas emissions related to the changes in the energy sources in the energy sector. It contains a detailed gross-fixed capital formation module and benefits from the possibility to explicitly integrate assumptions about future technological changes for selected renewable energy sources.
+The IMPACTECH_CZ model is a tool for assessing expected changes in labour demand, gross value added, gross domestic product and greenhouse gas emissions associated with technological change in the energy sector. It includes a detailed gross fixed capital formation module and allows the inclusion of explicit assumptions about future technological change for selected renewable energy sources.
 
 ### How to cite
 
-To cite the code of the IMPACTECH_CZ model, please refer to: ČERNÝ, Martin, Martin GAJDOŠ a Martin BRUCKNER. IMPACTECH_CZ - interaktivní model socioekonomických dopadů přechodu na nízkouhlíkovou ekonomiku. 2021.
+To cite the IMPACTECH_CZ model, please refer to: 
+ČERNÝ, Martin, Martin GAJDOŠ a Martin BRUCKNER. IMPACTECH_CZ - interaktivní model socioekonomických dopadů energetické transformace. 2021.
 
 ### License
 
-The repository provides the R script and input data to run the IMPACTECH_CZ model. The model and the input data are licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). It is free to run, share and adapt, using proper reference and acknowledging the edits. IMPACTECH project members invite public sector experts, businesses, scholars and other interested stakeholders to use the model. If you have a query or interest in providing feedback, please write to xcerm01@gmail.com (Martin Cerny).
+The model and input data are licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). It is free to run, share and adapt, using proper reference and indicating modifications. IMPACTECH project members invite public sector experts, businesses, scholars and other interested stakeholders to use the model. If you have a query or would like to provide feedback, please email xcerm01@gmail.com (Martin Cerny).
 
 ### Reproducibility
 
-The GUI user manual is available in this repository (https://github.com/Xcerm01/IMPACTECH), providing detailed information on how to run the code and how to use the model.
+This repository contains the model script in R and the input data needed to run the model (folder "input"). Technical documentation including a user manual is also available in this repository. The user guide provides detailed information on how to use the model and how to run the code.
 
-### Database
+### Source databases
 
-The original version of the source database (EXIOBASE) is available at https://zenodo.org/record/3583071#.XrmeL8DgqUl.
+The original version of the main source database (EXIOBASE) is available at https://zenodo.org/record/3583071#.XrmeL8DgqUl.
