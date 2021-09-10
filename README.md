@@ -12,7 +12,7 @@
 
 (EN) To cite the IMPACTECH_CZ model, please refer to:
 
-(CZ) Chcete-li citovat model IMPACTECH_CZ, uveďte: 
+(CZ) Chcete-li citovat model IMPACTECH_CZ, uveďte, prosíme: 
 
 ČERNÝ, Martin, Martin GAJDOŠ a Martin BRUCKNER. IMPACTECH_CZ - interaktivní model socioekonomických dopadů energetické transformace. 2021.
 
@@ -24,9 +24,9 @@
 
 ### Use and reproducibility // Užívání a reprodukovatelnost
 
-(EN) This repository contains the model script in R and the input data needed to run the model (folder "input"). Technical documentation including a user manual is also available in this repository. The user guide provides detailed information on how to use the model and how to run the code.
+(EN) This repository contains the model script in R and the input data needed to run the model (folder "input"). Technical documentation including a user manual is also available in this repository. The user guide provides detailed information on how to use the model and how to run the code. A methodology report describing the logic and broader scientific context of the model is available for download at: https://www.mpo.cz/cz/energetika/vyzkum-a-vyvoj-v-energetice/resene-dokoncene-projekty-a-jejich-vystupy/ekonomicke-dopady-uplatneni-ruznych-technologii-pri-nizkouhlikove-transformaci-projekt-impactech--259465/
 
-(CZ) Toto úložiště obsahuje skript modelu v jazyce R a vstupní data potřebná ke spuštění modelu (složka "input"). V tomto úložišti je také k dispozici technická dokumentace včetně uživatelské příručky. Uživatelská příručka obsahuje podrobné informace o tom, jak model používat a jak spustit kód modelu.
+(CZ) Toto úložiště obsahuje skript modelu v jazyce R a vstupní data potřebná ke spuštění modelu (složka "input"). V tomto úložišti je také k dispozici technická dokumentace včetně uživatelské příručky. Uživatelská příručka obsahuje podrobné informace o tom, jak model používat a jak spustit kód modelu. Metodika popisující logiku a širší odborný kontext modeluje k dispozici ke stažení na adrese: https://www.mpo.cz/cz/energetika/vyzkum-a-vyvoj-v-energetice/resene-dokoncene-projekty-a-jejich-vystupy/ekonomicke-dopady-uplatneni-ruznych-technologii-pri-nizkouhlikove-transformaci-projekt-impactech--259465/
 
 ### Source data // Zdrojová (podkladová) data
 
