@@ -1,4 +1,4 @@
-# IMPACTECH_CZ
+# IMPACTECH
 
 ### Input-output model assessing changes in socioeconomic indicators and greenhouse gas emissions as a result of the energy transition with a focus on the Czech Republic
 
