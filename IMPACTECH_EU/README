@@ -14,7 +14,7 @@ To cite the IMPACTECH_CZ model, please refer to:
 
 The model and input data are licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). It is free to run, share and adapt, using proper reference and indicating modifications. IMPACTECH project members invite public sector experts, businesses, NGOs, academia and other interested stakeholders to use the model. If you have a query or would like to provide feedback, please email xcerm01@gmail.com (Martin Cerny).
 
-### Use and reproducibility // Užívání a reprodukovatelnost
+### Use and reproducibility
 
 This repository contains the model script in R and the input data needed to run the model (folder "input"). Technical documentation including a user manual is also available in this repository. The user guide provides detailed information on how to use the model and how to run the code. A methodology report describing the logic and broader scientific context of the model is available for download at: https://www.mpo.cz/cz/energetika/vyzkum-a-vyvoj-v-energetice/resene-dokoncene-projekty-a-jejich-vystupy/ekonomicke-dopady-uplatneni-ruznych-technologii-pri-nizkouhlikove-transformaci-projekt-impactech--259465/
 
