@@ -12,9 +12,9 @@
 
 (EN) To cite the IMPACTECH_CZ model, please refer to:
 
-(CZ) Chcete-li citovat model IMPACTECH_CZ, uveďte, prosíme: 
+(CZ) Chcete-li citovat model IMPACTECH_CZ, uveďte, prosím: 
 
-ČERNÝ, Martin, Martin GAJDOŠ a Martin BRUCKNER. IMPACTECH_CZ - interaktivní model socioekonomických dopadů energetické transformace. 2021.
+Černý, M., Gajdoš, M., & Bruckner, M. (2021). IMPACTECH_CZ - interaktivní model socioekonomických dopadů energetické transformace (IMPACTECH_CZ - an interactive model of the socio-economic impacts of the energy transition).
 
 ### License // Licence
 
