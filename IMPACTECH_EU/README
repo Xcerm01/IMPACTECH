@@ -1,14 +1,14 @@
 # IMPACTECH_EU
 
-### Input-output model assessing changes in socioeconomic indicators and greenhouse gas emissions as a result of the energy transition with a focus on the Czech Republic
+### Input-output model assessing changes in socioeconomic indicators and greenhouse gas emissions as a result of the energy transition with a focus on the European Union and the United Kingdom
 
-IMPACTECH_CZ is a tool for assessing expected changes in labour demand, gross value added, gross domestic product and greenhouse gas emissions associated with technological change in the energy sector. It includes a detailed gross fixed capital formation module and allows the inclusion of explicit assumptions about future technological change for selected renewable energy sources.
+IMPACTECH_EU is a tool for assessing expected changes in labour demand associated with technological change in the energy sector. It includes a detailed gross fixed capital formation module and allows the inclusion of explicit assumptions about future technological change for selected renewable energy sources.
 
 ### How to cite
 
-To cite the IMPACTECH_CZ model, please refer to:
+To cite the IMPACTECH_EU model, please refer to:
 
-ČERNÝ, Martin, Martin GAJDOŠ a Martin BRUCKNER. IMPACTECH_CZ - interaktivní model socioekonomických dopadů energetické transformace. 2021.
+Černý, M., Bruckner, M., Weinzettel, J., Wiebe, K., Kimmich, Ch., Kerschner, Ch., & Hubacek, K. (2021). Employment effects of the renewable energy transition in the electricity sector : An input-output approach. 86 pp.
 
 ### License
 
@@ -16,7 +16,7 @@ The model and input data are licensed under the Creative Commons Attribution-Sha
 
 ### Use and reproducibility
 
-This repository contains the model script in R and the input data needed to run the model (folder "input"). Technical documentation including a user manual is also available in this repository. The user guide provides detailed information on how to use the model and how to run the code. A methodology report describing the logic and broader scientific context of the model is available for download at: https://www.mpo.cz/cz/energetika/vyzkum-a-vyvoj-v-energetice/resene-dokoncene-projekty-a-jejich-vystupy/ekonomicke-dopady-uplatneni-ruznych-technologii-pri-nizkouhlikove-transformaci-projekt-impactech--259465/
+This repository contains the model script in R and the input data needed to run the model (folder "input").
 
 ### Source data
 
