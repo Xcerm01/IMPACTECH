@@ -10,35 +10,14 @@ Rozdělujeme "Výrobu elektřiny z větrné energie" na "Výrobu elektřiny z v�
 "Výrobu elektřiny ze solární fotovoltaiky" dělíme na "Výrobu elektřiny ze solární fotovoltaiky - velkoplošné" a "Výrobu elektřiny ze solární fotovoltaiky - maloplošné". 
 Fotovoltaické elektrárny s instalovaným výkonem nad 1 MW klasifikujeme jako užitkové (velkoplošné) a pod 1 MW jako rezidenční (maloplošné).
 
-Podobným způsobem rozdělujeme další modelovaná odvětví.
-
-"Výroba oceli a železa" je rozdělena na "Výroba oceli a železa - Integrovaný mlýn (BF-BOF)", 
-"Výroba oceli a železa - Přímá redukce vodíkem (H-DR)" a "Výroba oceli a železa - Redukce tavení pomocí CCS".
-
-
-Výroba cementu	Primární	Běžný portlandský cement (OPC)	(Material Economics, 2019, p. 185)
-
-	Primární	Elektrifikace pece + přímá separace (CCS)	
-	Primární	CCS s kyslíkovým palivem	
-Výroba plastů 
- 
- 	Primární	Parní krakování (nezměněný výrobní postup)	(Material Economics, 2019, p. 111,135)
-
-	Primární	Parní krakování + CCS + CCS na konci životního cyklu	
-	Primární	Elektrické parní krakování + CCS na konci životního cyklu	
-	Primární	Vstupní suroviny z biomasy	
-	Sekundární (recyklovaná)	Mechanická recyklace (opětovné použití a recirkulace plastů)	
-	Sekundární (recyklovaná)	Chemická recyklace	
-Výroba dusíkatých hnojiv
- 
- 	Primární	Parní reformace metanu (SMR) pro výrobu čpavku	(Material Economics, 2019, p. 148,153)
-
-	Primární	Parní reformace metanu (SMR) s CCS	
-	Primární	Elektrolýza vody	
-Výroba motorových dopravních prostředků 		Spalovací motor	(Miller, 2020; Stavropoulos and Burger, 2020)
-
-		Elektromobil: Hybrid + Plug-in hybrid + Bateriový + Na palivové články	
-
+Podobným způsobem rozdělujeme další modelovaná odvětví. "Výroba oceli a železa" je rozdělena na "Výroba oceli a železa - Integrovaný mlýn (BF-BOF)", "Výroba oceli a 
+železa - Přímá redukce vodíkem (H-DR)" a "Výroba oceli a železa - Redukce tavení pomocí CCS". "Výroba cementu" je rozdělena na "Výroba cementu - Běžný portlandský 
+cement (OPC)", "Výroba cementu - Elektrifikace pece + přímá separace (CCS)" a "Výroba cementu - CCS s kyslíkovým palivem". "Výroba plastů" dále na "Výroba plastů - 
+Parní krakování (nezměněný výrobní postup)", "Výroba plastů - Parní krakování + CCS + CCS na konci životního cyklu", "Výroba plastů - Elektrické parní krakování + 
+CCS na konci životního cyklu", "Výroba plastů - Vstupní suroviny z biomasy". "Výrobu dusíkatých hnojiv" dělíme na "Výroba dusíkatých hnojiv - Parní reformace metanu 
+(SMR) pro výrobu čpavku", "Výroba dusíkatých hnojiv - Parní reformace metanu (SMR) s CCS" a "Výroba dusíkatých hnojiv - Elektrolýza vody". Konečně, sektor "Výroba 
+motorových dopravních prostředků" rozdělujeme na "Výroba motorových dopravních prostředků - Spalovací motor" a "Výroba motorových dopravních prostředků - Elektromobil: 
+Hybrid + Plug-in hybrid + Bateriový + Na palivové články".	
 
 
 Aktualizace dat o zaměstnanosti v detailně členěných sektorech
@@ -46,7 +25,7 @@ Aktualizace dat o zaměstnanosti v detailně členěných sektorech
 Původní data z databáze EXIOBASE v3.6 ohledně přímé intenzity zaměstnanosti (počtu zaměstnaných osob na MW instalované kapacity daného zdroje) u jednotlivých zdrojů
 energie v detailně členěných sektorech elektroenergetiky byla aktualizována a zpřesněna na základě porovnání údajů z ostatních zdrojů
 (např. Cameron and van der Zwaan, 2015; Ortega et al., 2020, 2015; Ram et al., 2020; Rutovitz et al., 2015). Důvodem byl nesoulad původních dat s drtivou většinou
-ostatních dostupných zdrojů. Adaptace spočívá v nahrazení intenzity zaměstnanosti (faktorů zaměstnanosti) z EXIOBASE v3.6 v modelovaných sektorech faktory zaměstnanosti
+ostatních dostupných zdrojů. Adaptace spočívá v nahrazení intenzity zaměstnanosti (faktorů zaměstnanosti) z EXIOBASE 3.6 v modelovaných sektorech faktory zaměstnanosti
 na jednotku instalované kapacity v MW uvedenými ve studiích (Ram et al., 2020; Rutovitz et al., 2015; SolarPower Europe, 2015) a jejich konverzi na počet pracovních míst
 na milion EUR (daného základního roku, tj. roku 2015) za pomoci dat ohledně instalované kapacity každého zdroje (členěno dle sektorů) dle dat Capros et al. (2016) a data
 ohledně nákladů (ceny) na MW instalované kapacity dle Carlsson et al. (2014) - pro neobnovitelné zdroje, solární termální energii, geotermální energii a přílivovou
