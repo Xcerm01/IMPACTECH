@@ -1,25 +1,21 @@
-Změny na vstupních datech databáze EXIOBASE v3.6
+Změny na vstupních datech databáze EXIOBASE 3.6
 
-Základní zdrojová databáze modelu EXIOBASE v3.6 je v režimu licence Attribution-ShareAlike 4.0 International (CC BY-SA 4.0), která nařizuje popsat sekvenci změn
+Základní zdrojová databáze modelu EXIOBASE 3.6 je v režimu licence Attribution-ShareAlike 4.0 International (CC BY-SA 4.0), která nařizuje popsat sekvenci změn
 uskutečněných na zdrojovém dokumentu. V souladu s tím níže popisujeme adaptace uskutečněné na vstupních datech ve verzi modelu IMPACTECH_CZ_decarb.
 
 
 Rozčlenění sektorů v elektroenergetice
 
-Oproti základní verzi databáze EXIOBASE 3.6 rozdělujeme "Výrobu elektřiny z větrné energie" na "Výrobu elektřiny z větrné energie onshore" a
-"Výrobu elektřiny z větrné energie offshore" a "Výrobu elektřiny ze solární fotovoltaiky" na "Výrobu elektřiny ze solární fotovoltaiky - velkoplošné" a
-"Výrobu elektřiny ze solární fotovoltaiky - maloplošné". Fotovoltaické elektrárny s instalovaným výkonem nad 1 MW klasifikujeme jako užitkové (velkoplošné) a pod 1 MW
-jako rezidenční (maloplošné).
+Rozdělujeme "Výrobu elektřiny z větrné energie" na "Výrobu elektřiny z větrné energie onshore" a "Výrobu elektřiny z větrné energie offshore". 
+"Výrobu elektřiny ze solární fotovoltaiky" dělíme na "Výrobu elektřiny ze solární fotovoltaiky - velkoplošné" a "Výrobu elektřiny ze solární fotovoltaiky - maloplošné". 
+Fotovoltaické elektrárny s instalovaným výkonem nad 1 MW klasifikujeme jako užitkové (velkoplošné) a pod 1 MW jako rezidenční (maloplošné).
 
-Podobným způsobem rozdělujeme další modelovaná odvětví. 
-Výroba oceli a železa
- 
- 
- 	Primární	Integrovaný mlýn (BF-BOF)	(Material Economics, 2019)
+Podobným způsobem rozdělujeme další modelovaná odvětví.
 
-	Primární	Přímá redukce vodíkem (H-DR)	
-	Primární	Redukce tavení pomocí CCS	
-	Sekundární (recyklovaná)	Elektrická oblouková pec (EAF)	
+"Výroba oceli a železa" je rozdělena na "Výroba oceli a železa - Integrovaný mlýn (BF-BOF)", 
+"Výroba oceli a železa - Přímá redukce vodíkem (H-DR)" a "Výroba oceli a železa - Redukce tavení pomocí CCS".
+
+
 Výroba cementu	Primární	Běžný portlandský cement (OPC)	(Material Economics, 2019, p. 185)
 
 	Primární	Elektrifikace pece + přímá separace (CCS)	
@@ -60,15 +56,14 @@ zemí (z týchž odborných zdrojů, citovaných výše) za využití indikativn
 (offshore) - Německo; Biomasa, bioplyn a odpad + Geotermální energie - Rakousko; Solární termální energie - Španělsko; Přílivová energie - Francie (vyznačeno kurzívou
 v tabulce níže).
 
-Podobným způsobem jsme přistoupili k nahrazení zaměstnaneckých účtů v ostatních modelovaných sektorech. K tomu využíváme data ČSÚ.
+Podobným způsobem jsme přistoupili k nahrazení zaměstnaneckých účtů v ostatních modelovaných sektorech. K tomu využíváme empirická data za rok 2015 poskytnutá 
+Českým statistickým úřadem (ČSÚ). Vzhledem k tomu, že údaje z ČSÚ postrádají podrobnost na úrovni stupňů kvalifikace a pohlaví, rozdělili jsme je do těchto kategorií 
+proporcionálně podle výchozích dat z EXIOBASE 3.6.
 
-Zaprvé se jednalo o nahrazení dat o zaměstnanosti v modelovaných odvětvích z EXIOBASE 3 o přesnější empirická data poskytnuty Českým statistickým úřadem (ČSÚ). Vzhledem k tomu, že vysoká sektorová úroveň detailu EXIOBASE 3 může na druhé straně vést k menší přesnosti dat na úrovni podrobně rozdělených sektorů (dané systémem rozdělování odvětví), přistoupili jsme k ověření zaměstnaneckých účtů v modelovaných odvětvích a jejich následnému nahrazení empirickými daty ČSÚ za rok 2020. Kromě sektoru výroby cementu se nejedná o zásadní rozdíly v datech, jak je zřejmé z Tabulky 7 níže. Vzhledem k tomu, že údaje z ČSÚ postrádají podrobnost na úrovni stupňů kvalifikace a pohlaví, rozdělili jsme je do těchto kategorií proporcionálně podle výchozích dat z EXIOBASE 3.
-
-Sektor (NACE rev.2 kód; EXIOBASE 3 kódy)	Zaměstnanost dle dat EXIOBASE 3 (počet fyzických osob), rok 2015	Zaměstnanost dle dat ČSÚ (počet osob), rok 2015
-Výroba surového železa, oceli a feroslitin, plochých výrobků (kromě pásky za studena), tváření výrobků za tepla (24.10; i27.a+i27.a.w)	14 798	23 419
-Výroba cementu, vápna a sádry (23.51 + 23.52; i26.d+i26.d.w)	12 078	2 052
-Výroba plastů v primárních formách (20.16; i24.a+i24.a.w)	171	5 085
-Výroba hnojiv a dusíkatých sloučenin (20.15; i24.b)	1 373	1 668
-Výroba motorových vozidel (kromě motocyklů), přívěsů a návěsů (29; i34)	167 447	225 287
-Tabulka 7: Porovnání zaměstnaneckých účtů z EXIOBASE 3 s daty ČSÚ (pozn. – data z ČSÚ jsou dále přepočtena na sektorové členění z EXIOBASE 3 pomocí celkového výstupu daného sektoru z EXIOBASE 3)
+Sektor (EXIOBASE 3.6 kódy)						Zaměstnanost dle EXIOBASE 3.6 (počet osob), rok 2015	Zaměstnanost dle ČSÚ (počet osob), rok 2015
+Výroba surového železa, oceli a feroslitin [...] (i27.a+i27.a.w)	14 798							23 419
+Výroba cementu, vápna a sádry (i26.d+i26.d.w)				12 078							2 052
+Výroba plastů v primárních formách (i24.a+i24.a.w)			171							5 085
+Výroba hnojiv a dusíkatých sloučenin (i24.b)				1 373							1 668
+Výroba motorových vozidel (kromě motocyklů), přívěsů a návěsů (i34)	167 447							225 287
 
