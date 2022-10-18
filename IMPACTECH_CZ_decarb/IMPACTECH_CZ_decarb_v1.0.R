@@ -59,6 +59,7 @@ respath <- "C:/Users/Cerny/Documents/Work/Models/IMPACTECH/results/" ## storage 
 # 0.2. Load original and adjusted EXIOBASE 3.6 data
 
 Q.codes <- read.csv(paste0(intpath,"Q.codes.csv"), header = TRUE, sep = ";", dec = ",")
+
 load(paste0(intpath,"IO_CZ.codes.RData"))
 load(paste0(intpath,"Y_CZ.codes.RData"))
 load(paste0(intpath,"Z_CZ.RData"))
@@ -66,9 +67,6 @@ load(paste0(intpath,"Y_CZ.RData"))
 load(paste0(intpath,"x2015_CZ.RData"))
 load(paste0(intpath,"x2015el_CZ.RData"))
 load(paste0(intpath,"x2015el_repl.RData"))
-load(paste0(intpath,"x2015fuel_CZ.RData"))
-load(paste0(intpath,"EUSTi24.d_CZ.RData"))
-load(paste0(intpath,"EUSTi40.2_CZ.RData"))
 load(paste0(intpath,"A_CZ.RData"))
 load(paste0(intpath,"E_CZ.RData"))
 load(paste0(intpath,"Q_CZ.codes.RData"))
