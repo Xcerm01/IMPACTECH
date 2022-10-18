@@ -1,0 +1,1708 @@
+Index;Stressor;Compartment;Unit;GWP
+1;Taxes less subsidies on products purchased: Total;Value.added;M.EUR;0
+2;Other net taxes on production;Value.added;M.EUR;0
+3;"Compensation of employees; wages, salaries, & employers' social contributions: Low-skilled";Value.added;M.EUR;0
+4;"Compensation of employees; wages, salaries, & employers' social contributions: Medium-skilled";Value.added;M.EUR;0
+5;"Compensation of employees; wages, salaries, & employers' social contributions: High-skilled";Value.added;M.EUR;0
+6;Operating surplus: Consumption of fixed capital;Value.added;M.EUR;0
+7;Operating surplus: Rents on land;Value.added;M.EUR;0
+8;Operating surplus: Royalties on resources;Value.added;M.EUR;0
+9;Operating surplus: Remaining net operating surplus;Value.added;M.EUR;0
+10;Employment: Low-skilled male;Employment.persons;1000 p;0
+11;Employment: Low-skilled female;Employment.persons;1000 p;0
+12;Employment: Medium-skilled male;Employment.persons;1000 p;0
+13;Employment: Medium-skilled female;Employment.persons;1000 p;0
+14;Employment: High-skilled male;Employment.persons;1000 p;0
+15;Employment: High-skilled female;Employment.persons;1000 p;0
+16;Employment hours: Low-skilled male;Employment.hours;M.hr;0
+17;Employment hours: Low-skilled female;Employment.hours;M.hr;0
+18;Employment hours: Medium-skilled male;Employment.hours;M.hr;0
+19;Employment hours: Medium-skilled female;Employment.hours;M.hr;0
+20;Employment hours: High-skilled male;Employment.hours;M.hr;0
+21;Employment hours: High-skilled female;Employment.hours;M.hr;0
+22;Employment: Vulnerable employment;Employment.persons;1000 p;0
+23;Employment hours: Vulnerable employment;Employment.hours;M.hr;0
+24;CO2 - combustion - air;Emissions;kg;1
+25;CH4 - combustion - air;Emissions;kg;25
+26;N2O - combustion - air;Emissions;kg;298
+27;SOx - combustion - air;Emissions;kg;0
+28;NOx - combustion - air;Emissions;kg;0
+29;NH3 - combustion - air;Emissions;kg;0
+30;CO - combustion - air;Emissions;kg;0
+31;Benzo(a)pyrene - combustion - air;Emissions;kg;0
+32;Benzo(b)fluoranthene - combustion - air;Emissions;kg;0
+33;Benzo(k)fluoranthene - combustion - air;Emissions;kg;0
+34;Indeno(1,2,3-cd)pyrene - combustion - air;Emissions;kg;0
+35;PCBs - combustion - air;Emissions;kg;0
+36;PCDD_F - combustion - air;Emissions;kg;0
+37;HCB - combustion - air;Emissions;kg;0
+38;NMVOC - combustion - air;Emissions;kg;0,045208277
+39;PM10 - combustion - air;Emissions;kg;0
+40;PM2.5 - combustion - air;Emissions;kg;0
+41;TSP - combustion - air;Emissions;kg;0
+42;As - combustion - air;Emissions;kg;0
+43;Cd - combustion - air;Emissions;kg;0
+44;Cr - combustion - air;Emissions;kg;0
+45;Cu - combustion - air;Emissions;kg;0
+46;Hg - combustion - air;Emissions;kg;0
+47;Ni - combustion - air;Emissions;kg;0
+48;Pb - combustion - air;Emissions;kg;0
+49;Se - combustion - air;Emissions;kg;0
+50;Zn - combustion - air;Emissions;kg;0
+51;As - non combustion - Agglomeration plant - pellets - air;Emissions;kg;0
+52;As - non combustion - Agglomeration plant - sinter - air;Emissions;kg;0
+53;As - non combustion - Glass production - air;Emissions;kg;0
+54;As - non combustion - Production of coke oven coke - air;Emissions;kg;0
+55;As - non combustion - Production of gascoke - air;Emissions;kg;0
+56;As - non combustion - Steel production: basic oxygen furnace - air;Emissions;kg;0
+57;As - non combustion - Steel production: electric arc furnace - air;Emissions;kg;0
+58;As - non combustion - Steel production: open hearth furnace - air;Emissions;kg;0
+59;B(a)P - non combustion - Primary aluminium production - air;Emissions;kg;0
+60;B(a)P - non combustion - Production of coke oven coke - air;Emissions;kg;0
+61;B(a)P - non combustion - Production of gascoke - air;Emissions;kg;0
+62;B(b)F - non combustion - Primary aluminium production - air;Emissions;kg;0
+63;B(b)F - non combustion - Production of coke oven coke - air;Emissions;kg;0
+64;B(b)F - non combustion - Production of gascoke - air;Emissions;kg;0
+65;B(k)F - non combustion - Primary aluminium production - air;Emissions;kg;0
+66;B(k)F - non combustion - Production of coke oven coke - air;Emissions;kg;0
+67;B(k)F - non combustion - Production of gascoke - air;Emissions;kg;0
+68;CH4 - non combustion - Extraction/production of (natural) gas - air;Emissions;kg;25
+69;CH4 - non combustion - Extraction/production of crude oil - air;Emissions;kg;25
+70;CH4 - non combustion - Mining of antracite - air;Emissions;kg;25
+71;CH4 - non combustion - Mining of bituminous coal - air;Emissions;kg;25
+72;CH4 - non combustion - Mining of coking coal - air;Emissions;kg;25
+73;CH4 - non combustion - Mining of lignite (brown coal) - air;Emissions;kg;25
+74;CH4 - non combustion - Mining of sub-bituminous coal - air;Emissions;kg;25
+75;CH4 - non combustion - Oil refinery - air;Emissions;kg;25
+76;CO - non combustion - Agglomeration plant - sinter - air;Emissions;kg;0
+77;CO - non combustion - Bricks production - air;Emissions;kg;0
+78;CO - non combustion - Carbon black production - air;Emissions;kg;0
+79;CO - non combustion - Cement production - air;Emissions;kg;0
+80;CO - non combustion - Chemical wood pulp, dissolving grades - air;Emissions;kg;0
+81;CO - non combustion - Chemical wood pulp, soda and sulphate, other than dissolving grades - air;Emissions;kg;0
+82;CO - non combustion - Chemical wood pulp, sulphite, other than dissolving grades - air;Emissions;kg;0
+83;CO - non combustion - Glass production - air;Emissions;kg;0
+84;CO - non combustion - Lime production - air;Emissions;kg;0
+85;CO - non combustion - Oil refinery - air;Emissions;kg;0
+86;CO - non combustion - Pig iron production, blast furnace - air;Emissions;kg;0
+87;CO - non combustion - Primary aluminium production - air;Emissions;kg;0
+88;CO - non combustion - Production of coke oven coke - air;Emissions;kg;0
+89;CO - non combustion - Production of gascoke - air;Emissions;kg;0
+90;CO - non combustion - Semi-chemical wood pulp, pulp of fibers other than wood - air;Emissions;kg;0
+91;CO - non combustion - Steel production: basic oxygen furnace - air;Emissions;kg;0
+92;CO - non combustion - Steel production: electric arc furnace - air;Emissions;kg;0
+93;CO2 - non combustion - Cement production - air;Emissions;kg;1
+94;CO2 - non combustion - Lime production - air;Emissions;kg;1
+95;Cd - non combustion - Agglomeration plant - pellets - air;Emissions;kg;0
+96;Cd - non combustion - Agglomeration plant - sinter - air;Emissions;kg;0
+97;Cd - non combustion - Glass production - air;Emissions;kg;0
+98;Cd - non combustion - Nickel, unwrought - air;Emissions;kg;0
+99;Cd - non combustion - Production of coke oven coke - air;Emissions;kg;0
+100;Cd - non combustion - Production of gascoke - air;Emissions;kg;0
+101;"Cd - non combustion - Refined copper; unwrought, not alloyed - air";Emissions;kg;0
+102;Cd - non combustion - Refined lead, unwrought - air;Emissions;kg;0
+103;Cd - non combustion - Steel production: basic oxygen furnace - air;Emissions;kg;0
+104;Cd - non combustion - Steel production: electric arc furnace - air;Emissions;kg;0
+105;Cd - non combustion - Steel production: open hearth furnace - air;Emissions;kg;0
+106;"Cd - non combustion - Unrefined copper; copper anodes for electrolytic refining - air";Emissions;kg;0
+107;Cd - non combustion - Zinc, unwrought, not alloyed - air;Emissions;kg;0
+108;Cr - non combustion - Agglomeration plant - pellets - air;Emissions;kg;0
+109;Cr - non combustion - Agglomeration plant - sinter - air;Emissions;kg;0
+110;Cr - non combustion - Glass production - air;Emissions;kg;0
+111;Cr - non combustion - Pig iron production, blast furnace - air;Emissions;kg;0
+112;Cr - non combustion - Steel production: basic oxygen furnace - air;Emissions;kg;0
+113;Cr - non combustion - Steel production: electric arc furnace - air;Emissions;kg;0
+114;Cr - non combustion - Steel production: open hearth furnace - air;Emissions;kg;0
+115;Cu - non combustion - Agglomeration plant - pellets - air;Emissions;kg;0
+116;Cu - non combustion - Agglomeration plant - sinter - air;Emissions;kg;0
+117;Cu - non combustion - Glass production - air;Emissions;kg;0
+118;Cu - non combustion - Pig iron production, blast furnace - air;Emissions;kg;0
+119;Cu - non combustion - Steel production: basic oxygen furnace - air;Emissions;kg;0
+120;Cu - non combustion - Steel production: electric arc furnace - air;Emissions;kg;0
+121;Cu - non combustion - Steel production: open hearth furnace - air;Emissions;kg;0
+122;HCB - non combustion - Agglomeration plant - pellets - air;Emissions;kg;0
+123;HCB - non combustion - Agglomeration plant - sinter - air;Emissions;kg;0
+124;Hg - non combustion - Agglomeration plant - pellets - air;Emissions;kg;0
+125;Hg - non combustion - Agglomeration plant - sinter - air;Emissions;kg;0
+126;Hg - non combustion - Glass production - air;Emissions;kg;0
+127;Hg - non combustion - Nickel, unwrought - air;Emissions;kg;0
+128;Hg - non combustion - Pig iron production, blast furnace - air;Emissions;kg;0
+129;Hg - non combustion - Production of coke oven coke - air;Emissions;kg;0
+130;Hg - non combustion - Production of gascoke - air;Emissions;kg;0
+131;"Hg - non combustion - Refined copper; unwrought, not alloyed - air";Emissions;kg;0
+132;Hg - non combustion - Refined lead, unwrought - air;Emissions;kg;0
+133;HCB - non combustion - Secondary aluminium production - air;Emissions;kg;0
+134;Hg - non combustion - Steel production: basic oxygen furnace - air;Emissions;kg;0
+135;Hg - non combustion - Steel production: electric arc furnace - air;Emissions;kg;0
+136;"Hg - non combustion - Unrefined copper; copper anodes for electrolytic refining - air";Emissions;kg;0
+137;Hg - non combustion - Zinc, unwrought, not alloyed - air;Emissions;kg;0
+138;Indeno - non combustion - Primary aluminium production - air;Emissions;kg;0
+139;Indeno - non combustion - Production of coke oven coke - air;Emissions;kg;0
+140;Indeno - non combustion - Production of gascoke - air;Emissions;kg;0
+141;NH3 - non combustion - N- fertilizer production - air;Emissions;kg;0
+142;NMVOC - non combustion - Beef and veal - air;Emissions;kg;0,045208277
+143;NMVOC - non combustion - Coil coating (coating of aluminum and steel) - air;Emissions;kg;0,045208277
+144;NMVOC - non combustion - Decorative paint applicatoin - air;Emissions;kg;0,045208277
+145;NMVOC - non combustion - Degreasing - air;Emissions;kg;0,045208277
+146;NMVOC - non combustion - Diesel distribution - transport and depots (used in mobile sources) - air;Emissions;kg;0,045208277
+147;NMVOC - non combustion - Diesel distribution - transport and depots (used in stationary sources) - air;Emissions;kg;0,045208277
+148;NMVOC - non combustion - Dry cleaning - air;Emissions;kg;0,045208277
+149;NMVOC - non combustion - Extraction, proc. and distribution of gaseous fuels - air;Emissions;kg;0,045208277
+150;NMVOC - non combustion - Extraction, proc. and distribution of liquid fuels - air;Emissions;kg;0,045208277
+151;NMVOC - non combustion - Extraction/production of (natural) gas - air;Emissions;kg;0,045208277
+152;NMVOC - non combustion - Extraction/production of crude oil - air;Emissions;kg;0,045208277
+153;NMVOC - non combustion - Fat, edible and non-edible oil extraction - air;Emissions;kg;0,045208277
+154;"NMVOC - non combustion - Fish, dried, salted or in brine; smoked fish; edible fish meal - air";Emissions;kg;0,045208277
+155;NMVOC - non combustion - Fish, fish fillets, other fish meat and fish livers and roes, frozen - air;Emissions;kg;0,045208277
+156;"NMVOC - non combustion - Fish, otherwise prepared or preserved; caviar - air";Emissions;kg;0,045208277
+157;NMVOC - non combustion - Flexography and rotogravure in packaging - air;Emissions;kg;0,045208277
+158;NMVOC - non combustion - Gasoline distribution - service stations - air;Emissions;kg;0,045208277
+159;NMVOC - non combustion - Gasoline distribution - transport and depots (used in mobile sources) - air;Emissions;kg;0,045208277
+160;NMVOC - non combustion - Gasoline distribution - transport and depots (used in stationary sources) - air;Emissions;kg;0,045208277
+161;NMVOC - non combustion - Industrial application of adhesives (use of high performance solvent based adhesives) - air;Emissions;kg;0,045208277
+162;NMVOC - non combustion - Industrial application of adhesives (use of traditional solvent based adhesives) - air;Emissions;kg;0,045208277
+163;NMVOC - non combustion - Industrial paint application, general industry (continuous processes) - air;Emissions;kg;0,045208277
+164;NMVOC - non combustion - Industrial paint application, general industry (plastic parts) - air;Emissions;kg;0,045208277
+165;NMVOC - non combustion - Industrial paint application, general industry - air;Emissions;kg;0,045208277
+166;NMVOC - non combustion - Inorganic chemical industry, fertilizers and other - air;Emissions;kg;0,045208277
+167;NMVOC - non combustion - Leather coating - air;Emissions;kg;0,045208277
+168;NMVOC - non combustion - Manufacture of automobiles - air;Emissions;kg;0,045208277
+169;NMVOC - non combustion - Mutton and lamb - air;Emissions;kg;0,045208277
+170;NMVOC - non combustion - Oil refinery - air;Emissions;kg;0,045208277
+171;NMVOC - non combustion - Organic chemical industry - downstream units - air;Emissions;kg;0,045208277
+172;NMVOC - non combustion - Organic chemical industry, storage - air;Emissions;kg;0,045208277
+173;NMVOC - non combustion - Other industrial use of solvents - air;Emissions;kg;0,045208277
+174;NMVOC - non combustion - Pharmaceutical industry - air;Emissions;kg;0,045208277
+175;NMVOC - non combustion - Polystyrene processing - air;Emissions;kg;0,045208277
+176;NMVOC - non combustion - Polyvinylchloride produceduction by suspension process - air;Emissions;kg;0,045208277
+177;NMVOC - non combustion - Pork - air;Emissions;kg;0,045208277
+178;NMVOC - non combustion - Poultry, dressed - air;Emissions;kg;0,045208277
+179;NMVOC - non combustion - Printing, offset - air;Emissions;kg;0,045208277
+180;NMVOC - non combustion - Products incorporating solvents - air;Emissions;kg;0,045208277
+181;NMVOC - non combustion - Raw sugar - air;Emissions;kg;0,045208277
+182;NMVOC - non combustion - Rotogravure in publication - air;Emissions;kg;0,045208277
+183;NMVOC - non combustion - Screen printing - air;Emissions;kg;0,045208277
+184;NMVOC - non combustion - Steam cracking (ethylene and propylene production) - air;Emissions;kg;0,045208277
+185;NMVOC - non combustion - Synthetic rubber - air;Emissions;kg;0,045208277
+186;NMVOC - non combustion - Tyre production - air;Emissions;kg;0,045208277
+187;NMVOC - non combustion - Vehicle refinishing - air;Emissions;kg;0,045208277
+188;NMVOC - non combustion - Wire coating - air;Emissions;kg;0,045208277
+189;NOx - non combustion - Agglomeration plant - pellets - air;Emissions;kg;0
+190;NOx - non combustion - Agglomeration plant - sinter - air;Emissions;kg;0
+191;NOx - non combustion - Bricks production - air;Emissions;kg;0
+192;NOx - non combustion - Cement production - air;Emissions;kg;0
+193;NOx - non combustion - Chemical wood pulp, dissolving grades - air;Emissions;kg;0
+194;NOx - non combustion - Chemical wood pulp, soda and sulphate, other than dissolving grades - air;Emissions;kg;0
+195;NOx - non combustion - Chemical wood pulp, sulphite, other than dissolving grades - air;Emissions;kg;0
+196;NOx - non combustion - Glass production - air;Emissions;kg;0
+197;NOx - non combustion - Lime production - air;Emissions;kg;0
+198;NOx - non combustion - Nickel, unwrought - air;Emissions;kg;0
+199;NOx - non combustion - Oil refinery - air;Emissions;kg;0
+200;NOx - non combustion - Pig iron production, blast furnace - air;Emissions;kg;0
+201;NOx - non combustion - Production of coke oven coke - air;Emissions;kg;0
+202;NOx - non combustion - Production of gascoke - air;Emissions;kg;0
+203;"NOx - non combustion - Refined copper; unwrought, not alloyed - air";Emissions;kg;0
+204;NOx - non combustion - Refined lead, unwrought - air;Emissions;kg;0
+205;NOx - non combustion - Semi-chemical wood pulp, pulp of fibers other than wood - air;Emissions;kg;0
+206;NOx - non combustion - Steel production: basic oxygen furnace - air;Emissions;kg;0
+207;NOx - non combustion - Steel production: electric arc furnace - air;Emissions;kg;0
+208;NOx - non combustion - Sulphuric acid production - air;Emissions;kg;0
+209;"NOx - non combustion - Unrefined copper; copper anodes for electrolytic refining - air";Emissions;kg;0
+210;NOx - non combustion - Zinc, unwrought, not alloyed - air;Emissions;kg;0
+211;Ni - non combustion - Agglomeration plant - pellets - air;Emissions;kg;0
+212;Ni - non combustion - Agglomeration plant - sinter - air;Emissions;kg;0
+213;Ni - non combustion - Glass production - air;Emissions;kg;0
+214;Ni - non combustion - Production of coke oven coke - air;Emissions;kg;0
+215;Ni - non combustion - Production of gascoke - air;Emissions;kg;0
+216;Ni - non combustion - Steel production: basic oxygen furnace - air;Emissions;kg;0
+217;Ni - non combustion - Steel production: electric arc furnace - air;Emissions;kg;0
+218;Ni - non combustion - Steel production: open hearth furnace - air;Emissions;kg;0
+219;PAH - non combustion - Agglomeration plant - pellets - air;Emissions;kg;0
+220;PAH - non combustion - Agglomeration plant - sinter - air;Emissions;kg;0
+221;PAH - non combustion - Pig iron production, blast furnace - air;Emissions;kg;0
+222;PAH - non combustion - Production of coke oven coke - air;Emissions;kg;0
+223;PAH - non combustion - Production of gascoke - air;Emissions;kg;0
+224;PAH - non combustion - Steel production: basic oxygen furnace - air;Emissions;kg;0
+225;PAH - non combustion - Steel production: electric arc furnace - air;Emissions;kg;0
+226;PCB - non combustion - Agglomeration plant - pellets - air;Emissions;kg;0
+227;PCB - non combustion - Agglomeration plant - sinter - air;Emissions;kg;0
+228;PCB - non combustion - Pig iron production, blast furnace - air;Emissions;kg;0
+229;PCB - non combustion - Steel production: basic oxygen furnace - air;Emissions;kg;0
+230;PCB - non combustion - Steel production: electric arc furnace - air;Emissions;kg;0
+231;PCDD/F - non combustion - Agglomeration plant - pellets - air;Emissions;kg;0
+232;PCDD/F - non combustion - Agglomeration plant - sinter - air;Emissions;kg;0
+233;PCDD/F - non combustion - Pig iron production, blast furnace - air;Emissions;kg;0
+234;PCDD/F - non combustion - Secondary aluminium production - air;Emissions;kg;0
+235;PCDD/F - non combustion - Steel production: basic oxygen furnace - air;Emissions;kg;0
+236;PCDD/F - non combustion - Steel production: electric arc furnace - air;Emissions;kg;0
+237;PM10 - non combustion - Agglomeration plant - pellets - air;Emissions;kg;0
+238;PM10 - non combustion - Agglomeration plant - sinter - air;Emissions;kg;0
+239;PM10 - non combustion - Aluminium ores and concentrates (Bauxite) - air;Emissions;kg;0
+240;PM10 - non combustion - Bricks production - air;Emissions;kg;0
+241;PM10 - non combustion - Briquettes production - air;Emissions;kg;0
+242;PM10 - non combustion - Carbon black production - air;Emissions;kg;0
+243;PM10 - non combustion - Cast iron production (grey iron foundries) - air;Emissions;kg;0
+244;PM10 - non combustion - Cement production - air;Emissions;kg;0
+245;PM10 - non combustion - Chemical wood pulp, dissolving grades - air;Emissions;kg;0
+246;PM10 - non combustion - Chemical wood pulp, soda and sulphate, other than dissolving grades - air;Emissions;kg;0
+247;PM10 - non combustion - Chemical wood pulp, sulphite, other than dissolving grades - air;Emissions;kg;0
+248;PM10 - non combustion - Chromium ores and concentrates - air;Emissions;kg;0
+249;PM10 - non combustion - Copper ores and concentrates - air;Emissions;kg;0
+250;PM10 - non combustion - Fertilizer production (N-fertilizer) - air;Emissions;kg;0
+251;PM10 - non combustion - Glass production - air;Emissions;kg;0
+252;PM10 - non combustion - Gold ores and concentrates - air;Emissions;kg;0
+253;PM10 - non combustion - Iron ores and concentrates - air;Emissions;kg;0
+254;PM10 - non combustion - Lead ores and concentrates - air;Emissions;kg;0
+255;PM10 - non combustion - Lime production - air;Emissions;kg;0
+256;PM10 - non combustion - Mining of antracite - air;Emissions;kg;0
+257;PM10 - non combustion - Mining of bituminous coal - air;Emissions;kg;0
+258;PM10 - non combustion - Mining of coking coal - air;Emissions;kg;0
+259;PM10 - non combustion - Mining of lignite (brown coal) - air;Emissions;kg;0
+260;PM10 - non combustion - Mining of sub-bituminous coal - air;Emissions;kg;0
+261;PM10 - non combustion - Molybdenum ores and concentrates - air;Emissions;kg;0
+262;PM10 - non combustion - N- fertilizer production - air;Emissions;kg;0
+263;PM10 - non combustion - Nickel ores and concentrates - air;Emissions;kg;0
+264;PM10 - non combustion - Nickel, unwrought - air;Emissions;kg;0
+265;PM10 - non combustion - Oil refinery - air;Emissions;kg;0
+266;PM10 - non combustion - Pig iron production, blast furnace - air;Emissions;kg;0
+267;PM10 - non combustion - Platinum ores and concentrates - air;Emissions;kg;0
+268;PM10 - non combustion - Primary aluminium production - air;Emissions;kg;0
+269;PM10 - non combustion - Production of coke oven coke - air;Emissions;kg;0
+270;PM10 - non combustion - Production of gascoke - air;Emissions;kg;0
+271;"PM10 - non combustion - Refined copper; unwrought, not alloyed - air";Emissions;kg;0
+272;PM10 - non combustion - Refined lead, unwrought - air;Emissions;kg;0
+273;PM10 - non combustion - Secondary aluminium production - air;Emissions;kg;0
+274;PM10 - non combustion - Semi-chemical wood pulp, pulp of fibers other than wood - air;Emissions;kg;0
+275;PM10 - non combustion - Silver ores and concentrates - air;Emissions;kg;0
+276;PM10 - non combustion - Steel production: basic oxygen furnace - air;Emissions;kg;0
+277;PM10 - non combustion - Steel production: electric arc furnace - air;Emissions;kg;0
+278;PM10 - non combustion - Steel production: open hearth furnace - air;Emissions;kg;0
+279;PM10 - non combustion - Tin ores and concentrates - air;Emissions;kg;0
+280;"PM10 - non combustion - Unrefined copper; copper anodes for electrolytic refining - air";Emissions;kg;0
+281;PM10 - non combustion - Zinc ores and concentrates - air;Emissions;kg;0
+282;PM10 - non combustion - Zinc, unwrought, not alloyed - air;Emissions;kg;0
+283;PM2.5 - non combustion - Agglomeration plant - pellets - air;Emissions;kg;0
+284;PM2.5 - non combustion - Agglomeration plant - sinter - air;Emissions;kg;0
+285;PM2.5 - non combustion - Aluminium ores and concentrates (Bauxite) - air;Emissions;kg;0
+286;PM2.5 - non combustion - Bricks production - air;Emissions;kg;0
+287;PM2.5 - non combustion - Briquettes production - air;Emissions;kg;0
+288;PM2.5 - non combustion - Carbon black production - air;Emissions;kg;0
+289;PM2.5 - non combustion - Cast iron production (grey iron foundries) - air;Emissions;kg;0
+290;PM2.5 - non combustion - Cement production - air;Emissions;kg;0
+291;PM2.5 - non combustion - Chemical wood pulp, dissolving grades - air;Emissions;kg;0
+292;PM2.5 - non combustion - Chemical wood pulp, soda and sulphate, other than dissolving grades - air;Emissions;kg;0
+293;PM2.5 - non combustion - Chemical wood pulp, sulphite, other than dissolving grades - air;Emissions;kg;0
+294;PM2.5 - non combustion - Chromium ores and concentrates - air;Emissions;kg;0
+295;PM2.5 - non combustion - Copper ores and concentrates - air;Emissions;kg;0
+296;PM2.5 - non combustion - Fertilizer production (N-fertilizer) - air;Emissions;kg;0
+297;PM2.5 - non combustion - Glass production - air;Emissions;kg;0
+298;PM2.5 - non combustion - Gold ores and concentrates - air;Emissions;kg;0
+299;PM2.5 - non combustion - Iron ores and concentrates - air;Emissions;kg;0
+300;PM2.5 - non combustion - Lead ores and concentrates - air;Emissions;kg;0
+301;PM2.5 - non combustion - Lime production - air;Emissions;kg;0
+302;PM2.5 - non combustion - Mining of antracite - air;Emissions;kg;0
+303;PM2.5 - non combustion - Mining of bituminous coal - air;Emissions;kg;0
+304;PM2.5 - non combustion - Mining of coking coal - air;Emissions;kg;0
+305;PM2.5 - non combustion - Mining of lignite (brown coal) - air;Emissions;kg;0
+306;PM2.5 - non combustion - Mining of sub-bituminous coal - air;Emissions;kg;0
+307;PM2.5 - non combustion - Molybdenum ores and concentrates - air;Emissions;kg;0
+308;PM2.5 - non combustion - N- fertilizer production - air;Emissions;kg;0
+309;PM2.5 - non combustion - Nickel ores and concentrates - air;Emissions;kg;0
+310;PM2.5 - non combustion - Nickel, unwrought - air;Emissions;kg;0
+311;PM2.5 - non combustion - Oil refinery - air;Emissions;kg;0
+312;PM2.5 - non combustion - Pig iron production, blast furnace - air;Emissions;kg;0
+313;PM2.5 - non combustion - Platinum ores and concentrates - air;Emissions;kg;0
+314;PM2.5 - non combustion - Primary aluminium production - air;Emissions;kg;0
+315;PM2.5 - non combustion - Production of coke oven coke - air;Emissions;kg;0
+316;PM2.5 - non combustion - Production of gascoke - air;Emissions;kg;0
+317;"PM2.5 - non combustion - Refined copper; unwrought, not alloyed - air";Emissions;kg;0
+318;PM2.5 - non combustion - Refined lead, unwrought - air;Emissions;kg;0
+319;PM2.5 - non combustion - Secondary aluminium production - air;Emissions;kg;0
+320;PM2.5 - non combustion - Semi-chemical wood pulp, pulp of fibers other than wood - air;Emissions;kg;0
+321;PM2.5 - non combustion - Silver ores and concentrates - air;Emissions;kg;0
+322;PM2.5 - non combustion - Steel production: basic oxygen furnace - air;Emissions;kg;0
+323;PM2.5 - non combustion - Steel production: electric arc furnace - air;Emissions;kg;0
+324;PM2.5 - non combustion - Steel production: open hearth furnace - air;Emissions;kg;0
+325;PM2.5 - non combustion - Tin ores and concentrates - air;Emissions;kg;0
+326;"PM2.5 - non combustion - Unrefined copper; copper anodes for electrolytic refining - air";Emissions;kg;0
+327;PM2.5 - non combustion - Zinc ores and concentrates - air;Emissions;kg;0
+328;PM2.5 - non combustion - Zinc, unwrought, not alloyed - air;Emissions;kg;0
+329;Pb - non combustion - Agglomeration plant - pellets - air;Emissions;kg;0
+330;Pb - non combustion - Agglomeration plant - sinter - air;Emissions;kg;0
+331;Pb - non combustion - Glass production - air;Emissions;kg;0
+332;Pb - non combustion - Nickel, unwrought - air;Emissions;kg;0
+333;Pb - non combustion - Pig iron production, blast furnace - air;Emissions;kg;0
+334;Pb - non combustion - Production of coke oven coke - air;Emissions;kg;0
+335;Pb - non combustion - Production of gascoke - air;Emissions;kg;0
+336;"Pb - non combustion - Refined copper; unwrought, not alloyed - air";Emissions;kg;0
+337;Pb - non combustion - Refined lead, unwrought - air;Emissions;kg;0
+338;Pb - non combustion - Steel production: basic oxygen furnace - air;Emissions;kg;0
+339;Pb - non combustion - Steel production: electric arc furnace - air;Emissions;kg;0
+340;Pb - non combustion - Steel production: open hearth furnace - air;Emissions;kg;0
+341;"Pb - non combustion - Unrefined copper; copper anodes for electrolytic refining - air";Emissions;kg;0
+342;Pb - non combustion - Zinc, unwrought, not alloyed - air;Emissions;kg;0
+343;SOx - non combustion - Agglomeration plant - sinter - air;Emissions;kg;0
+344;SOx - non combustion - Bricks production - air;Emissions;kg;0
+345;SOx - non combustion - Cement production - air;Emissions;kg;0
+346;SOx - non combustion - Chemical wood pulp, dissolving grades - air;Emissions;kg;0
+347;SOx - non combustion - Chemical wood pulp, soda and sulphate, other than dissolving grades - air;Emissions;kg;0
+348;SOx - non combustion - Chemical wood pulp, sulphite, other than dissolving grades - air;Emissions;kg;0
+349;SOx - non combustion - Glass production - air;Emissions;kg;0
+350;SOx - non combustion - Lime production - air;Emissions;kg;0
+351;SOx - non combustion - Nickel, unwrought - air;Emissions;kg;0
+352;SOx - non combustion - Oil refinery - air;Emissions;kg;0
+353;SOx - non combustion - Pig iron production, blast furnace - air;Emissions;kg;0
+354;SOx - non combustion - Production of coke oven coke - air;Emissions;kg;0
+355;SOx - non combustion - Production of gascoke - air;Emissions;kg;0
+356;"SOx - non combustion - Refined copper; unwrought, not alloyed - air";Emissions;kg;0
+357;SOx - non combustion - Refined lead, unwrought - air;Emissions;kg;0
+358;SOx - non combustion - Semi-chemical wood pulp, pulp of fibers other than wood - air;Emissions;kg;0
+359;SOx - non combustion - Sulphuric acid production - air;Emissions;kg;0
+360;"SOx - non combustion - Unrefined copper; copper anodes for electrolytic refining - air";Emissions;kg;0
+361;SOx - non combustion - Zinc, unwrought, not alloyed - air;Emissions;kg;0
+362;Se - non combustion - Agglomeration plant - pellets - air;Emissions;kg;0
+363;Se - non combustion - Agglomeration plant - sinter - air;Emissions;kg;0
+364;Se - non combustion - Glass production - air;Emissions;kg;0
+365;Se - non combustion - Steel production: basic oxygen furnace - air;Emissions;kg;0
+366;TSP - non combustion - Agglomeration plant - pellets - air;Emissions;kg;0
+367;TSP - non combustion - Agglomeration plant - sinter - air;Emissions;kg;0
+368;TSP - non combustion - Aluminium ores and concentrates (Bauxite) - air;Emissions;kg;0
+369;TSP - non combustion - Bricks production - air;Emissions;kg;0
+370;TSP - non combustion - Briquettes production - air;Emissions;kg;0
+371;TSP - non combustion - Carbon black production - air;Emissions;kg;0
+372;TSP - non combustion - Cast iron production (grey iron foundries) - air;Emissions;kg;0
+373;TSP - non combustion - Cement production - air;Emissions;kg;0
+374;TSP - non combustion - Chemical wood pulp, dissolving grades - air;Emissions;kg;0
+375;TSP - non combustion - Chemical wood pulp, soda and sulphate, other than dissolving grades - air;Emissions;kg;0
+376;TSP - non combustion - Chemical wood pulp, sulphite, other than dissolving grades - air;Emissions;kg;0
+377;TSP - non combustion - Chromium ores and concentrates - air;Emissions;kg;0
+378;TSP - non combustion - Copper ores and concentrates - air;Emissions;kg;0
+379;TSP - non combustion - Fertilizer production (N-fertilizer) - air;Emissions;kg;0
+380;TSP - non combustion - Glass production - air;Emissions;kg;0
+381;TSP - non combustion - Gold ores and concentrates - air;Emissions;kg;0
+382;TSP - non combustion - Iron ores and concentrates - air;Emissions;kg;0
+383;TSP - non combustion - Lead ores and concentrates - air;Emissions;kg;0
+384;TSP - non combustion - Lime production - air;Emissions;kg;0
+385;TSP - non combustion - Mining of antracite - air;Emissions;kg;0
+386;TSP - non combustion - Mining of bituminous coal - air;Emissions;kg;0
+387;TSP - non combustion - Mining of coking coal - air;Emissions;kg;0
+388;TSP - non combustion - Mining of lignite (brown coal) - air;Emissions;kg;0
+389;TSP - non combustion - Mining of sub-bituminous coal - air;Emissions;kg;0
+390;TSP - non combustion - Molybdenum ores and concentrates - air;Emissions;kg;0
+391;TSP - non combustion - N- fertilizer production - air;Emissions;kg;0
+392;TSP - non combustion - Nickel ores and concentrates - air;Emissions;kg;0
+393;TSP - non combustion - Nickel, unwrought - air;Emissions;kg;0
+394;TSP - non combustion - Oil refinery - air;Emissions;kg;0
+395;TSP - non combustion - Pig iron production, blast furnace - air;Emissions;kg;0
+396;TSP - non combustion - Platinum ores and concentrates - air;Emissions;kg;0
+397;TSP - non combustion - Primary aluminium production - air;Emissions;kg;0
+398;TSP - non combustion - Production of coke oven coke - air;Emissions;kg;0
+399;TSP - non combustion - Production of gascoke - air;Emissions;kg;0
+400;"TSP - non combustion - Refined copper; unwrought, not alloyed - air";Emissions;kg;0
+401;TSP - non combustion - Refined lead, unwrought - air;Emissions;kg;0
+402;TSP - non combustion - Secondary aluminium production - air;Emissions;kg;0
+403;TSP - non combustion - Semi-chemical wood pulp, pulp of fibers other than wood - air;Emissions;kg;0
+404;TSP - non combustion - Silver ores and concentrates - air;Emissions;kg;0
+405;TSP - non combustion - Steel production: basic oxygen furnace - air;Emissions;kg;0
+406;TSP - non combustion - Steel production: electric arc furnace - air;Emissions;kg;0
+407;TSP - non combustion - Steel production: open hearth furnace - air;Emissions;kg;0
+408;TSP - non combustion - Tin ores and concentrates - air;Emissions;kg;0
+409;"TSP - non combustion - Unrefined copper; copper anodes for electrolytic refining - air";Emissions;kg;0
+410;TSP - non combustion - Zinc ores and concentrates - air;Emissions;kg;0
+411;TSP - non combustion - Zinc, unwrought, not alloyed - air;Emissions;kg;0
+412;Zn - non combustion - Agglomeration plant - pellets - air;Emissions;kg;0
+413;Zn - non combustion - Agglomeration plant - sinter - air;Emissions;kg;0
+414;Zn - non combustion - Glass production - air;Emissions;kg;0
+415;Zn - non combustion - Nickel, unwrought - air;Emissions;kg;0
+416;Zn - non combustion - Pig iron production, blast furnace - air;Emissions;kg;0
+417;"Zn - non combustion - Refined copper; unwrought, not alloyed - air";Emissions;kg;0
+418;Zn - non combustion - Refined lead, unwrought - air;Emissions;kg;0
+419;Zn - non combustion - Steel production: basic oxygen furnace - air;Emissions;kg;0
+420;Zn - non combustion - Steel production: electric arc furnace - air;Emissions;kg;0
+421;Zn - non combustion - Steel production: open hearth furnace - air;Emissions;kg;0
+422;"Zn - non combustion - Unrefined copper; copper anodes for electrolytic refining - air";Emissions;kg;0
+423;Zn - non combustion - Zinc, unwrought, not alloyed - air;Emissions;kg;0
+424;SF6 - air;Emissions;kg;22800
+425;HFC - air;Emissions;kg CO2-eq;1
+426;PFC - air;Emissions;kg CO2-eq;1
+427;CH4 - agriculture - air;Emissions;kg;25
+428;CO2 - agriculture - peat decay - air;Emissions;kg;0
+429;N - agriculture - water;Emissions;kg;0
+430;N2O - agriculture - air;Emissions;kg;298
+431;NH3 - agriculture - air;Emissions;kg;0
+432;NOX - agriculture - air;Emissions;kg;0
+433;P - agriculture - soil;Emissions;kg;0
+434;P - agriculture - water;Emissions;kg;0
+435;Pxx - agriculture - soil;Emissions;kg;0
+436;CH4 - waste - air;Emissions;kg;25
+437;CO - waste - air;Emissions;kg;0
+438;CO2 - waste - biogenic - air;Emissions;kg;1
+439;CO2 - waste - fossil - air;Emissions;kg;1
+440;Emissions nec - waste - undef;Emissions;kg;0
+441;N - waste - water;Emissions;kg;0
+442;NH3 - waste - air;Emissions;kg;0
+443;NOX - waste - air;Emissions;kg;0
+444;P - waste - water;Emissions;kg;0
+445;PM2.5 - waste - air;Emissions;kg;0
+446;SOx - waste - air;Emissions;kg;0
+447;Cropland - Cereal grains nec;Land;km2;0
+448;Cropland - Crops nec;Land;km2;0
+449;Cropland - Fodder crops-Cattle;Land;km2;0
+450;Cropland - Fodder crops-Meat animals nec;Land;km2;0
+451;Cropland - Fodder crops-Pigs;Land;km2;0
+452;Cropland - Fodder crops-Poultry;Land;km2;0
+453;Cropland - Fodder crops-Raw milk;Land;km2;0
+454;Cropland - Oil seeds;Land;km2;0
+455;Cropland - Paddy rice;Land;km2;0
+456;Cropland - Plant-based fibers;Land;km2;0
+457;Cropland - Sugar cane, sugar beet;Land;km2;0
+458;Cropland - Vegetables, fruit, nuts;Land;km2;0
+459;Cropland - Wheat;Land;km2;0
+460;Forest area - Forestry;Land;km2;0
+461;Other land - Grazing-Cattle;Land;km2;0
+462;Other land - Grazing-Meat animals nec;Land;km2;0
+463;Other land - Grazing-Raw milk;Land;km2;0
+464;Other land - Wood fuel;Land;km2;0
+465;Permanent pastures - Grazing-Cattle;Land;km2;0
+466;Permanent pastures - Grazing-Meat animals nec;Land;km2;0
+467;Permanent pastures - Grazing-Raw milk;Land;km2;0
+468;Infrastructure land;Land;km2;0
+469;Forest area - Marginal use;Land;km2;0
+470;Other land - Grazing;Land;km2;0
+471;Other land - Marginal use;Land;km2;0
+472;Nature Inputs: Anthracite;Nature.inputs;TJ;0
+473;Nature Inputs: Coking Coal;Nature.inputs;TJ;0
+474;Nature Inputs: Other Bituminous Coal;Nature.inputs;TJ;0
+475;Nature Inputs: Sub-Bituminous Coal;Nature.inputs;TJ;0
+476;Nature Inputs: Lignite/Brown Coal;Nature.inputs;TJ;0
+477;Nature Inputs: Peat;Nature.inputs;TJ;0
+478;Nature Inputs: Crude petroleum and services related to crude oil extraction, excluding surveying;Nature.inputs;TJ;0
+479;Nature Inputs: Natural gas and services related to natural gas extraction, excluding surveying;Nature.inputs;TJ;0
+480;Nature Inputs: Natural Gas Liquids;Nature.inputs;TJ;0
+481;Nature Inputs: Other Hydrocarbons;Nature.inputs;TJ;0
+482;Nature Inputs: Uranium and thorium ores (12);Nature.inputs;TJ;0
+483;Nature Inputs: Electricity by hydro;Nature.inputs;TJ;0
+484;Nature Inputs: Electricity by wind;Nature.inputs;TJ;0
+485;Nature Inputs: Electricity by solar photovoltaic;Nature.inputs;TJ;0
+486;Nature Inputs: Electricity by solar thermal;Nature.inputs;TJ;0
+487;Nature Inputs: Electricity by tide, wave, ocean;Nature.inputs;TJ;0
+488;Nature Inputs: Electricity by Geothermal;Nature.inputs;TJ;0
+489;Nature Inputs: Energy inputs to cultiavted biomass;Nature.inputs;TJ;0
+490;Nature Inputs: Other sources;Nature.inputs;TJ;0
+491;Emission Relevant Energy Carrier Anthracite;Emission.energy;TJ;0
+492;Emission Relevant Energy Carrier Aviation Gasoline;Emission.energy;TJ;0
+493;Emission Relevant Energy Carrier BKB/Peat Briquettes;Emission.energy;TJ;0
+494;Emission Relevant Energy Carrier Biodiesels;Emission.energy;TJ;0
+495;Emission Relevant Energy Carrier Biogas;Emission.energy;TJ;0
+496;Emission Relevant Energy Carrier Biogasoline;Emission.energy;TJ;0
+497;Emission Relevant Energy Carrier Bitumen;Emission.energy;TJ;0
+498;Emission Relevant Energy Carrier Blast Furnace Gas;Emission.energy;TJ;0
+499;Emission Relevant Energy Carrier Charcoal;Emission.energy;TJ;0
+500;Emission Relevant Energy Carrier Coal Tar;Emission.energy;TJ;0
+501;Emission Relevant Energy Carrier Coke Oven Coke;Emission.energy;TJ;0
+502;Emission Relevant Energy Carrier Coke oven gas;Emission.energy;TJ;0
+503;Emission Relevant Energy Carrier Coking Coal;Emission.energy;TJ;0
+504;Emission Relevant Energy Carrier Crops nec;Emission.energy;TJ;0
+505;Emission Relevant Energy Carrier Crude petroleum and services related to crude oil extraction, excluding surveying;Emission.energy;TJ;0
+506;Emission Relevant Energy Carrier Ethane;Emission.energy;TJ;0
+507;Emission Relevant Energy Carrier Food products nec;Emission.energy;TJ;0
+508;Emission Relevant Energy Carrier Food waste for treatment: incineration;Emission.energy;TJ;0
+509;Emission Relevant Energy Carrier Gas Coke;Emission.energy;TJ;0
+510;Emission Relevant Energy Carrier Gas Works Gas;Emission.energy;TJ;0
+511;Emission Relevant Energy Carrier Gas/Diesel Oil;Emission.energy;TJ;0
+512;Emission Relevant Energy Carrier Gasoline Type Jet Fuel;Emission.energy;TJ;0
+513;Emission Relevant Energy Carrier Heavy Fuel Oil;Emission.energy;TJ;0
+514;Emission Relevant Energy Carrier Intert/metal waste for treatment: incineration;Emission.energy;TJ;0
+515;Emission Relevant Energy Carrier Kerosene;Emission.energy;TJ;0
+516;Emission Relevant Energy Carrier Kerosene Type Jet Fuel;Emission.energy;TJ;0
+517;Emission Relevant Energy Carrier Lignite/Brown Coal;Emission.energy;TJ;0
+518;Emission Relevant Energy Carrier Liquefied Petroleum Gases (LPG);Emission.energy;TJ;0
+519;Emission Relevant Energy Carrier Lubricants;Emission.energy;TJ;0
+520;Emission Relevant Energy Carrier Manure (biogas treatment);Emission.energy;TJ;0
+521;Emission Relevant Energy Carrier Manure (conventional treatment);Emission.energy;TJ;0
+522;Emission Relevant Energy Carrier Motor Gasoline;Emission.energy;TJ;0
+523;Emission Relevant Energy Carrier Naphtha;Emission.energy;TJ;0
+524;Emission Relevant Energy Carrier Natural Gas Liquids;Emission.energy;TJ;0
+525;Emission Relevant Energy Carrier Natural gas and services related to natural gas extraction, excluding surveying;Emission.energy;TJ;0
+526;Emission Relevant Energy Carrier Non-specified Petroleum Products;Emission.energy;TJ;0
+527;Emission Relevant Energy Carrier Oil/hazardous waste for treatment: incineration;Emission.energy;TJ;0
+528;Emission Relevant Energy Carrier Other Bituminous Coal;Emission.energy;TJ;0
+529;Emission Relevant Energy Carrier Other Hydrocarbons;Emission.energy;TJ;0
+530;Emission Relevant Energy Carrier Other Liquid Biofuels;Emission.energy;TJ;0
+531;Emission Relevant Energy Carrier Oxygen Steel Furnace Gas;Emission.energy;TJ;0
+532;Emission Relevant Energy Carrier Paper waste for treatment: incineration;Emission.energy;TJ;0
+533;Emission Relevant Energy Carrier Patent Fuel;Emission.energy;TJ;0
+534;Emission Relevant Energy Carrier Peat;Emission.energy;TJ;0
+535;Emission Relevant Energy Carrier Petroleum Coke;Emission.energy;TJ;0
+536;Emission Relevant Energy Carrier Plastic waste for treatment: incineration;Emission.energy;TJ;0
+537;Emission Relevant Energy Carrier Products of forestry, logging and related services (02);Emission.energy;TJ;0
+538;Emission Relevant Energy Carrier Pulp;Emission.energy;TJ;0
+539;Emission Relevant Energy Carrier Refinery Gas;Emission.energy;TJ;0
+540;Emission Relevant Energy Carrier Secondary paper for treatment, Re-processing of secondary paper into new pulp;Emission.energy;TJ;0
+541;Emission Relevant Energy Carrier Sub-Bituminous Coal;Emission.energy;TJ;0
+542;Emission Relevant Energy Carrier Sugar;Emission.energy;TJ;0
+543;Emission Relevant Energy Carrier Textiles waste for treatment: incineration;Emission.energy;TJ;0
+544;Emission Relevant Energy Carrier White Spirit & SBP;Emission.energy;TJ;0
+545;Emission Relevant Energy Carrier Wood material for treatment, Re-processing of secondary wood material into new wood material;Emission.energy;TJ;0
+546;Emission Relevant Energy Carrier Wood waste for treatment: incineration;Emission.energy;TJ;0
+547;Energy Carrier Supply Additives/Blending Components;Energy.supply;TJ;0
+548;Energy Carrier Supply Anthracite;Energy.supply;TJ;0
+549;Energy Carrier Supply Aviation Gasoline;Energy.supply;TJ;0
+550;Energy Carrier Supply BKB/Peat Briquettes;Energy.supply;TJ;0
+551;Energy Carrier Supply Biodiesels;Energy.supply;TJ;0
+552;Energy Carrier Supply Biogas;Energy.supply;TJ;0
+553;Energy Carrier Supply Biogasoline;Energy.supply;TJ;0
+554;Energy Carrier Supply Bitumen;Energy.supply;TJ;0
+555;Energy Carrier Supply Blast Furnace Gas;Energy.supply;TJ;0
+556;Energy Carrier Supply Charcoal;Energy.supply;TJ;0
+557;Energy Carrier Supply Coal Tar;Energy.supply;TJ;0
+558;Energy Carrier Supply Coke Oven Coke;Energy.supply;TJ;0
+559;Energy Carrier Supply Coke oven gas;Energy.supply;TJ;0
+560;Energy Carrier Supply Coking Coal;Energy.supply;TJ;0
+561;Energy Carrier Supply Crops nec;Energy.supply;TJ;0
+562;Energy Carrier Supply Crude petroleum and services related to crude oil extraction, excluding surveying;Energy.supply;TJ;0
+563;Energy Carrier Supply Electricity by Geothermal;Energy.supply;TJ;0
+564;Energy Carrier Supply Electricity by biomass and waste;Energy.supply;TJ;0
+565;Energy Carrier Supply Electricity by coal;Energy.supply;TJ;0
+566;Energy Carrier Supply Electricity by gas;Energy.supply;TJ;0
+567;Energy Carrier Supply Electricity by hydro;Energy.supply;TJ;0
+568;Energy Carrier Supply Electricity by nuclear;Energy.supply;TJ;0
+569;Energy Carrier Supply Electricity by petroleum and other oil derivatives;Energy.supply;TJ;0
+570;Energy Carrier Supply Electricity by solar photovoltaic;Energy.supply;TJ;0
+571;Energy Carrier Supply Electricity by solar thermal;Energy.supply;TJ;0
+572;Energy Carrier Supply Electricity by tide, wave, ocean;Energy.supply;TJ;0
+573;Energy Carrier Supply Electricity by wind;Energy.supply;TJ;0
+574;Energy Carrier Supply Electricity nec;Energy.supply;TJ;0
+575;Energy Carrier Supply Ethane;Energy.supply;TJ;0
+576;Energy Carrier Supply Food products nec;Energy.supply;TJ;0
+577;Energy Carrier Supply Food waste for treatment: incineration;Energy.supply;TJ;0
+578;Energy Carrier Supply Gas Coke;Energy.supply;TJ;0
+579;Energy Carrier Supply Gas Works Gas;Energy.supply;TJ;0
+580;Energy Carrier Supply Gas/Diesel Oil;Energy.supply;TJ;0
+581;Energy Carrier Supply Gasoline Type Jet Fuel;Energy.supply;TJ;0
+582;Energy Carrier Supply Heavy Fuel Oil;Energy.supply;TJ;0
+583;Energy Carrier Supply Intert/metal waste for treatment: incineration;Energy.supply;TJ;0
+584;Energy Carrier Supply Kerosene;Energy.supply;TJ;0
+585;Energy Carrier Supply Kerosene Type Jet Fuel;Energy.supply;TJ;0
+586;Energy Carrier Supply Lignite/Brown Coal;Energy.supply;TJ;0
+587;Energy Carrier Supply Liquefied Petroleum Gases (LPG);Energy.supply;TJ;0
+588;Energy Carrier Supply Lubricants;Energy.supply;TJ;0
+589;Energy Carrier Supply Manure (biogas treatment);Energy.supply;TJ;0
+590;Energy Carrier Supply Manure (conventional treatment);Energy.supply;TJ;0
+591;Energy Carrier Supply Motor Gasoline;Energy.supply;TJ;0
+592;Energy Carrier Supply Naphtha;Energy.supply;TJ;0
+593;Energy Carrier Supply Natural Gas Liquids;Energy.supply;TJ;0
+594;Energy Carrier Supply Natural gas and services related to natural gas extraction, excluding surveying;Energy.supply;TJ;0
+595;Energy Carrier Supply Non-specified Petroleum Products;Energy.supply;TJ;0
+596;Energy Carrier Supply Nuclear fuel;Energy.supply;TJ;0
+597;Energy Carrier Supply Oil/hazardous waste for treatment: incineration;Energy.supply;TJ;0
+598;Energy Carrier Supply Other Bituminous Coal;Energy.supply;TJ;0
+599;Energy Carrier Supply Other Hydrocarbons;Energy.supply;TJ;0
+600;Energy Carrier Supply Other Liquid Biofuels;Energy.supply;TJ;0
+601;Energy Carrier Supply Oxygen Steel Furnace Gas;Energy.supply;TJ;0
+602;Energy Carrier Supply Paper waste for treatment: incineration;Energy.supply;TJ;0
+603;Energy Carrier Supply Paraffin Waxes;Energy.supply;TJ;0
+604;Energy Carrier Supply Patent Fuel;Energy.supply;TJ;0
+605;Energy Carrier Supply Peat;Energy.supply;TJ;0
+606;Energy Carrier Supply Petroleum Coke;Energy.supply;TJ;0
+607;Energy Carrier Supply Plastic waste for treatment: incineration;Energy.supply;TJ;0
+608;Energy Carrier Supply Products of forestry, logging and related services (02);Energy.supply;TJ;0
+609;Energy Carrier Supply Pulp;Energy.supply;TJ;0
+610;Energy Carrier Supply Refinery Feedstocks;Energy.supply;TJ;0
+611;Energy Carrier Supply Refinery Gas;Energy.supply;TJ;0
+612;Energy Carrier Supply Secondary paper for treatment, Re-processing of secondary paper into new pulp;Energy.supply;TJ;0
+613;Energy Carrier Supply Steam and hot water supply services;Energy.supply;TJ;0
+614;Energy Carrier Supply Sub-Bituminous Coal;Energy.supply;TJ;0
+615;Energy Carrier Supply Sugar;Energy.supply;TJ;0
+616;Energy Carrier Supply Textiles waste for treatment: incineration;Energy.supply;TJ;0
+617;Energy Carrier Supply Uranium and thorium ores (12);Energy.supply;TJ;0
+618;Energy Carrier Supply White Spirit & SBP;Energy.supply;TJ;0
+619;Energy Carrier Supply Wood material for treatment, Re-processing of secondary wood material into new wood material;Energy.supply;TJ;0
+620;Energy Carrier Supply Wood waste for treatment: incineration;Energy.supply;TJ;0
+621;Energy Carrier Use Additives/Blending Components;Energy.use;TJ;0
+622;Energy Carrier Use Anthracite;Energy.use;TJ;0
+623;Energy Carrier Use Aviation Gasoline;Energy.use;TJ;0
+624;Energy Carrier Use BKB/Peat Briquettes;Energy.use;TJ;0
+625;Energy Carrier Use Biodiesels;Energy.use;TJ;0
+626;Energy Carrier Use Biogas;Energy.use;TJ;0
+627;Energy Carrier Use Biogasoline;Energy.use;TJ;0
+628;Energy Carrier Use Bitumen;Energy.use;TJ;0
+629;Energy Carrier Use Blast Furnace Gas;Energy.use;TJ;0
+630;Energy Carrier Use Charcoal;Energy.use;TJ;0
+631;Energy Carrier Use Coal Tar;Energy.use;TJ;0
+632;Energy Carrier Use Coke Oven Coke;Energy.use;TJ;0
+633;Energy Carrier Use Coke oven gas;Energy.use;TJ;0
+634;Energy Carrier Use Coking Coal;Energy.use;TJ;0
+635;Energy Carrier Use Crops nec;Energy.use;TJ;0
+636;Energy Carrier Use Crude petroleum and services related to crude oil extraction, excluding surveying;Energy.use;TJ;0
+637;Energy Carrier Use Electricity by Geothermal;Energy.use;TJ;0
+638;Energy Carrier Use Electricity by biomass and waste;Energy.use;TJ;0
+639;Energy Carrier Use Electricity by coal;Energy.use;TJ;0
+640;Energy Carrier Use Electricity by gas;Energy.use;TJ;0
+641;Energy Carrier Use Electricity by hydro;Energy.use;TJ;0
+642;Energy Carrier Use Electricity by nuclear;Energy.use;TJ;0
+643;Energy Carrier Use Electricity by petroleum and other oil derivatives;Energy.use;TJ;0
+644;Energy Carrier Use Electricity by solar photovoltaic;Energy.use;TJ;0
+645;Energy Carrier Use Electricity by solar thermal;Energy.use;TJ;0
+646;Energy Carrier Use Electricity by tide, wave, ocean;Energy.use;TJ;0
+647;Energy Carrier Use Electricity by wind;Energy.use;TJ;0
+648;Energy Carrier Use Electricity nec;Energy.use;TJ;0
+649;Energy Carrier Use Ethane;Energy.use;TJ;0
+650;Energy Carrier Use Food products nec;Energy.use;TJ;0
+651;Energy Carrier Use Food waste for treatment: incineration;Energy.use;TJ;0
+652;Energy Carrier Use Gas Coke;Energy.use;TJ;0
+653;Energy Carrier Use Gas Works Gas;Energy.use;TJ;0
+654;Energy Carrier Use Gas/Diesel Oil;Energy.use;TJ;0
+655;Energy Carrier Use Gasoline Type Jet Fuel;Energy.use;TJ;0
+656;Energy Carrier Use Heavy Fuel Oil;Energy.use;TJ;0
+657;Energy Carrier Use Intert/metal waste for treatment: incineration;Energy.use;TJ;0
+658;Energy Carrier Use Kerosene;Energy.use;TJ;0
+659;Energy Carrier Use Kerosene Type Jet Fuel;Energy.use;TJ;0
+660;Energy Carrier Use Lignite/Brown Coal;Energy.use;TJ;0
+661;Energy Carrier Use Liquefied Petroleum Gases (LPG);Energy.use;TJ;0
+662;Energy Carrier Use Lubricants;Energy.use;TJ;0
+663;Energy Carrier Use Manure (biogas treatment);Energy.use;TJ;0
+664;Energy Carrier Use Manure (conventional treatment);Energy.use;TJ;0
+665;Energy Carrier Use Motor Gasoline;Energy.use;TJ;0
+666;Energy Carrier Use Naphtha;Energy.use;TJ;0
+667;Energy Carrier Use Natural Gas Liquids;Energy.use;TJ;0
+668;Energy Carrier Use Natural gas and services related to natural gas extraction, excluding surveying;Energy.use;TJ;0
+669;Energy Carrier Use Non-specified Petroleum Products;Energy.use;TJ;0
+670;Energy Carrier Use Nuclear fuel;Energy.use;TJ;0
+671;Energy Carrier Use Oil/hazardous waste for treatment: incineration;Energy.use;TJ;0
+672;Energy Carrier Use Other Bituminous Coal;Energy.use;TJ;0
+673;Energy Carrier Use Other Hydrocarbons;Energy.use;TJ;0
+674;Energy Carrier Use Other Liquid Biofuels;Energy.use;TJ;0
+675;Energy Carrier Use Oxygen Steel Furnace Gas;Energy.use;TJ;0
+676;Energy Carrier Use Paper waste for treatment: incineration;Energy.use;TJ;0
+677;Energy Carrier Use Paraffin Waxes;Energy.use;TJ;0
+678;Energy Carrier Use Patent Fuel;Energy.use;TJ;0
+679;Energy Carrier Use Peat;Energy.use;TJ;0
+680;Energy Carrier Use Petroleum Coke;Energy.use;TJ;0
+681;Energy Carrier Use Plastic waste for treatment: incineration;Energy.use;TJ;0
+682;Energy Carrier Use Products of forestry, logging and related services (02);Energy.use;TJ;0
+683;Energy Carrier Use Pulp;Energy.use;TJ;0
+684;Energy Carrier Use Refinery Feedstocks;Energy.use;TJ;0
+685;Energy Carrier Use Refinery Gas;Energy.use;TJ;0
+686;Energy Carrier Use Secondary paper for treatment, Re-processing of secondary paper into new pulp;Energy.use;TJ;0
+687;Energy Carrier Use Steam and hot water supply services;Energy.use;TJ;0
+688;Energy Carrier Use Sub-Bituminous Coal;Energy.use;TJ;0
+689;Energy Carrier Use Sugar;Energy.use;TJ;0
+690;Energy Carrier Use Textiles waste for treatment: incineration;Energy.use;TJ;0
+691;Energy Carrier Use Uranium and thorium ores (12);Energy.use;TJ;0
+692;Energy Carrier Use White Spirit & SBP;Energy.use;TJ;0
+693;Energy Carrier Use Wood material for treatment, Re-processing of secondary wood material into new wood material;Energy.use;TJ;0
+694;Energy Carrier Use Wood waste for treatment: incineration;Energy.use;TJ;0
+695;Domestic Extraction Used - Crop residues - Feed;Biomass;kt;0
+696;Domestic Extraction Used - Crop residues - Straw;Biomass;kt;0
+697;Domestic Extraction Used - Fishery - Aquatic plants;Biomass;kt;0
+698;Domestic Extraction Used - Fishery - Inland waters fish catch;Biomass;kt;0
+699;Domestic Extraction Used - Fishery - Marine fish catch;Biomass;kt;0
+700;Domestic Extraction Used - Fishery - Other (e.g. Aquatic mammals);Biomass;kt;0
+701;Domestic Extraction Used - Fodder crops - Alfalfa for Forage and Silage;Biomass;kt;0
+702;Domestic Extraction Used - Fodder crops - Beets for Fodder;Biomass;kt;0
+703;Domestic Extraction Used - Fodder crops - Cabbage for Fodder;Biomass;kt;0
+704;Domestic Extraction Used - Fodder crops - Carrots for Fodder;Biomass;kt;0
+705;Domestic Extraction Used - Fodder crops - Clover for Forage and Silage;Biomass;kt;0
+706;Domestic Extraction Used - Fodder crops - Forage Products nec;Biomass;kt;0
+707;Domestic Extraction Used - Fodder crops - Grasses nec for Forage and Silage;Biomass;kt;0
+708;Domestic Extraction Used - Fodder crops - Green Oilseeds for Fodder;Biomass;kt;0
+709;Domestic Extraction Used - Fodder crops - Leguminous nec for forage and Silage;Biomass;kt;0
+710;Domestic Extraction Used - Fodder crops - Maize for Forage and Silage;Biomass;kt;0
+711;Domestic Extraction Used - Fodder crops - Other grasses;Biomass;kt;0
+712;Domestic Extraction Used - Fodder crops - Rye Grass, Forage and Silage;Biomass;kt;0
+713;Domestic Extraction Used - Fodder crops - Sorghum for Forage and Silage;Biomass;kt;0
+714;Domestic Extraction Used - Fodder crops - Swedes for Fodder;Biomass;kt;0
+715;Domestic Extraction Used - Fodder crops - Turnips for Fodder;Biomass;kt;0
+716;Domestic Extraction Used - Fodder crops - Vegetables and Roots, Fodder;Biomass;kt;0
+717;Domestic Extraction Used - Forestry - Coniferous wood - Industrial roundwood;Biomass;kt;0
+718;Domestic Extraction Used - Forestry - Coniferous wood - Wood fuel;Biomass;kt;0
+719;Domestic Extraction Used - Forestry - Kapok Fruit;Biomass;kt;0
+720;Domestic Extraction Used - Forestry - Natural Gums;Biomass;kt;0
+721;Domestic Extraction Used - Forestry - Non-coniferous wood - Industrial roundwood;Biomass;kt;0
+722;Domestic Extraction Used - Forestry - Non-coniferous wood - Wood fuel;Biomass;kt;0
+723;Domestic Extraction Used - Forestry - Raw materials other than wood;Biomass;kt;0
+724;Domestic Extraction Used - Fossil Fuels - Anthracite;Fossils;kt;0
+725;Domestic Extraction Used - Fossil Fuels - Coking coal;Fossils;kt;0
+726;Domestic Extraction Used - Fossil Fuels - Crude oil;Fossils;kt;0
+727;Domestic Extraction Used - Fossil Fuels - Lignite/brown coal;Fossils;kt;0
+728;Domestic Extraction Used - Fossil Fuels - Natural gas;Fossils;kt;0
+729;Domestic Extraction Used - Fossil Fuels - Natural gas liquids;Fossils;kt;0
+730;Domestic Extraction Used - Fossil Fuels - Oil shale and oil sands;Fossils;kt;0
+731;Domestic Extraction Used - Fossil Fuels - Other bituminous coal;Fossils;kt;0
+732;Domestic Extraction Used - Fossil Fuels - Other hydrocarbons;Fossils;kt;0
+733;Domestic Extraction Used - Fossil Fuels - Peat;Fossils;kt;0
+734;Domestic Extraction Used - Fossil Fuels - Sub-bituminous coal;Fossils;kt;0
+735;Domestic Extraction Used - Grazing;Biomass;kt;0
+736;Domestic Extraction Used - Metal Ores - Bauxite and aluminium ores;Metals;kt;0
+737;Domestic Extraction Used - Metal Ores - Copper ores;Metals;kt;0
+738;Domestic Extraction Used - Metal Ores - Gold ores;Metals;kt;0
+739;Domestic Extraction Used - Metal Ores - Iron ores;Metals;kt;0
+740;Domestic Extraction Used - Metal Ores - Lead ores;Metals;kt;0
+741;Domestic Extraction Used - Metal Ores - Nickel ores;Metals;kt;0
+742;Domestic Extraction Used - Metal Ores - Other non-ferrous metal ores;Metals;kt;0
+743;Domestic Extraction Used - Metal Ores - PGM ores;Metals;kt;0
+744;Domestic Extraction Used - Metal Ores - Silver ores;Metals;kt;0
+745;Domestic Extraction Used - Metal Ores - Tin ores;Metals;kt;0
+746;Domestic Extraction Used - Metal Ores - Uranium and thorium ores;Metals;kt;0
+747;Domestic Extraction Used - Metal Ores - Zinc ores;Metals;kt;0
+748;Domestic Extraction Used - Non-Metallic Minerals - Building stones;Minerals;kt;0
+749;Domestic Extraction Used - Non-Metallic Minerals - Chemical and fertilizer minerals;Minerals;kt;0
+750;Domestic Extraction Used - Non-Metallic Minerals - Clays and kaolin;Minerals;kt;0
+751;Domestic Extraction Used - Non-Metallic Minerals - Gravel and sand;Minerals;kt;0
+752;Domestic Extraction Used - Non-Metallic Minerals - Limestone, gypsum, chalk, dolomite;Minerals;kt;0
+753;Domestic Extraction Used - Non-Metallic Minerals - Other minerals;Minerals;kt;0
+754;Domestic Extraction Used - Non-Metallic Minerals - Salt;Minerals;kt;0
+755;Domestic Extraction Used - Non-Metallic Minerals - Slate;Minerals;kt;0
+756;Domestic Extraction Used - Primary Crops - Kapokseed in Shell;Biomass;kt;0
+757;Domestic Extraction Used - Primary Crops - Honey;Biomass;kt;0
+758;Domestic Extraction Used - Primary Crops - Beeswax;Biomass;kt;0
+759;Domestic Extraction Used - Primary Crops - Abaca;Biomass;kt;0
+760;Domestic Extraction Used - Primary Crops - Agave Fibres nes;Biomass;kt;0
+761;Domestic Extraction Used - Primary Crops - Almonds;Biomass;kt;0
+762;Domestic Extraction Used - Primary Crops - Anise, Badian, Fennel;Biomass;kt;0
+763;Domestic Extraction Used - Primary Crops - Apples;Biomass;kt;0
+764;Domestic Extraction Used - Primary Crops - Apricots;Biomass;kt;0
+765;Domestic Extraction Used - Primary Crops - Arecanuts;Biomass;kt;0
+766;Domestic Extraction Used - Primary Crops - Artichokes;Biomass;kt;0
+767;Domestic Extraction Used - Primary Crops - Asparagus;Biomass;kt;0
+768;Domestic Extraction Used - Primary Crops - Avocados;Biomass;kt;0
+769;Domestic Extraction Used - Primary Crops - Bambara beans;Biomass;kt;0
+770;Domestic Extraction Used - Primary Crops - Bananas;Biomass;kt;0
+771;Domestic Extraction Used - Primary Crops - Barley;Biomass;kt;0
+772;Domestic Extraction Used - Primary Crops - Beans, dry;Biomass;kt;0
+773;Domestic Extraction Used - Primary Crops - Beans, green;Biomass;kt;0
+774;Domestic Extraction Used - Primary Crops - Berries nec;Biomass;kt;0
+775;Domestic Extraction Used - Primary Crops - Blueberries;Biomass;kt;0
+776;Domestic Extraction Used - Primary Crops - Brazil nuts, with shell;Biomass;kt;0
+777;Domestic Extraction Used - Primary Crops - Broad beans, horse beans, dry;Biomass;kt;0
+778;Domestic Extraction Used - Primary Crops - Buckwheat;Biomass;kt;0
+779;Domestic Extraction Used - Primary Crops - Cabbages;Biomass;kt;0
+780;Domestic Extraction Used - Primary Crops - Canary Seed;Biomass;kt;0
+781;Domestic Extraction Used - Primary Crops - Carobs;Biomass;kt;0
+782;Domestic Extraction Used - Primary Crops - Carrots;Biomass;kt;0
+783;Domestic Extraction Used - Primary Crops - Cashew nuts, with shell;Biomass;kt;0
+784;Domestic Extraction Used - Primary Crops - Cashewapple;Biomass;kt;0
+785;Domestic Extraction Used - Primary Crops - Cassava;Biomass;kt;0
+786;Domestic Extraction Used - Primary Crops - Cassava leaves;Biomass;kt;0
+787;Domestic Extraction Used - Primary Crops - Castor oil seed;Biomass;kt;0
+788;Domestic Extraction Used - Primary Crops - Cauliflower;Biomass;kt;0
+789;Domestic Extraction Used - Primary Crops - Cereals nec;Biomass;kt;0
+790;Domestic Extraction Used - Primary Crops - Cherries;Biomass;kt;0
+791;Domestic Extraction Used - Primary Crops - Chestnuts;Biomass;kt;0
+792;Domestic Extraction Used - Primary Crops - Chick peas;Biomass;kt;0
+793;Domestic Extraction Used - Primary Crops - Chicory Roots;Biomass;kt;0
+794;Domestic Extraction Used - Primary Crops - Chillies and peppers, dry;Biomass;kt;0
+795;Domestic Extraction Used - Primary Crops - Chillies and peppers, green;Biomass;kt;0
+796;Domestic Extraction Used - Primary Crops - Cinnamon;Biomass;kt;0
+797;Domestic Extraction Used - Primary Crops - Citrus Fruit nec;Biomass;kt;0
+798;Domestic Extraction Used - Primary Crops - Cloves;Biomass;kt;0
+799;Domestic Extraction Used - Primary Crops - Cocoa Beans;Biomass;kt;0
+800;Domestic Extraction Used - Primary Crops - Coconuts;Biomass;kt;0
+801;Domestic Extraction Used - Primary Crops - Coffee, Green;Biomass;kt;0
+802;Domestic Extraction Used - Primary Crops - Coir;Biomass;kt;0
+803;Domestic Extraction Used - Primary Crops - Cotton Lint;Biomass;kt;0
+804;Domestic Extraction Used - Primary Crops - Cottonseed;Biomass;kt;0
+805;Domestic Extraction Used - Primary Crops - Cow peas, dry;Biomass;kt;0
+806;Domestic Extraction Used - Primary Crops - Cranberries;Biomass;kt;0
+807;Domestic Extraction Used - Primary Crops - Cucumbers and Gherkins;Biomass;kt;0
+808;Domestic Extraction Used - Primary Crops - Currants;Biomass;kt;0
+809;Domestic Extraction Used - Primary Crops - Dates;Biomass;kt;0
+810;Domestic Extraction Used - Primary Crops - Eggplants;Biomass;kt;0
+811;Domestic Extraction Used - Primary Crops - Fibre Crops nes;Biomass;kt;0
+812;Domestic Extraction Used - Primary Crops - Figs;Biomass;kt;0
+813;Domestic Extraction Used - Primary Crops - Flax Fibre and Tow;Biomass;kt;0
+814;Domestic Extraction Used - Primary Crops - Fonio;Biomass;kt;0
+815;Domestic Extraction Used - Primary Crops - Fruit Fresh Nes;Biomass;kt;0
+816;Domestic Extraction Used - Primary Crops - Fruit, tropical fresh nes;Biomass;kt;0
+817;Domestic Extraction Used - Primary Crops - Garlic;Biomass;kt;0
+818;Domestic Extraction Used - Primary Crops - Ginger;Biomass;kt;0
+819;Domestic Extraction Used - Primary Crops - Gooseberries;Biomass;kt;0
+820;Domestic Extraction Used - Primary Crops - Grapefruit and Pomelos;Biomass;kt;0
+821;Domestic Extraction Used - Primary Crops - Grapes;Biomass;kt;0
+822;Domestic Extraction Used - Primary Crops - Groundnuts in Shell;Biomass;kt;0
+823;Domestic Extraction Used - Primary Crops - Hazelnuts;Biomass;kt;0
+824;Domestic Extraction Used - Primary Crops - Hemp Fibre and Tow;Biomass;kt;0
+825;Domestic Extraction Used - Primary Crops - Hempseed;Biomass;kt;0
+826;Domestic Extraction Used - Primary Crops - Hops;Biomass;kt;0
+827;Domestic Extraction Used - Primary Crops - Jojoba Seeds;Biomass;kt;0
+828;Domestic Extraction Used - Primary Crops - Jute and Jute-like Fibres;Biomass;kt;0
+829;Domestic Extraction Used - Primary Crops - Kapok Fibre;Biomass;kt;0
+830;Domestic Extraction Used - Primary Crops - Karite Nuts;Biomass;kt;0
+831;Domestic Extraction Used - Primary Crops - Kiwi Fruit;Biomass;kt;0
+832;Domestic Extraction Used - Primary Crops - Kolanuts;Biomass;kt;0
+833;Domestic Extraction Used - Primary Crops - Leeks and other Alliac. Veg.;Biomass;kt;0
+834;Domestic Extraction Used - Primary Crops - Leguminous vegetables, nes;Biomass;kt;0
+835;Domestic Extraction Used - Primary Crops - Lemons and Limes;Biomass;kt;0
+836;Domestic Extraction Used - Primary Crops - Lentils;Biomass;kt;0
+837;Domestic Extraction Used - Primary Crops - Lettuce;Biomass;kt;0
+838;Domestic Extraction Used - Primary Crops - Linseed;Biomass;kt;0
+839;Domestic Extraction Used - Primary Crops - Lupins;Biomass;kt;0
+840;Domestic Extraction Used - Primary Crops - Maize;Biomass;kt;0
+841;Domestic Extraction Used - Primary Crops - Maize, green;Biomass;kt;0
+842;Domestic Extraction Used - Primary Crops - Mangoes, mangosteens, guavas;Biomass;kt;0
+843;Domestic Extraction Used - Primary Crops - Mate;Biomass;kt;0
+844;Domestic Extraction Used - Primary Crops - Melonseed;Biomass;kt;0
+845;Domestic Extraction Used - Primary Crops - Millet;Biomass;kt;0
+846;Domestic Extraction Used - Primary Crops - Mixed Grain;Biomass;kt;0
+847;Domestic Extraction Used - Primary Crops - Mushrooms;Biomass;kt;0
+848;Domestic Extraction Used - Primary Crops - Mustard Seed;Biomass;kt;0
+849;Domestic Extraction Used - Primary Crops - Natural Rubber;Biomass;kt;0
+850;Domestic Extraction Used - Primary Crops - Nutmeg, mace and cardamoms;Biomass;kt;0
+851;Domestic Extraction Used - Primary Crops - Nuts, nes;Biomass;kt;0
+852;Domestic Extraction Used - Primary Crops - Oats;Biomass;kt;0
+853;Domestic Extraction Used - Primary Crops - Oil Palm Fruit;Biomass;kt;0
+854;Domestic Extraction Used - Primary Crops - Oilseeds nec;Biomass;kt;0
+855;Domestic Extraction Used - Primary Crops - Okra;Biomass;kt;0
+856;Domestic Extraction Used - Primary Crops - Olives;Biomass;kt;0
+857;Domestic Extraction Used - Primary Crops - Onions;Biomass;kt;0
+858;Domestic Extraction Used - Primary Crops - Onions, dry;Biomass;kt;0
+859;Domestic Extraction Used - Primary Crops - Oranges;Biomass;kt;0
+860;Domestic Extraction Used - Primary Crops - Other Bastfibres;Biomass;kt;0
+861;Domestic Extraction Used - Primary Crops - Other melons;Biomass;kt;0
+862;Domestic Extraction Used - Primary Crops - Papayas;Biomass;kt;0
+863;Domestic Extraction Used - Primary Crops - Peaches and Nectarines;Biomass;kt;0
+864;Domestic Extraction Used - Primary Crops - Pears;Biomass;kt;0
+865;Domestic Extraction Used - Primary Crops - Peas, Green;Biomass;kt;0
+866;Domestic Extraction Used - Primary Crops - Peas, dry;Biomass;kt;0
+867;Domestic Extraction Used - Primary Crops - Pepper;Biomass;kt;0
+868;Domestic Extraction Used - Primary Crops - Peppermint;Biomass;kt;0
+869;Domestic Extraction Used - Primary Crops - Persimmons;Biomass;kt;0
+870;Domestic Extraction Used - Primary Crops - Pigeon peas;Biomass;kt;0
+871;Domestic Extraction Used - Primary Crops - Pineapples;Biomass;kt;0
+872;Domestic Extraction Used - Primary Crops - Pistachios;Biomass;kt;0
+873;Domestic Extraction Used - Primary Crops - Plantains;Biomass;kt;0
+874;Domestic Extraction Used - Primary Crops - Plums;Biomass;kt;0
+875;Domestic Extraction Used - Primary Crops - Pome fruit, nes;Biomass;kt;0
+876;Domestic Extraction Used - Primary Crops - Poppy Seed;Biomass;kt;0
+877;Domestic Extraction Used - Primary Crops - Potatoes;Biomass;kt;0
+878;Domestic Extraction Used - Primary Crops - Pulses nec;Biomass;kt;0
+879;Domestic Extraction Used - Primary Crops - Pumpkins, Squash, Gourds;Biomass;kt;0
+880;Domestic Extraction Used - Primary Crops - Pyrethrum, Dried Flowers;Biomass;kt;0
+881;Domestic Extraction Used - Primary Crops - Quinces;Biomass;kt;0
+882;Domestic Extraction Used - Primary Crops - Quinoa;Biomass;kt;0
+883;Domestic Extraction Used - Primary Crops - Ramie;Biomass;kt;0
+884;Domestic Extraction Used - Primary Crops - Rapeseed;Biomass;kt;0
+885;Domestic Extraction Used - Primary Crops - Raspberries;Biomass;kt;0
+886;Domestic Extraction Used - Primary Crops - Rice;Biomass;kt;0
+887;Domestic Extraction Used - Primary Crops - Roots and Tubers, nes;Biomass;kt;0
+888;Domestic Extraction Used - Primary Crops - Rye;Biomass;kt;0
+889;Domestic Extraction Used - Primary Crops - Safflower Seed;Biomass;kt;0
+890;Domestic Extraction Used - Primary Crops - Sesame Seed;Biomass;kt;0
+891;Domestic Extraction Used - Primary Crops - Sisal;Biomass;kt;0
+892;Domestic Extraction Used - Primary Crops - Sorghum;Biomass;kt;0
+893;Domestic Extraction Used - Primary Crops - Sour Cherries;Biomass;kt;0
+894;Domestic Extraction Used - Primary Crops - Soybeans;Biomass;kt;0
+895;Domestic Extraction Used - Primary Crops - Spices nec;Biomass;kt;0
+896;Domestic Extraction Used - Primary Crops - Spinach;Biomass;kt;0
+897;Domestic Extraction Used - Primary Crops - Stone Fruit nec,;Biomass;kt;0
+898;Domestic Extraction Used - Primary Crops - Strawberries;Biomass;kt;0
+899;Domestic Extraction Used - Primary Crops - String beans;Biomass;kt;0
+900;Domestic Extraction Used - Primary Crops - Sugar Beets;Biomass;kt;0
+901;Domestic Extraction Used - Primary Crops - Sugar Cane;Biomass;kt;0
+902;Domestic Extraction Used - Primary Crops - Sugar Crops nes;Biomass;kt;0
+903;Domestic Extraction Used - Primary Crops - Sunflower Seed;Biomass;kt;0
+904;Domestic Extraction Used - Primary Crops - Sweet Potatoes;Biomass;kt;0
+905;Domestic Extraction Used - Primary Crops - Tallowtree Seeds;Biomass;kt;0
+906;Domestic Extraction Used - Primary Crops - Tang. Mand Clement. Satsma;Biomass;kt;0
+907;Domestic Extraction Used - Primary Crops - Taro;Biomass;kt;0
+908;Domestic Extraction Used - Primary Crops - Tea;Biomass;kt;0
+909;Domestic Extraction Used - Primary Crops - Tea nes;Biomass;kt;0
+910;Domestic Extraction Used - Primary Crops - Tobacco Leaves;Biomass;kt;0
+911;Domestic Extraction Used - Primary Crops - Tomatoes;Biomass;kt;0
+912;Domestic Extraction Used - Primary Crops - Triticale;Biomass;kt;0
+913;Domestic Extraction Used - Primary Crops - Tung Nuts;Biomass;kt;0
+914;Domestic Extraction Used - Primary Crops - Vanilla;Biomass;kt;0
+915;Domestic Extraction Used - Primary Crops - Vegetables Fresh nec;Biomass;kt;0
+916;Domestic Extraction Used - Primary Crops - Vetches;Biomass;kt;0
+917;Domestic Extraction Used - Primary Crops - Walnuts;Biomass;kt;0
+918;Domestic Extraction Used - Primary Crops - Watermelons;Biomass;kt;0
+919;Domestic Extraction Used - Primary Crops - Wheat;Biomass;kt;0
+920;Domestic Extraction Used - Primary Crops - Yams;Biomass;kt;0
+921;Domestic Extraction Used - Primary Crops - Yautia;Biomass;kt;0
+922;Unused Domestic Extraction - Primary Crops - Rice;Unused;kt;0
+923;Unused Domestic Extraction - Primary Crops - Wheat;Unused;kt;0
+924;Unused Domestic Extraction - Primary Crops - Barley;Unused;kt;0
+925;Unused Domestic Extraction - Primary Crops - Buckwheat;Unused;kt;0
+926;Unused Domestic Extraction - Primary Crops - Canary Seed;Unused;kt;0
+927;Unused Domestic Extraction - Primary Crops - Maize;Unused;kt;0
+928;Unused Domestic Extraction - Primary Crops - Millet;Unused;kt;0
+929;Unused Domestic Extraction - Primary Crops - Mixed Grain;Unused;kt;0
+930;Unused Domestic Extraction - Primary Crops - Oats;Unused;kt;0
+931;Unused Domestic Extraction - Primary Crops - Rye;Unused;kt;0
+932;Unused Domestic Extraction - Primary Crops - Sorghum;Unused;kt;0
+933;Unused Domestic Extraction - Primary Crops - Triticale;Unused;kt;0
+934;Unused Domestic Extraction - Primary Crops - Cereals nec;Unused;kt;0
+935;Unused Domestic Extraction - Primary Crops - Fonio;Unused;kt;0
+936;Unused Domestic Extraction - Primary Crops - Quinoa;Unused;kt;0
+937;Unused Domestic Extraction - Primary Crops - Potatoes;Unused;kt;0
+938;Unused Domestic Extraction - Primary Crops - Sweet Potatoes;Unused;kt;0
+939;Unused Domestic Extraction - Primary Crops - Yams;Unused;kt;0
+940;Unused Domestic Extraction - Primary Crops - Lentils;Unused;kt;0
+941;Unused Domestic Extraction - Primary Crops - Lupins;Unused;kt;0
+942;Unused Domestic Extraction - Primary Crops - Vetches;Unused;kt;0
+943;Unused Domestic Extraction - Primary Crops - Pulses nec;Unused;kt;0
+944;Unused Domestic Extraction - Primary Crops - Olives;Unused;kt;0
+945;Unused Domestic Extraction - Primary Crops - Artichokes;Unused;kt;0
+946;Unused Domestic Extraction - Primary Crops - Asparagus;Unused;kt;0
+947;Unused Domestic Extraction - Primary Crops - Cabbages;Unused;kt;0
+948;Unused Domestic Extraction - Primary Crops - Carrots;Unused;kt;0
+949;Unused Domestic Extraction - Primary Crops - Cauliflower;Unused;kt;0
+950;Unused Domestic Extraction - Primary Crops - Chillies and peppers, green;Unused;kt;0
+951;Unused Domestic Extraction - Primary Crops - Cucumbers and Gherkins;Unused;kt;0
+952;Unused Domestic Extraction - Primary Crops - Eggplants;Unused;kt;0
+953;Unused Domestic Extraction - Primary Crops - Garlic;Unused;kt;0
+954;Unused Domestic Extraction - Primary Crops - Leeks and other Alliac. Veg.;Unused;kt;0
+955;Unused Domestic Extraction - Primary Crops - Lettuce;Unused;kt;0
+956;Unused Domestic Extraction - Primary Crops - Mushrooms;Unused;kt;0
+957;Unused Domestic Extraction - Primary Crops - Peas, Green;Unused;kt;0
+958;Unused Domestic Extraction - Primary Crops - Pumpkins, Squash, Gourds;Unused;kt;0
+959;Unused Domestic Extraction - Primary Crops - Spinach;Unused;kt;0
+960;Unused Domestic Extraction - Primary Crops - Tomatoes;Unused;kt;0
+961;Unused Domestic Extraction - Primary Crops - Vegetables Fresh nec;Unused;kt;0
+962;Unused Domestic Extraction - Primary Crops - Apples;Unused;kt;0
+963;Unused Domestic Extraction - Primary Crops - Apricots;Unused;kt;0
+964;Unused Domestic Extraction - Primary Crops - Avocados;Unused;kt;0
+965;Unused Domestic Extraction - Primary Crops - Blueberries;Unused;kt;0
+966;Unused Domestic Extraction - Primary Crops - Carobs;Unused;kt;0
+967;Unused Domestic Extraction - Primary Crops - Cherries;Unused;kt;0
+968;Unused Domestic Extraction - Primary Crops - Currants;Unused;kt;0
+969;Unused Domestic Extraction - Primary Crops - Dates;Unused;kt;0
+970;Unused Domestic Extraction - Primary Crops - Figs;Unused;kt;0
+971;Unused Domestic Extraction - Primary Crops - Gooseberries;Unused;kt;0
+972;Unused Domestic Extraction - Primary Crops - Grapefruit and Pomelos;Unused;kt;0
+973;Unused Domestic Extraction - Primary Crops - Grapes;Unused;kt;0
+974;Unused Domestic Extraction - Primary Crops - Kiwi Fruit;Unused;kt;0
+975;Unused Domestic Extraction - Primary Crops - Lemons and Limes;Unused;kt;0
+976;Unused Domestic Extraction - Primary Crops - Oranges;Unused;kt;0
+977;Unused Domestic Extraction - Primary Crops - Peaches and Nectarines;Unused;kt;0
+978;Unused Domestic Extraction - Primary Crops - Pears;Unused;kt;0
+979;Unused Domestic Extraction - Primary Crops - Persimmons;Unused;kt;0
+980;Unused Domestic Extraction - Primary Crops - Pineapples;Unused;kt;0
+981;Unused Domestic Extraction - Primary Crops - Plums;Unused;kt;0
+982;Unused Domestic Extraction - Primary Crops - Quinces;Unused;kt;0
+983;Unused Domestic Extraction - Primary Crops - Raspberries;Unused;kt;0
+984;Unused Domestic Extraction - Primary Crops - Sour Cherries;Unused;kt;0
+985;Unused Domestic Extraction - Primary Crops - Strawberries;Unused;kt;0
+986;Unused Domestic Extraction - Primary Crops - Tang. Mand Clement. Satsma;Unused;kt;0
+987;Unused Domestic Extraction - Primary Crops - Berries nec;Unused;kt;0
+988;Unused Domestic Extraction - Primary Crops - Citrus Fruit nec;Unused;kt;0
+989;Unused Domestic Extraction - Primary Crops - Stone Fruit nec,;Unused;kt;0
+990;Unused Domestic Extraction - Primary Crops - Almonds;Unused;kt;0
+991;Unused Domestic Extraction - Primary Crops - Chestnuts;Unused;kt;0
+992;Unused Domestic Extraction - Primary Crops - Hazelnuts;Unused;kt;0
+993;Unused Domestic Extraction - Primary Crops - Pistachios;Unused;kt;0
+994;Unused Domestic Extraction - Primary Crops - Walnuts;Unused;kt;0
+995;Unused Domestic Extraction - Primary Crops - Cassava;Unused;kt;0
+996;Unused Domestic Extraction - Primary Crops - Roots and Tubers, nes;Unused;kt;0
+997;Unused Domestic Extraction - Primary Crops - Taro;Unused;kt;0
+998;Unused Domestic Extraction - Primary Crops - Yautia;Unused;kt;0
+999;Unused Domestic Extraction - Primary Crops - Bambara beans;Unused;kt;0
+1000;Unused Domestic Extraction - Primary Crops - Beans, dry;Unused;kt;0
+1001;Unused Domestic Extraction - Primary Crops - Beans, green;Unused;kt;0
+1002;Unused Domestic Extraction - Primary Crops - Broad beans, horse beans, dry;Unused;kt;0
+1003;Unused Domestic Extraction - Primary Crops - Chick peas;Unused;kt;0
+1004;Unused Domestic Extraction - Primary Crops - Cow peas, dry;Unused;kt;0
+1005;Unused Domestic Extraction - Primary Crops - Peas, dry;Unused;kt;0
+1006;Unused Domestic Extraction - Primary Crops - Pigeon peas;Unused;kt;0
+1007;Unused Domestic Extraction - Primary Crops - String beans;Unused;kt;0
+1008;Unused Domestic Extraction - Primary Crops - Coconuts;Unused;kt;0
+1009;Unused Domestic Extraction - Primary Crops - Okra;Unused;kt;0
+1010;Unused Domestic Extraction - Primary Crops - Onions;Unused;kt;0
+1011;Unused Domestic Extraction - Primary Crops - Onions, dry;Unused;kt;0
+1012;Unused Domestic Extraction - Primary Crops - Other melons;Unused;kt;0
+1013;Unused Domestic Extraction - Primary Crops - Watermelons;Unused;kt;0
+1014;Unused Domestic Extraction - Primary Crops - Bananas;Unused;kt;0
+1015;Unused Domestic Extraction - Primary Crops - Cashewapple;Unused;kt;0
+1016;Unused Domestic Extraction - Primary Crops - Cranberries;Unused;kt;0
+1017;Unused Domestic Extraction - Primary Crops - Fruit Fresh Nes;Unused;kt;0
+1018;Unused Domestic Extraction - Primary Crops - Fruit, tropical fresh nes;Unused;kt;0
+1019;Unused Domestic Extraction - Primary Crops - Mangoes, mangosteens, guavas;Unused;kt;0
+1020;Unused Domestic Extraction - Primary Crops - Papayas;Unused;kt;0
+1021;Unused Domestic Extraction - Primary Crops - Plantains;Unused;kt;0
+1022;Unused Domestic Extraction - Primary Crops - Arecanuts;Unused;kt;0
+1023;Unused Domestic Extraction - Primary Crops - Brazil nuts, with shell;Unused;kt;0
+1024;Unused Domestic Extraction - Primary Crops - Cashew nuts, with shell;Unused;kt;0
+1025;Unused Domestic Extraction - Primary Crops - Kolanuts;Unused;kt;0
+1026;Unused Domestic Extraction - Primary Crops - Nuts, nes;Unused;kt;0
+1027;Unused Domestic Extraction - Primary Crops - Leguminous vegetables, nes;Unused;kt;0
+1028;Unused Domestic Extraction - Primary Crops - Maize, green;Unused;kt;0
+1029;Unused Domestic Extraction - Primary Crops - Pome fruit, nes;Unused;kt;0
+1030;Unused Domestic Extraction - Primary Crops - Cassava leaves;Unused;kt;0
+1031;Unused Domestic Extraction - Primary Crops - Groundnuts in Shell;Unused;kt;0
+1032;Unused Domestic Extraction - Primary Crops - Hempseed;Unused;kt;0
+1033;Unused Domestic Extraction - Primary Crops - Linseed;Unused;kt;0
+1034;Unused Domestic Extraction - Primary Crops - Melonseed;Unused;kt;0
+1035;Unused Domestic Extraction - Primary Crops - Mustard Seed;Unused;kt;0
+1036;Unused Domestic Extraction - Primary Crops - Poppy Seed;Unused;kt;0
+1037;Unused Domestic Extraction - Primary Crops - Rapeseed;Unused;kt;0
+1038;Unused Domestic Extraction - Primary Crops - Safflower Seed;Unused;kt;0
+1039;Unused Domestic Extraction - Primary Crops - Sesame Seed;Unused;kt;0
+1040;Unused Domestic Extraction - Primary Crops - Soybeans;Unused;kt;0
+1041;Unused Domestic Extraction - Primary Crops - Sunflower Seed;Unused;kt;0
+1042;Unused Domestic Extraction - Primary Crops - Oilseeds nec;Unused;kt;0
+1043;Unused Domestic Extraction - Primary Crops - Oil Palm Fruit;Unused;kt;0
+1044;Unused Domestic Extraction - Primary Crops - Castor oil seed;Unused;kt;0
+1045;Unused Domestic Extraction - Primary Crops - Karite Nuts;Unused;kt;0
+1046;Unused Domestic Extraction - Primary Crops - Tung Nuts;Unused;kt;0
+1047;Unused Domestic Extraction - Primary Crops - Jojoba Seeds;Unused;kt;0
+1048;Unused Domestic Extraction - Primary Crops - Tallowtree Seeds;Unused;kt;0
+1049;Unused Domestic Extraction - Primary Crops - Cottonseed;Unused;kt;0
+1050;Unused Domestic Extraction - Primary Crops - Sugar Beets;Unused;kt;0
+1051;Unused Domestic Extraction - Primary Crops - Sugar Cane;Unused;kt;0
+1052;Unused Domestic Extraction - Primary Crops - Sugar Crops nes;Unused;kt;0
+1053;Unused Domestic Extraction - Primary Crops - Cotton Lint;Unused;kt;0
+1054;Unused Domestic Extraction - Primary Crops - Flax Fibre and Tow;Unused;kt;0
+1055;Unused Domestic Extraction - Primary Crops - Hemp Fibre and Tow;Unused;kt;0
+1056;Unused Domestic Extraction - Primary Crops - Abaca;Unused;kt;0
+1057;Unused Domestic Extraction - Primary Crops - Agave Fibres nes;Unused;kt;0
+1058;Unused Domestic Extraction - Primary Crops - Coir;Unused;kt;0
+1059;Unused Domestic Extraction - Primary Crops - Fibre Crops nes;Unused;kt;0
+1060;Unused Domestic Extraction - Primary Crops - Ramie;Unused;kt;0
+1061;Unused Domestic Extraction - Primary Crops - Sisal;Unused;kt;0
+1062;Unused Domestic Extraction - Primary Crops - Kapok Fibre;Unused;kt;0
+1063;Unused Domestic Extraction - Primary Crops - Jute and Jute-like Fibres;Unused;kt;0
+1064;Unused Domestic Extraction - Primary Crops - Other Bastfibres;Unused;kt;0
+1065;Unused Domestic Extraction - Primary Crops - Anise, Badian, Fennel;Unused;kt;0
+1066;Unused Domestic Extraction - Primary Crops - Chicory Roots;Unused;kt;0
+1067;Unused Domestic Extraction - Primary Crops - Coffee, Green;Unused;kt;0
+1068;Unused Domestic Extraction - Primary Crops - Hops;Unused;kt;0
+1069;Unused Domestic Extraction - Primary Crops - Peppermint;Unused;kt;0
+1070;Unused Domestic Extraction - Primary Crops - Pyrethrum, Dried Flowers;Unused;kt;0
+1071;Unused Domestic Extraction - Primary Crops - Tea;Unused;kt;0
+1072;Unused Domestic Extraction - Primary Crops - Spices nec;Unused;kt;0
+1073;Unused Domestic Extraction - Primary Crops - Cocoa Beans;Unused;kt;0
+1074;Unused Domestic Extraction - Primary Crops - Mate;Unused;kt;0
+1075;Unused Domestic Extraction - Primary Crops - Tobacco Leaves;Unused;kt;0
+1076;Unused Domestic Extraction - Primary Crops - Natural Rubber;Unused;kt;0
+1077;Unused Domestic Extraction - Primary Crops - Cinnamon;Unused;kt;0
+1078;Unused Domestic Extraction - Primary Crops - Cloves;Unused;kt;0
+1079;Unused Domestic Extraction - Primary Crops - Ginger;Unused;kt;0
+1080;Unused Domestic Extraction - Primary Crops - Nutmeg, mace and cardamoms;Unused;kt;0
+1081;Unused Domestic Extraction - Primary Crops - Vanilla;Unused;kt;0
+1082;Unused Domestic Extraction - Primary Crops - Pepper;Unused;kt;0
+1083;Unused Domestic Extraction - Primary Crops - Chillies and peppers, dry;Unused;kt;0
+1084;Unused Domestic Extraction - Primary Crops - Tea nes;Unused;kt;0
+1085;Unused Domestic Extraction - Crop residues - Feed;Unused;kt;0
+1086;Unused Domestic Extraction - Crop residues - Straw;Unused;kt;0
+1087;Unused Domestic Extraction - Fishery - Aquatic plants;Unused;kt;0
+1088;Unused Domestic Extraction - Fishery - Inland waters fish catch;Unused;kt;0
+1089;Unused Domestic Extraction - Fishery - Marine fish catch;Unused;kt;0
+1090;Unused Domestic Extraction - Fishery - Other (e.g. Aquatic mammals);Unused;kt;0
+1091;Unused Domestic Extraction - Fodder crops - Alfalfa for Forage and Silage;Unused;kt;0
+1092;Unused Domestic Extraction - Fodder crops - Beets for Fodder;Unused;kt;0
+1093;Unused Domestic Extraction - Fodder crops - Cabbage for Fodder;Unused;kt;0
+1094;Unused Domestic Extraction - Fodder crops - Carrots for Fodder;Unused;kt;0
+1095;Unused Domestic Extraction - Fodder crops - Clover for Forage and Silage;Unused;kt;0
+1096;Unused Domestic Extraction - Fodder crops - Forage Products nec;Unused;kt;0
+1097;Unused Domestic Extraction - Fodder crops - Grasses nec for Forage and Silage;Unused;kt;0
+1098;Unused Domestic Extraction - Fodder crops - Green Oilseeds for Fodder;Unused;kt;0
+1099;Unused Domestic Extraction - Fodder crops - Leguminous nec for forage and Silage;Unused;kt;0
+1100;Unused Domestic Extraction - Fodder crops - Maize for Forage and Silage;Unused;kt;0
+1101;Unused Domestic Extraction - Fodder crops - Other grasses;Unused;kt;0
+1102;Unused Domestic Extraction - Fodder crops - Rye Grass, Forage and Silage;Unused;kt;0
+1103;Unused Domestic Extraction - Fodder crops - Sorghum for Forage and Silage;Unused;kt;0
+1104;Unused Domestic Extraction - Fodder crops - Swedes for Fodder;Unused;kt;0
+1105;Unused Domestic Extraction - Fodder crops - Turnips for Fodder;Unused;kt;0
+1106;Unused Domestic Extraction - Fodder crops - Vegetables and Roots, Fodder;Unused;kt;0
+1107;Unused Domestic Extraction - Forestry - Coniferous wood - Industrial roundwood;Unused;kt;0
+1108;Unused Domestic Extraction - Forestry - Coniferous wood - Wood fuel;Unused;kt;0
+1109;Unused Domestic Extraction - Forestry - Kapok Fruit;Unused;kt;0
+1110;Unused Domestic Extraction - Forestry - Natural Gums;Unused;kt;0
+1111;Unused Domestic Extraction - Forestry - Non-coniferous wood - Industrial roundwood;Unused;kt;0
+1112;Unused Domestic Extraction - Forestry - Non-coniferous wood - Wood fuel;Unused;kt;0
+1113;Unused Domestic Extraction - Forestry - Raw materials other than wood;Unused;kt;0
+1114;Unused Domestic Extraction - Fossil Fuels - Anthracite;Unused;kt;0
+1115;Unused Domestic Extraction - Fossil Fuels - Coking coal;Unused;kt;0
+1116;Unused Domestic Extraction - Fossil Fuels - Crude oil;Unused;kt;0
+1117;Unused Domestic Extraction - Fossil Fuels - Lignite/brown coal;Unused;kt;0
+1118;Unused Domestic Extraction - Fossil Fuels - Natural gas;Unused;kt;0
+1119;Unused Domestic Extraction - Fossil Fuels - Natural gas liquids;Unused;kt;0
+1120;Unused Domestic Extraction - Fossil Fuels - Other bituminous coal;Unused;kt;0
+1121;Unused Domestic Extraction - Fossil Fuels - Peat;Unused;kt;0
+1122;Unused Domestic Extraction - Fossil Fuels - Sub-bituminous coal;Unused;kt;0
+1123;Unused Domestic Extraction - Grazing;Unused;kt;0
+1124;Unused Domestic Extraction - Metal Ores - Bauxite and aluminium ores;Unused;kt;0
+1125;Unused Domestic Extraction - Metal Ores - Copper ores;Unused;kt;0
+1126;Unused Domestic Extraction - Metal Ores - Gold ores;Unused;kt;0
+1127;Unused Domestic Extraction - Metal Ores - Iron ores;Unused;kt;0
+1128;Unused Domestic Extraction - Metal Ores - Lead ores;Unused;kt;0
+1129;Unused Domestic Extraction - Metal Ores - Nickel ores;Unused;kt;0
+1130;Unused Domestic Extraction - Metal Ores - Other non-ferrous metal ores;Unused;kt;0
+1131;Unused Domestic Extraction - Metal Ores - PGM ores;Unused;kt;0
+1132;Unused Domestic Extraction - Metal Ores - Silver ores;Unused;kt;0
+1133;Unused Domestic Extraction - Metal Ores - Tin ores;Unused;kt;0
+1134;Unused Domestic Extraction - Metal Ores - Uranium and thorium ores;Unused;kt;0
+1135;Unused Domestic Extraction - Metal Ores - Zinc ores;Unused;kt;0
+1136;Unused Domestic Extraction - Non-Metallic Minerals - Building stones;Unused;kt;0
+1137;Unused Domestic Extraction - Non-Metallic Minerals - Chemical and fertilizer minerals;Unused;kt;0
+1138;Unused Domestic Extraction - Non-Metallic Minerals - Clays and kaolin;Unused;kt;0
+1139;Unused Domestic Extraction - Non-Metallic Minerals - Gravel and sand;Unused;kt;0
+1140;Unused Domestic Extraction - Non-Metallic Minerals - Limestone, gypsum, chalk, dolomite;Unused;kt;0
+1141;Unused Domestic Extraction - Non-Metallic Minerals - Other minerals;Unused;kt;0
+1142;Unused Domestic Extraction - Non-Metallic Minerals - Salt;Unused;kt;0
+1143;Unused Domestic Extraction - Non-Metallic Minerals - Slate;Unused;kt;0
+1144;Unused Domestic Extraction - Primary Crops - Kapokseed in Shell;Unused;kt;0
+1145;Water Consumption Green - Agriculture - rice;Green.consumption;Mm3;0
+1146;Water Consumption Green - Agriculture - wheat;Green.consumption;Mm3;0
+1147;Water Consumption Green - Agriculture - other cereals;Green.consumption;Mm3;0
+1148;Water Consumption Green - Agriculture - roots and tubers;Green.consumption;Mm3;0
+1149;Water Consumption Green - Agriculture - sugar crops;Green.consumption;Mm3;0
+1150;Water Consumption Green - Agriculture - pulses;Green.consumption;Mm3;0
+1151;Water Consumption Green - Agriculture - nuts;Green.consumption;Mm3;0
+1152;Water Consumption Green - Agriculture - oil crops;Green.consumption;Mm3;0
+1153;Water Consumption Green - Agriculture - vegetables;Green.consumption;Mm3;0
+1154;Water Consumption Green - Agriculture - fruits;Green.consumption;Mm3;0
+1155;Water Consumption Green - Agriculture - fibres;Green.consumption;Mm3;0
+1156;Water Consumption Green - Agriculture - other crops;Green.consumption;Mm3;0
+1157;Water Consumption Green - Agriculture - fodder crops;Green.consumption;Mm3;0
+1158;Water Consumption Blue - Agriculture - rice;Blue.consumption;Mm3;0
+1159;Water Consumption Blue - Agriculture - wheat;Blue.consumption;Mm3;0
+1160;Water Consumption Blue - Agriculture - other cereals;Blue.consumption;Mm3;0
+1161;Water Consumption Blue - Agriculture - roots and tubers;Blue.consumption;Mm3;0
+1162;Water Consumption Blue - Agriculture - sugar crops;Blue.consumption;Mm3;0
+1163;Water Consumption Blue - Agriculture - pulses;Blue.consumption;Mm3;0
+1164;Water Consumption Blue - Agriculture - nuts;Blue.consumption;Mm3;0
+1165;Water Consumption Blue - Agriculture - oil crops;Blue.consumption;Mm3;0
+1166;Water Consumption Blue - Agriculture - vegetables;Blue.consumption;Mm3;0
+1167;Water Consumption Blue - Agriculture - fruits;Blue.consumption;Mm3;0
+1168;Water Consumption Blue - Agriculture - fibres;Blue.consumption;Mm3;0
+1169;Water Consumption Blue - Agriculture - other crops;Blue.consumption;Mm3;0
+1170;Water Consumption Blue - Agriculture - fodder crops;Blue.consumption;Mm3;0
+1171;Water Consumption Blue - Livestock - dairy cattle;Blue.consumption;Mm3;0
+1172;Water Consumption Blue - Livestock - nondairy cattle;Blue.consumption;Mm3;0
+1173;Water Consumption Blue - Livestock - pigs;Blue.consumption;Mm3;0
+1174;Water Consumption Blue - Livestock - sheep;Blue.consumption;Mm3;0
+1175;Water Consumption Blue - Livestock - goats;Blue.consumption;Mm3;0
+1176;Water Consumption Blue - Livestock - buffaloes;Blue.consumption;Mm3;0
+1177;Water Consumption Blue - Livestock - camels;Blue.consumption;Mm3;0
+1178;Water Consumption Blue - Livestock - horses;Blue.consumption;Mm3;0
+1179;Water Consumption Blue - Livestock - chicken;Blue.consumption;Mm3;0
+1180;Water Consumption Blue - Livestock - turkeys;Blue.consumption;Mm3;0
+1181;Water Consumption Blue - Livestock - ducks;Blue.consumption;Mm3;0
+1182;Water Consumption Blue - Livestock - geese;Blue.consumption;Mm3;0
+1183;Water Consumption Blue - Manufacturing - Products of meat cattle;Blue.consumption;Mm3;0
+1184;Water Consumption Blue - Manufacturing - Products of meat pigs;Blue.consumption;Mm3;0
+1185;Water Consumption Blue - Manufacturing - Products of meat poultry;Blue.consumption;Mm3;0
+1186;Water Consumption Blue - Manufacturing - Meat products nec;Blue.consumption;Mm3;0
+1187;Water Consumption Blue - Manufacturing - products of Vegetable oils and fats;Blue.consumption;Mm3;0
+1188;Water Consumption Blue - Manufacturing - Dairy products;Blue.consumption;Mm3;0
+1189;Water Consumption Blue - Manufacturing - Processed rice;Blue.consumption;Mm3;0
+1190;Water Consumption Blue - Manufacturing - Sugar;Blue.consumption;Mm3;0
+1191;Water Consumption Blue - Manufacturing - Food products nec;Blue.consumption;Mm3;0
+1192;Water Consumption Blue - Manufacturing - Beverages;Blue.consumption;Mm3;0
+1193;Water Consumption Blue - Manufacturing - Fish products;Blue.consumption;Mm3;0
+1194;Water Consumption Blue - Manufacturing - Tobacco products (16);Blue.consumption;Mm3;0
+1195;Water Consumption Blue - Manufacturing - Textiles (17);Blue.consumption;Mm3;0
+1196;"Water Consumption Blue - Manufacturing - Wearing apparel; furs (18)";Blue.consumption;Mm3;0
+1197;Water Consumption Blue - Manufacturing - Leather and leather products (19);Blue.consumption;Mm3;0
+1198;Water Consumption Blue - Manufacturing - Pulp;Blue.consumption;Mm3;0
+1199;Water Consumption Blue - Manufacturing - Secondary paper for treatment, Re-processing of secondary paper into new pulp;Blue.consumption;Mm3;0
+1200;Water Consumption Blue - Manufacturing - Paper and paper products;Blue.consumption;Mm3;0
+1201;Water Consumption Blue - Manufacturing - Printed matter and recorded media (22);Blue.consumption;Mm3;0
+1202;Water Consumption Blue - Manufacturing - Plastics, basic;Blue.consumption;Mm3;0
+1203;Water Consumption Blue - Manufacturing - Secondary plastic for treatment, Re-processing of secondary plastic into new plastic;Blue.consumption;Mm3;0
+1204;Water Consumption Blue - Manufacturing - N-fertiliser;Blue.consumption;Mm3;0
+1205;Water Consumption Blue - Manufacturing - P- and other fertiliser;Blue.consumption;Mm3;0
+1206;Water Consumption Blue - Manufacturing - Chemicals nec;Blue.consumption;Mm3;0
+1207;Water Consumption Blue - Manufacturing - Rubber and plastic products (25);Blue.consumption;Mm3;0
+1208;Water Consumption Blue - Manufacturing - Glass and glass products;Blue.consumption;Mm3;0
+1209;Water Consumption Blue - Manufacturing - Secondary glass for treatment, Re-processing of secondary glass into new glass;Blue.consumption;Mm3;0
+1210;Water Consumption Blue - Manufacturing - Ceramic goods;Blue.consumption;Mm3;0
+1211;Water Consumption Blue - Manufacturing - Bricks, tiles and construction products, in baked clay;Blue.consumption;Mm3;0
+1212;Water Consumption Blue - Manufacturing - Cement, lime and plaster;Blue.consumption;Mm3;0
+1213;Water Consumption Blue - Manufacturing - Ash for treatment, Re-processing of ash into clinker;Blue.consumption;Mm3;0
+1214;Water Consumption Blue - Manufacturing - Other non-metallic mineral products;Blue.consumption;Mm3;0
+1215;Water Consumption Blue - Manufacturing - Basic iron and steel and of ferro-alloys and first products thereof;Blue.consumption;Mm3;0
+1216;Water Consumption Blue - Manufacturing - Secondary steel for treatment, Re-processing of secondary steel into new steel;Blue.consumption;Mm3;0
+1217;Water Consumption Blue - Manufacturing - Precious metals;Blue.consumption;Mm3;0
+1218;Water Consumption Blue - Manufacturing - Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals;Blue.consumption;Mm3;0
+1219;Water Consumption Blue - Manufacturing - Aluminium and aluminium products;Blue.consumption;Mm3;0
+1220;Water Consumption Blue - Manufacturing - Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium;Blue.consumption;Mm3;0
+1221;Water Consumption Blue - Manufacturing - Lead, zinc and tin and products thereof;Blue.consumption;Mm3;0
+1222;Water Consumption Blue - Manufacturing - Secondary lead for treatment, Re-processing of secondary lead into new lead;Blue.consumption;Mm3;0
+1223;Water Consumption Blue - Manufacturing - Copper products;Blue.consumption;Mm3;0
+1224;Water Consumption Blue - Manufacturing - Secondary copper for treatment, Re-processing of secondary copper into new copper;Blue.consumption;Mm3;0
+1225;Water Consumption Blue - Manufacturing - Other non-ferrous metal products;Blue.consumption;Mm3;0
+1226;Water Consumption Blue - Manufacturing - Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals;Blue.consumption;Mm3;0
+1227;Water Consumption Blue - Manufacturing - Fabricated metal products, except machinery and equipment (28);Blue.consumption;Mm3;0
+1228;Water Consumption Blue - Manufacturing - Machinery and equipment n.e.c. (29);Blue.consumption;Mm3;0
+1229;Water Consumption Blue - Manufacturing - Office machinery and computers (30);Blue.consumption;Mm3;0
+1230;Water Consumption Blue - Manufacturing - Electrical machinery and apparatus n.e.c. (31);Blue.consumption;Mm3;0
+1231;Water Consumption Blue - Manufacturing - Radio, television and communication equipment and apparatus (32);Blue.consumption;Mm3;0
+1232;Water Consumption Blue - Manufacturing - Medical, precision and optical instruments, watches and clocks (33);Blue.consumption;Mm3;0
+1233;Water Consumption Blue - Manufacturing - Motor vehicles, trailers and semi-trailers (34);Blue.consumption;Mm3;0
+1234;Water Consumption Blue - Manufacturing - Other transport equipment (35);Blue.consumption;Mm3;0
+1235;"Water Consumption Blue - Manufacturing - Furniture; other manufactured goods n.e.c. (36)";Blue.consumption;Mm3;0
+1236;Water Consumption Blue - Electricity - tower - Electricity by coal;Blue.consumption;Mm3;0
+1237;Water Consumption Blue - Electricity - tower - Electricity by gas;Blue.consumption;Mm3;0
+1238;Water Consumption Blue - Electricity - tower - Electricity by nuclear;Blue.consumption;Mm3;0
+1239;Water Consumption Blue - Electricity - tower - Electricity by hydro;Blue.consumption;Mm3;0
+1240;Water Consumption Blue - Electricity - tower - Electricity by wind;Blue.consumption;Mm3;0
+1241;Water Consumption Blue - Electricity - tower - Electricity by petroleum and other oil derivatives;Blue.consumption;Mm3;0
+1242;Water Consumption Blue - Electricity - tower - Electricity by biomass and waste;Blue.consumption;Mm3;0
+1243;Water Consumption Blue - Electricity - tower - Electricity by solar photovoltaic;Blue.consumption;Mm3;0
+1244;Water Consumption Blue - Electricity - tower - Electricity by solar thermal;Blue.consumption;Mm3;0
+1245;Water Consumption Blue - Electricity - tower - Electricity by tide, wave, ocean;Blue.consumption;Mm3;0
+1246;Water Consumption Blue - Electricity - tower - Electricity by Geothermal;Blue.consumption;Mm3;0
+1247;Water Consumption Blue - Electricity - tower - Electricity nec;Blue.consumption;Mm3;0
+1248;Water Consumption Blue - Electricity - once-through - Electricity by coal;Blue.consumption;Mm3;0
+1249;Water Consumption Blue - Electricity - once-through - Electricity by gas;Blue.consumption;Mm3;0
+1250;Water Consumption Blue - Electricity - once-through - Electricity by nuclear;Blue.consumption;Mm3;0
+1251;Water Consumption Blue - Electricity - once-through - Electricity by hydro;Blue.consumption;Mm3;0
+1252;Water Consumption Blue - Electricity - once-through - Electricity by wind;Blue.consumption;Mm3;0
+1253;Water Consumption Blue - Electricity - once-through - Electricity by petroleum and other oil derivatives;Blue.consumption;Mm3;0
+1254;Water Consumption Blue - Electricity - once-through - Electricity by biomass and waste;Blue.consumption;Mm3;0
+1255;Water Consumption Blue - Electricity - once-through - Electricity by solar photovoltaic;Blue.consumption;Mm3;0
+1256;Water Consumption Blue - Electricity - once-through - Electricity by solar thermal;Blue.consumption;Mm3;0
+1257;Water Consumption Blue - Electricity - once-through - Electricity by tide, wave, ocean;Blue.consumption;Mm3;0
+1258;Water Consumption Blue - Electricity - once-through - Electricity by Geothermal;Blue.consumption;Mm3;0
+1259;Water Consumption Blue - Electricity - once-through - Electricity nec;Blue.consumption;Mm3;0
+1260;Water Consumption Blue - Domestic - domestic Water Consumption Blue;Blue.consumption;Mm3;0
+1261;Water Withdrawal Blue - Manufacturing - Products of meat cattle;Blue.withdrawal;Mm3;0
+1262;Water Withdrawal Blue - Manufacturing - Products of meat pigs;Blue.withdrawal;Mm3;0
+1263;Water Withdrawal Blue - Manufacturing - Products of meat poultry;Blue.withdrawal;Mm3;0
+1264;Water Withdrawal Blue - Manufacturing - Meat products nec;Blue.withdrawal;Mm3;0
+1265;Water Withdrawal Blue - Manufacturing - products of Vegetable oils and fats;Blue.withdrawal;Mm3;0
+1266;Water Withdrawal Blue - Manufacturing - Dairy products;Blue.withdrawal;Mm3;0
+1267;Water Withdrawal Blue - Manufacturing - Processed rice;Blue.withdrawal;Mm3;0
+1268;Water Withdrawal Blue - Manufacturing - Sugar;Blue.withdrawal;Mm3;0
+1269;Water Withdrawal Blue - Manufacturing - Food products nec;Blue.withdrawal;Mm3;0
+1270;Water Withdrawal Blue - Manufacturing - Beverages;Blue.withdrawal;Mm3;0
+1271;Water Withdrawal Blue - Manufacturing - Fish products;Blue.withdrawal;Mm3;0
+1272;Water Withdrawal Blue - Manufacturing - Tobacco products (16);Blue.withdrawal;Mm3;0
+1273;Water Withdrawal Blue - Manufacturing - Textiles (17);Blue.withdrawal;Mm3;0
+1274;"Water Withdrawal Blue - Manufacturing - Wearing apparel; furs (18)";Blue.withdrawal;Mm3;0
+1275;Water Withdrawal Blue - Manufacturing - Leather and leather products (19);Blue.withdrawal;Mm3;0
+1276;Water Withdrawal Blue - Manufacturing - Pulp;Blue.withdrawal;Mm3;0
+1277;Water Withdrawal Blue - Manufacturing - Secondary paper for treatment, Re-processing of secondary paper into new pulp;Blue.withdrawal;Mm3;0
+1278;Water Withdrawal Blue - Manufacturing - Paper and paper products;Blue.withdrawal;Mm3;0
+1279;Water Withdrawal Blue - Manufacturing - Printed matter and recorded media (22);Blue.withdrawal;Mm3;0
+1280;Water Withdrawal Blue - Manufacturing - Plastics, basic;Blue.withdrawal;Mm3;0
+1281;Water Withdrawal Blue - Manufacturing - Secondary plastic for treatment, Re-processing of secondary plastic into new plastic;Blue.withdrawal;Mm3;0
+1282;Water Withdrawal Blue - Manufacturing - N-fertiliser;Blue.withdrawal;Mm3;0
+1283;Water Withdrawal Blue - Manufacturing - P- and other fertiliser;Blue.withdrawal;Mm3;0
+1284;Water Withdrawal Blue - Manufacturing - Chemicals nec;Blue.withdrawal;Mm3;0
+1285;Water Withdrawal Blue - Manufacturing - Rubber and plastic products (25);Blue.withdrawal;Mm3;0
+1286;Water Withdrawal Blue - Manufacturing - Glass and glass products;Blue.withdrawal;Mm3;0
+1287;Water Withdrawal Blue - Manufacturing - Secondary glass for treatment, Re-processing of secondary glass into new glass;Blue.withdrawal;Mm3;0
+1288;Water Withdrawal Blue - Manufacturing - Ceramic goods;Blue.withdrawal;Mm3;0
+1289;Water Withdrawal Blue - Manufacturing - Bricks, tiles and construction products, in baked clay;Blue.withdrawal;Mm3;0
+1290;Water Withdrawal Blue - Manufacturing - Cement, lime and plaster;Blue.withdrawal;Mm3;0
+1291;Water Withdrawal Blue - Manufacturing - Ash for treatment, Re-processing of ash into clinker;Blue.withdrawal;Mm3;0
+1292;Water Withdrawal Blue - Manufacturing - Other non-metallic mineral products;Blue.withdrawal;Mm3;0
+1293;Water Withdrawal Blue - Manufacturing - Basic iron and steel and of ferro-alloys and first products thereof;Blue.withdrawal;Mm3;0
+1294;Water Withdrawal Blue - Manufacturing - Secondary steel for treatment, Re-processing of secondary steel into new steel;Blue.withdrawal;Mm3;0
+1295;Water Withdrawal Blue - Manufacturing - Precious metals;Blue.withdrawal;Mm3;0
+1296;Water Withdrawal Blue - Manufacturing - Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals;Blue.withdrawal;Mm3;0
+1297;Water Withdrawal Blue - Manufacturing - Aluminium and aluminium products;Blue.withdrawal;Mm3;0
+1298;Water Withdrawal Blue - Manufacturing - Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium;Blue.withdrawal;Mm3;0
+1299;Water Withdrawal Blue - Manufacturing - Lead, zinc and tin and products thereof;Blue.withdrawal;Mm3;0
+1300;Water Withdrawal Blue - Manufacturing - Secondary lead for treatment, Re-processing of secondary lead into new lead;Blue.withdrawal;Mm3;0
+1301;Water Withdrawal Blue - Manufacturing - Copper products;Blue.withdrawal;Mm3;0
+1302;Water Withdrawal Blue - Manufacturing - Secondary copper for treatment, Re-processing of secondary copper into new copper;Blue.withdrawal;Mm3;0
+1303;Water Withdrawal Blue - Manufacturing - Other non-ferrous metal products;Blue.withdrawal;Mm3;0
+1304;Water Withdrawal Blue - Manufacturing - Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals;Blue.withdrawal;Mm3;0
+1305;Water Withdrawal Blue - Manufacturing - Fabricated metal products, except machinery and equipment (28);Blue.withdrawal;Mm3;0
+1306;Water Withdrawal Blue - Manufacturing - Machinery and equipment n.e.c. (29);Blue.withdrawal;Mm3;0
+1307;Water Withdrawal Blue - Manufacturing - Office machinery and computers (30);Blue.withdrawal;Mm3;0
+1308;Water Withdrawal Blue - Manufacturing - Electrical machinery and apparatus n.e.c. (31);Blue.withdrawal;Mm3;0
+1309;Water Withdrawal Blue - Manufacturing - Radio, television and communication equipment and apparatus (32);Blue.withdrawal;Mm3;0
+1310;Water Withdrawal Blue - Manufacturing - Medical, precision and optical instruments, watches and clocks (33);Blue.withdrawal;Mm3;0
+1311;Water Withdrawal Blue - Manufacturing - Motor vehicles, trailers and semi-trailers (34);Blue.withdrawal;Mm3;0
+1312;Water Withdrawal Blue - Manufacturing - Other transport equipment (35);Blue.withdrawal;Mm3;0
+1313;"Water Withdrawal Blue - Manufacturing - Furniture; other manufactured goods n.e.c. (36)";Blue.withdrawal;Mm3;0
+1314;Water Withdrawal Blue - Electricity - tower - Electricity by coal;Blue.withdrawal;Mm3;0
+1315;Water Withdrawal Blue - Electricity - tower - Electricity by gas;Blue.withdrawal;Mm3;0
+1316;Water Withdrawal Blue - Electricity - tower - Electricity by nuclear;Blue.withdrawal;Mm3;0
+1317;Water Withdrawal Blue - Electricity - tower - Electricity by hydro;Blue.withdrawal;Mm3;0
+1318;Water Withdrawal Blue - Electricity - tower - Electricity by wind;Blue.withdrawal;Mm3;0
+1319;Water Withdrawal Blue - Electricity - tower - Electricity by petroleum and other oil derivatives;Blue.withdrawal;Mm3;0
+1320;Water Withdrawal Blue - Electricity - tower - Electricity by biomass and waste;Blue.withdrawal;Mm3;0
+1321;Water Withdrawal Blue - Electricity - tower - Electricity by solar photovoltaic;Blue.withdrawal;Mm3;0
+1322;Water Withdrawal Blue - Electricity - tower - Electricity by solar thermal;Blue.withdrawal;Mm3;0
+1323;Water Withdrawal Blue - Electricity - tower - Electricity by tide, wave, ocean;Blue.withdrawal;Mm3;0
+1324;Water Withdrawal Blue - Electricity - tower - Electricity by Geothermal;Blue.withdrawal;Mm3;0
+1325;Water Withdrawal Blue - Electricity - tower - Electricity nec;Blue.withdrawal;Mm3;0
+1326;Water Withdrawal Blue - Electricity - once-through - Electricity by coal;Blue.withdrawal;Mm3;0
+1327;Water Withdrawal Blue - Electricity - once-through - Electricity by gas;Blue.withdrawal;Mm3;0
+1328;Water Withdrawal Blue - Electricity - once-through - Electricity by nuclear;Blue.withdrawal;Mm3;0
+1329;Water Withdrawal Blue - Electricity - once-through - Electricity by hydro;Blue.withdrawal;Mm3;0
+1330;Water Withdrawal Blue - Electricity - once-through - Electricity by wind;Blue.withdrawal;Mm3;0
+1331;Water Withdrawal Blue - Electricity - once-through - Electricity by petroleum and other oil derivatives;Blue.withdrawal;Mm3;0
+1332;Water Withdrawal Blue - Electricity - once-through - Electricity by biomass and waste;Blue.withdrawal;Mm3;0
+1333;Water Withdrawal Blue - Electricity - once-through - Electricity by solar photovoltaic;Blue.withdrawal;Mm3;0
+1334;Water Withdrawal Blue - Electricity - once-through - Electricity by solar thermal;Blue.withdrawal;Mm3;0
+1335;Water Withdrawal Blue - Electricity - once-through - Electricity by tide, wave, ocean;Blue.withdrawal;Mm3;0
+1336;Water Withdrawal Blue - Electricity - once-through - Electricity by Geothermal;Blue.withdrawal;Mm3;0
+1337;Water Withdrawal Blue - Electricity - once-through - Electricity nec;Blue.withdrawal;Mm3;0
+1338;Water Withdrawal Blue - Domestic - domestic Water Withdrawal Blue;-;Mm3;0
+1339;Energy Carrier Net Additives/Blending Components;Energy.net;TJ;0
+1340;Energy Carrier Net Anthracite;Energy.net;TJ;0
+1341;Energy Carrier Net Aviation Gasoline;Energy.net;TJ;0
+1342;Energy Carrier Net BKB/Peat Briquettes;Energy.net;TJ;0
+1343;Energy Carrier Net Biodiesels;Energy.net;TJ;0
+1344;Energy Carrier Net Biogas;Energy.net;TJ;0
+1345;Energy Carrier Net Biogasoline;Energy.net;TJ;0
+1346;Energy Carrier Net Bitumen;Energy.net;TJ;0
+1347;Energy Carrier Net Blast Furnace Gas;Energy.net;TJ;0
+1348;Energy Carrier Net Charcoal;Energy.net;TJ;0
+1349;Energy Carrier Net Coal Tar;Energy.net;TJ;0
+1350;Energy Carrier Net Coke Oven Coke;Energy.net;TJ;0
+1351;Energy Carrier Net Coke oven gas;Energy.net;TJ;0
+1352;Energy Carrier Net Coking Coal;Energy.net;TJ;0
+1353;Energy Carrier Net Crops nec;Energy.net;TJ;0
+1354;Energy Carrier Net Crude petroleum and services related to crude oil extraction, excluding surveying;Energy.net;TJ;0
+1355;Energy Carrier Net Electricity by Geothermal;Energy.net;TJ;0
+1356;Energy Carrier Net Electricity by biomass and waste;Energy.net;TJ;0
+1357;Energy Carrier Net Electricity by coal;Energy.net;TJ;0
+1358;Energy Carrier Net Electricity by gas;Energy.net;TJ;0
+1359;Energy Carrier Net Electricity by hydro;Energy.net;TJ;0
+1360;Energy Carrier Net Electricity by nuclear;Energy.net;TJ;0
+1361;Energy Carrier Net Electricity by petroleum and other oil derivatives;Energy.net;TJ;0
+1362;Energy Carrier Net Electricity by solar photovoltaic;Energy.net;TJ;0
+1363;Energy Carrier Net Electricity by solar thermal;Energy.net;TJ;0
+1364;Energy Carrier Net Electricity by tide, wave, ocean;Energy.net;TJ;0
+1365;Energy Carrier Net Electricity by wind;Energy.net;TJ;0
+1366;Energy Carrier Net Electricity nec;Energy.net;TJ;0
+1367;Energy Carrier Net Ethane;Energy.net;TJ;0
+1368;Energy Carrier Net Food products nec;Energy.net;TJ;0
+1369;Energy Carrier Net Food waste for treatment: incineration;Energy.net;TJ;0
+1370;Energy Carrier Net Gas Coke;Energy.net;TJ;0
+1371;Energy Carrier Net Gas Works Gas;Energy.net;TJ;0
+1372;Energy Carrier Net Gas/Diesel Oil;Energy.net;TJ;0
+1373;Energy Carrier Net Gasoline Type Jet Fuel;Energy.net;TJ;0
+1374;Energy Carrier Net Heavy Fuel Oil;Energy.net;TJ;0
+1375;Energy Carrier Net Intert/metal waste for treatment: incineration;Energy.net;TJ;0
+1376;Energy Carrier Net Kerosene;Energy.net;TJ;0
+1377;Energy Carrier Net Kerosene Type Jet Fuel;Energy.net;TJ;0
+1378;Energy Carrier Net Lignite/Brown Coal;Energy.net;TJ;0
+1379;Energy Carrier Net Liquefied Petroleum Gases (LPG);Energy.net;TJ;0
+1380;Energy Carrier Net Lubricants;Energy.net;TJ;0
+1381;Energy Carrier Net Manure (biogas treatment);Energy.net;TJ;0
+1382;Energy Carrier Net Manure (conventional treatment);Energy.net;TJ;0
+1383;Energy Carrier Net Motor Gasoline;Energy.net;TJ;0
+1384;Energy Carrier Net Naphtha;Energy.net;TJ;0
+1385;Energy Carrier Net Natural Gas Liquids;Energy.net;TJ;0
+1386;Energy Carrier Net Natural gas and services related to natural gas extraction, excluding surveying;Energy.net;TJ;0
+1387;Energy Carrier Net Non-specified Petroleum Products;Energy.net;TJ;0
+1388;Energy Carrier Net Nuclear fuel;Energy.net;TJ;0
+1389;Energy Carrier Net Oil/hazardous waste for treatment: incineration;Energy.net;TJ;0
+1390;Energy Carrier Net Other Bituminous Coal;Energy.net;TJ;0
+1391;Energy Carrier Net Other Hydrocarbons;Energy.net;TJ;0
+1392;Energy Carrier Net Other Liquid Biofuels;Energy.net;TJ;0
+1393;Energy Carrier Net Oxygen Steel Furnace Gas;Energy.net;TJ;0
+1394;Energy Carrier Net Paper waste for treatment: incineration;Energy.net;TJ;0
+1395;Energy Carrier Net Paraffin Waxes;Energy.net;TJ;0
+1396;Energy Carrier Net Patent Fuel;Energy.net;TJ;0
+1397;Energy Carrier Net Peat;Energy.net;TJ;0
+1398;Energy Carrier Net Petroleum Coke;Energy.net;TJ;0
+1399;Energy Carrier Net Plastic waste for treatment: incineration;Energy.net;TJ;0
+1400;Energy Carrier Net Products of forestry, logging and related services (02);Energy.net;TJ;0
+1401;Energy Carrier Net Pulp;Energy.net;TJ;0
+1402;Energy Carrier Net Refinery Feedstocks;Energy.net;TJ;0
+1403;Energy Carrier Net Refinery Gas;Energy.net;TJ;0
+1404;Energy Carrier Net Secondary paper for treatment, Re-processing of secondary paper into new pulp;Energy.net;TJ;0
+1405;Energy Carrier Net Steam and hot water supply services;Energy.net;TJ;0
+1406;Energy Carrier Net Sub-Bituminous Coal;Energy.net;TJ;0
+1407;Energy Carrier Net Sugar;Energy.net;TJ;0
+1408;Energy Carrier Net Textiles waste for treatment: incineration;Energy.net;TJ;0
+1409;Energy Carrier Net Uranium and thorium ores (12);Energy.net;TJ;0
+1410;Energy Carrier Net White Spirit & SBP;Energy.net;TJ;0
+1411;Energy Carrier Net Wood material for treatment, Re-processing of secondary wood material into new wood material;Energy.net;TJ;0
+1412;Energy Carrier Net Wood waste for treatment: incineration;Energy.net;TJ;0
+1413;Energy Carrier Net NENE Anthracite;Non.energy;TJ;0
+1414;Energy Carrier Net NENE Bitumen;Non.energy;TJ;0
+1415;Energy Carrier Net NENE BKB/Peat Briquettes;Non.energy;TJ;0
+1416;Energy Carrier Net NENE Blast Furnace Gas;Non.energy;TJ;0
+1417;Energy Carrier Net NENE Coal Tar;Non.energy;TJ;0
+1418;Energy Carrier Net NENE Coke Oven Coke;Non.energy;TJ;0
+1419;Energy Carrier Net NENE Coke oven gas;Non.energy;TJ;0
+1420;Energy Carrier Net NENE Coking Coal;Non.energy;TJ;0
+1421;Energy Carrier Net NENE Crude petroleum and services related to crude oil extraction, excluding surveying;Non.energy;TJ;0
+1422;Energy Carrier Net NENE Ethane;Non.energy;TJ;0
+1423;Energy Carrier Net NENE Gas Works Gas;Non.energy;TJ;0
+1424;Energy Carrier Net NENE Gas/Diesel Oil;Non.energy;TJ;0
+1425;Energy Carrier Net NENE Heavy Fuel Oil;Non.energy;TJ;0
+1426;Energy Carrier Net NENE Kerosene;Non.energy;TJ;0
+1427;Energy Carrier Net NENE Kerosene Type Jet Fuel;Non.energy;TJ;0
+1428;Energy Carrier Net NENE Lignite/Brown Coal;Non.energy;TJ;0
+1429;Energy Carrier Net NENE Liquefied Petroleum Gases (LPG);Non.energy;TJ;0
+1430;Energy Carrier Net NENE Lubricants;Non.energy;TJ;0
+1431;Energy Carrier Net NENE Motor Gasoline;Non.energy;TJ;0
+1432;Energy Carrier Net NENE Naphtha;Non.energy;TJ;0
+1433;Energy Carrier Net NENE Natural gas and services related to natural gas extraction, excluding surveying;Non.energy;TJ;0
+1434;Energy Carrier Net NENE Natural Gas Liquids;Non.energy;TJ;0
+1435;Energy Carrier Net NENE Non-specified Petroleum Products;Non.energy;TJ;0
+1436;Energy Carrier Net NENE Other Bituminous Coal;Non.energy;TJ;0
+1437;Energy Carrier Net NENE Oxygen Steel Furnace Gas;Non.energy;TJ;0
+1438;Energy Carrier Net NENE Paraffin Waxes;Non.energy;TJ;0
+1439;Energy Carrier Net NENE Patent Fuel;Non.energy;TJ;0
+1440;Energy Carrier Net NENE Peat;Non.energy;TJ;0
+1441;Energy Carrier Net NENE Petroleum Coke;Non.energy;TJ;0
+1442;Energy Carrier Net NENE Refinery Gas;Non.energy;TJ;0
+1443;Energy Carrier Net NENE Sub-Bituminous Coal;Non.energy;TJ;0
+1444;Energy Carrier Net NENE White Spirit & SBP;Non.energy;TJ;0
+1445;Energy Carrier Net NTRA Additives/Blending Components;Non.transport;TJ;0
+1446;Energy Carrier Net NTRA Anthracite;Non.transport;TJ;0
+1447;Energy Carrier Net NTRA Aviation Gasoline;Non.transport;TJ;0
+1448;Energy Carrier Net NTRA Biodiesels;Non.transport;TJ;0
+1449;Energy Carrier Net NTRA Biogas;Non.transport;TJ;0
+1450;Energy Carrier Net NTRA Biogasoline;Non.transport;TJ;0
+1451;Energy Carrier Net NTRA Bitumen;Non.transport;TJ;0
+1452;Energy Carrier Net NTRA BKB/Peat Briquettes;Non.transport;TJ;0
+1453;Energy Carrier Net NTRA Blast Furnace Gas;Non.transport;TJ;0
+1454;Energy Carrier Net NTRA Charcoal;Non.transport;TJ;0
+1455;Energy Carrier Net NTRA Coal Tar;Non.transport;TJ;0
+1456;Energy Carrier Net NTRA Coke Oven Coke;Non.transport;TJ;0
+1457;Energy Carrier Net NTRA Coke oven gas;Non.transport;TJ;0
+1458;Energy Carrier Net NTRA Coking Coal;Non.transport;TJ;0
+1459;Energy Carrier Net NTRA Crops nec;Non.transport;TJ;0
+1460;Energy Carrier Net NTRA Crude petroleum and services related to crude oil extraction, excluding surveying;Non.transport;TJ;0
+1461;Energy Carrier Net NTRA Electricity by biomass and waste;Non.transport;TJ;0
+1462;Energy Carrier Net NTRA Electricity by coal;Non.transport;TJ;0
+1463;Energy Carrier Net NTRA Electricity by gas;Non.transport;TJ;0
+1464;Energy Carrier Net NTRA Electricity by Geothermal;Non.transport;TJ;0
+1465;Energy Carrier Net NTRA Electricity by hydro;Non.transport;TJ;0
+1466;Energy Carrier Net NTRA Electricity by nuclear;Non.transport;TJ;0
+1467;Energy Carrier Net NTRA Electricity by petroleum and other oil derivatives;Non.transport;TJ;0
+1468;Energy Carrier Net NTRA Electricity by solar photovoltaic;Non.transport;TJ;0
+1469;Energy Carrier Net NTRA Electricity by solar thermal;Non.transport;TJ;0
+1470;Energy Carrier Net NTRA Electricity by tide, wave, ocean;Non.transport;TJ;0
+1471;Energy Carrier Net NTRA Electricity by wind;Non.transport;TJ;0
+1472;Energy Carrier Net NTRA Electricity nec;Non.transport;TJ;0
+1473;Energy Carrier Net NTRA Ethane;Non.transport;TJ;0
+1474;Energy Carrier Net NTRA Food products nec;Non.transport;TJ;0
+1475;Energy Carrier Net NTRA Food waste for treatment: incineration;Non.transport;TJ;0
+1476;Energy Carrier Net NTRA Gas Coke;Non.transport;TJ;0
+1477;Energy Carrier Net NTRA Gas Works Gas;Non.transport;TJ;0
+1478;Energy Carrier Net NTRA Gas/Diesel Oil;Non.transport;TJ;0
+1479;Energy Carrier Net NTRA Heavy Fuel Oil;Non.transport;TJ;0
+1480;Energy Carrier Net NTRA Intert/metal waste for treatment: incineration;Non.transport;TJ;0
+1481;Energy Carrier Net NTRA Kerosene;Non.transport;TJ;0
+1482;Energy Carrier Net NTRA Kerosene Type Jet Fuel;Non.transport;TJ;0
+1483;Energy Carrier Net NTRA Lignite/Brown Coal;Non.transport;TJ;0
+1484;Energy Carrier Net NTRA Liquefied Petroleum Gases (LPG);Non.transport;TJ;0
+1485;Energy Carrier Net NTRA Lubricants;Non.transport;TJ;0
+1486;Energy Carrier Net NTRA Manure (biogas treatment);Non.transport;TJ;0
+1487;Energy Carrier Net NTRA Manure (conventional treatment);Non.transport;TJ;0
+1488;Energy Carrier Net NTRA Motor Gasoline;Non.transport;TJ;0
+1489;Energy Carrier Net NTRA Naphtha;Non.transport;TJ;0
+1490;Energy Carrier Net NTRA Natural gas and services related to natural gas extraction, excluding surveying;Non.transport;TJ;0
+1491;Energy Carrier Net NTRA Natural Gas Liquids;Non.transport;TJ;0
+1492;Energy Carrier Net NTRA Non-specified Petroleum Products;Non.transport;TJ;0
+1493;Energy Carrier Net NTRA Oil/hazardous waste for treatment: incineration;Non.transport;TJ;0
+1494;Energy Carrier Net NTRA Other Bituminous Coal;Non.transport;TJ;0
+1495;Energy Carrier Net NTRA Other Hydrocarbons;Non.transport;TJ;0
+1496;Energy Carrier Net NTRA Other Liquid Biofuels;Non.transport;TJ;0
+1497;Energy Carrier Net NTRA Oxygen Steel Furnace Gas;Non.transport;TJ;0
+1498;Energy Carrier Net NTRA Paper waste for treatment: incineration;Non.transport;TJ;0
+1499;Energy Carrier Net NTRA Paraffin Waxes;Non.transport;TJ;0
+1500;Energy Carrier Net NTRA Patent Fuel;Non.transport;TJ;0
+1501;Energy Carrier Net NTRA Peat;Non.transport;TJ;0
+1502;Energy Carrier Net NTRA Petroleum Coke;Non.transport;TJ;0
+1503;Energy Carrier Net NTRA Plastic waste for treatment: incineration;Non.transport;TJ;0
+1504;Energy Carrier Net NTRA Products of forestry, logging and related services (02);Non.transport;TJ;0
+1505;Energy Carrier Net NTRA Pulp;Non.transport;TJ;0
+1506;Energy Carrier Net NTRA Refinery Gas;Non.transport;TJ;0
+1507;Energy Carrier Net NTRA Secondary paper for treatment, Re-processing of secondary paper into new pulp;Non.transport;TJ;0
+1508;Energy Carrier Net NTRA Steam and hot water supply services;Non.transport;TJ;0
+1509;Energy Carrier Net NTRA Sub-Bituminous Coal;Non.transport;TJ;0
+1510;Energy Carrier Net NTRA Sugar;Non.transport;TJ;0
+1511;Energy Carrier Net NTRA Textiles waste for treatment: incineration;Non.transport;TJ;0
+1512;Energy Carrier Net NTRA White Spirit & SBP;Non.transport;TJ;0
+1513;Energy Carrier Net NTRA Wood material for treatment, Re-processing of secondary wood material into new wood material;Non.transport;TJ;0
+1514;Energy Carrier Net NTRA Wood waste for treatment: incineration;Non.transport;TJ;0
+1515;Energy Carrier Net TAVI Aviation Gasoline;Air.transport;TJ;0
+1516;Energy Carrier Net TAVI Gas/Diesel Oil;Air.transport;TJ;0
+1517;Energy Carrier Net TAVI Gasoline Type Jet Fuel;Air.transport;TJ;0
+1518;Energy Carrier Net TAVI Heavy Fuel Oil;Air.transport;TJ;0
+1519;Energy Carrier Net TAVI Kerosene;Air.transport;TJ;0
+1520;Energy Carrier Net TAVI Kerosene Type Jet Fuel;Air.transport;TJ;0
+1521;Energy Carrier Net TAVI Liquefied Petroleum Gases (LPG);Air.transport;TJ;0
+1522;Energy Carrier Net TAVI Motor Gasoline;Air.transport;TJ;0
+1523;Energy Carrier Net TMAR Biodiesels;Marine.transport;TJ;0
+1524;Energy Carrier Net TMAR Biogasoline;Marine.transport;TJ;0
+1525;Energy Carrier Net TMAR Bitumen;Marine.transport;TJ;0
+1526;Energy Carrier Net TMAR Coke Oven Coke;Marine.transport;TJ;0
+1527;Energy Carrier Net TMAR Food products nec;Marine.transport;TJ;0
+1528;Energy Carrier Net TMAR Gas/Diesel Oil;Marine.transport;TJ;0
+1529;Energy Carrier Net TMAR Heavy Fuel Oil;Marine.transport;TJ;0
+1530;Energy Carrier Net TMAR Kerosene;Marine.transport;TJ;0
+1531;Energy Carrier Net TMAR Kerosene Type Jet Fuel;Marine.transport;TJ;0
+1532;Energy Carrier Net TMAR Liquefied Petroleum Gases (LPG);Marine.transport;TJ;0
+1533;Energy Carrier Net TMAR Lubricants;Marine.transport;TJ;0
+1534;Energy Carrier Net TMAR Motor Gasoline;Marine.transport;TJ;0
+1535;Energy Carrier Net TMAR Natural gas and services related to natural gas extraction, excluding surveying;Marine.transport;TJ;0
+1536;Energy Carrier Net TMAR Non-specified Petroleum Products;Marine.transport;TJ;0
+1537;Energy Carrier Net TMAR Other Bituminous Coal;Marine.transport;TJ;0
+1538;Energy Carrier Net TMAR Sub-Bituminous Coal;Marine.transport;TJ;0
+1539;Energy Carrier Net TOTH Additives/Blending Components;Other.transport;TJ;0
+1540;Energy Carrier Net TOTH Anthracite;Other.transport;TJ;0
+1541;Energy Carrier Net TOTH Biodiesels;Other.transport;TJ;0
+1542;Energy Carrier Net TOTH Biogas;Other.transport;TJ;0
+1543;Energy Carrier Net TOTH Bitumen;Other.transport;TJ;0
+1544;Energy Carrier Net TOTH BKB/Peat Briquettes;Other.transport;TJ;0
+1545;Energy Carrier Net TOTH Coke Oven Coke;Other.transport;TJ;0
+1546;Energy Carrier Net TOTH Crops nec;Other.transport;TJ;0
+1547;Energy Carrier Net TOTH Crude petroleum and services related to crude oil extraction, excluding surveying;Other.transport;TJ;0
+1548;Energy Carrier Net TOTH Electricity by biomass and waste;Other.transport;TJ;0
+1549;Energy Carrier Net TOTH Electricity by coal;Other.transport;TJ;0
+1550;Energy Carrier Net TOTH Electricity by gas;Other.transport;TJ;0
+1551;Energy Carrier Net TOTH Electricity by Geothermal;Other.transport;TJ;0
+1552;Energy Carrier Net TOTH Electricity by hydro;Other.transport;TJ;0
+1553;Energy Carrier Net TOTH Electricity by nuclear;Other.transport;TJ;0
+1554;Energy Carrier Net TOTH Electricity by petroleum and other oil derivatives;Other.transport;TJ;0
+1555;Energy Carrier Net TOTH Electricity by solar photovoltaic;Other.transport;TJ;0
+1556;Energy Carrier Net TOTH Electricity by solar thermal;Other.transport;TJ;0
+1557;Energy Carrier Net TOTH Electricity by tide, wave, ocean;Other.transport;TJ;0
+1558;Energy Carrier Net TOTH Electricity by wind;Other.transport;TJ;0
+1559;Energy Carrier Net TOTH Food products nec;Other.transport;TJ;0
+1560;Energy Carrier Net TOTH Gas/Diesel Oil;Other.transport;TJ;0
+1561;Energy Carrier Net TOTH Heavy Fuel Oil;Other.transport;TJ;0
+1562;Energy Carrier Net TOTH Kerosene;Other.transport;TJ;0
+1563;Energy Carrier Net TOTH Kerosene Type Jet Fuel;Other.transport;TJ;0
+1564;Energy Carrier Net TOTH Lignite/Brown Coal;Other.transport;TJ;0
+1565;Energy Carrier Net TOTH Liquefied Petroleum Gases (LPG);Other.transport;TJ;0
+1566;Energy Carrier Net TOTH Motor Gasoline;Other.transport;TJ;0
+1567;Energy Carrier Net TOTH Natural gas and services related to natural gas extraction, excluding surveying;Other.transport;TJ;0
+1568;Energy Carrier Net TOTH Non-specified Petroleum Products;Other.transport;TJ;0
+1569;Energy Carrier Net TOTH Other Bituminous Coal;Other.transport;TJ;0
+1570;Energy Carrier Net TOTH Products of forestry, logging and related services (02);Other.transport;TJ;0
+1571;Energy Carrier Net TOTH Pulp;Other.transport;TJ;0
+1572;Energy Carrier Net TOTH Secondary paper for treatment, Re-processing of secondary paper into new pulp;Other.transport;TJ;0
+1573;Energy Carrier Net TOTH Sub-Bituminous Coal;Other.transport;TJ;0
+1574;Energy Carrier Net TOTH Sugar;Other.transport;TJ;0
+1575;Energy Carrier Net TRAI Anthracite;Rail.transport;TJ;0
+1576;Energy Carrier Net TRAI Biodiesels;Rail.transport;TJ;0
+1577;Energy Carrier Net TRAI BKB/Peat Briquettes;Rail.transport;TJ;0
+1578;Energy Carrier Net TRAI Coke Oven Coke;Rail.transport;TJ;0
+1579;Energy Carrier Net TRAI Coking Coal;Rail.transport;TJ;0
+1580;Energy Carrier Net TRAI Crops nec;Rail.transport;TJ;0
+1581;Energy Carrier Net TRAI Electricity by biomass and waste;Rail.transport;TJ;0
+1582;Energy Carrier Net TRAI Electricity by coal;Rail.transport;TJ;0
+1583;Energy Carrier Net TRAI Electricity by gas;Rail.transport;TJ;0
+1584;Energy Carrier Net TRAI Electricity by Geothermal;Rail.transport;TJ;0
+1585;Energy Carrier Net TRAI Electricity by hydro;Rail.transport;TJ;0
+1586;Energy Carrier Net TRAI Electricity by nuclear;Rail.transport;TJ;0
+1587;Energy Carrier Net TRAI Electricity by petroleum and other oil derivatives;Rail.transport;TJ;0
+1588;Energy Carrier Net TRAI Electricity by solar photovoltaic;Rail.transport;TJ;0
+1589;Energy Carrier Net TRAI Electricity by solar thermal;Rail.transport;TJ;0
+1590;Energy Carrier Net TRAI Electricity by tide, wave, ocean;Rail.transport;TJ;0
+1591;Energy Carrier Net TRAI Electricity by wind;Rail.transport;TJ;0
+1592;Energy Carrier Net TRAI Electricity nec;Rail.transport;TJ;0
+1593;Energy Carrier Net TRAI Food products nec;Rail.transport;TJ;0
+1594;Energy Carrier Net TRAI Gas/Diesel Oil;Rail.transport;TJ;0
+1595;Energy Carrier Net TRAI Heavy Fuel Oil;Rail.transport;TJ;0
+1596;Energy Carrier Net TRAI Kerosene;Rail.transport;TJ;0
+1597;Energy Carrier Net TRAI Lignite/Brown Coal;Rail.transport;TJ;0
+1598;Energy Carrier Net TRAI Liquefied Petroleum Gases (LPG);Rail.transport;TJ;0
+1599;Energy Carrier Net TRAI Lubricants;Rail.transport;TJ;0
+1600;Energy Carrier Net TRAI Motor Gasoline;Rail.transport;TJ;0
+1601;Energy Carrier Net TRAI Non-specified Petroleum Products;Rail.transport;TJ;0
+1602;Energy Carrier Net TRAI Other Bituminous Coal;Rail.transport;TJ;0
+1603;Energy Carrier Net TRAI Peat;Rail.transport;TJ;0
+1604;Energy Carrier Net TRAI Products of forestry, logging and related services (02);Rail.transport;TJ;0
+1605;Energy Carrier Net TRAI Pulp;Rail.transport;TJ;0
+1606;Energy Carrier Net TRAI Secondary paper for treatment, Re-processing of secondary paper into new pulp;Rail.transport;TJ;0
+1607;Energy Carrier Net TRAI Sub-Bituminous Coal;Rail.transport;TJ;0
+1608;Energy Carrier Net TRAI Sugar;Rail.transport;TJ;0
+1609;Energy Carrier Net TRAI White Spirit & SBP;Rail.transport;TJ;0
+1610;Energy Carrier Net TROA Biodiesels;Road.transport;TJ;0
+1611;Energy Carrier Net TROA Biogas;Road.transport;TJ;0
+1612;Energy Carrier Net TROA Biogasoline;Road.transport;TJ;0
+1613;Energy Carrier Net TROA Electricity by biomass and waste;Road.transport;TJ;0
+1614;Energy Carrier Net TROA Electricity by coal;Road.transport;TJ;0
+1615;Energy Carrier Net TROA Electricity by gas;Road.transport;TJ;0
+1616;Energy Carrier Net TROA Electricity by nuclear;Road.transport;TJ;0
+1617;Energy Carrier Net TROA Electricity by petroleum and other oil derivatives;Road.transport;TJ;0
+1618;Energy Carrier Net TROA Food products nec;Road.transport;TJ;0
+1619;Energy Carrier Net TROA Gas/Diesel Oil;Road.transport;TJ;0
+1620;Energy Carrier Net TROA Heavy Fuel Oil;Road.transport;TJ;0
+1621;Energy Carrier Net TROA Kerosene;Road.transport;TJ;0
+1622;Energy Carrier Net TROA Kerosene Type Jet Fuel;Road.transport;TJ;0
+1623;Energy Carrier Net TROA Liquefied Petroleum Gases (LPG);Road.transport;TJ;0
+1624;Energy Carrier Net TROA Motor Gasoline;Road.transport;TJ;0
+1625;Energy Carrier Net TROA Naphtha;Road.transport;TJ;0
+1626;Energy Carrier Net TROA Natural gas and services related to natural gas extraction, excluding surveying;Road.transport;TJ;0
+1627;Energy Carrier Net TROA Natural Gas Liquids;Road.transport;TJ;0
+1628;Energy Carrier Net TROA Non-specified Petroleum Products;Road.transport;TJ;0
+1629;Energy Carrier Net TROA Other Liquid Biofuels;Road.transport;TJ;0
+1630;Energy Carrier Net TROA Products of forestry, logging and related services (02);Road.transport;TJ;0
+1631;Energy Carrier Net TROA Pulp;Road.transport;TJ;0
+1632;Energy Carrier Net TROA Refinery Gas;Road.transport;TJ;0
+1633;Energy Carrier Net TROA Sugar;Road.transport;TJ;0
+1634;Energy Carrier Net TROA White Spirit & SBP;Road.transport;TJ;0
+1635;Energy Carrier Net LOSS Additives/Blending Components;Losses.and.energy.industry.own.use;TJ;0
+1636;Energy Carrier Net LOSS Anthracite;Losses.and.energy.industry.own.use;TJ;0
+1637;Energy Carrier Net LOSS Aviation Gasoline;Losses.and.energy.industry.own.use;TJ;0
+1638;Energy Carrier Net LOSS Biodiesels;Losses.and.energy.industry.own.use;TJ;0
+1639;Energy Carrier Net LOSS Biogas;Losses.and.energy.industry.own.use;TJ;0
+1640;Energy Carrier Net LOSS Biogasoline;Losses.and.energy.industry.own.use;TJ;0
+1641;Energy Carrier Net LOSS Bitumen;Losses.and.energy.industry.own.use;TJ;0
+1642;Energy Carrier Net LOSS BKB/Peat Briquettes;Losses.and.energy.industry.own.use;TJ;0
+1643;Energy Carrier Net LOSS Blast Furnace Gas;Losses.and.energy.industry.own.use;TJ;0
+1644;Energy Carrier Net LOSS Charcoal;Losses.and.energy.industry.own.use;TJ;0
+1645;Energy Carrier Net LOSS Coal Tar;Losses.and.energy.industry.own.use;TJ;0
+1646;Energy Carrier Net LOSS Coke Oven Coke;Losses.and.energy.industry.own.use;TJ;0
+1647;Energy Carrier Net LOSS Coke oven gas;Losses.and.energy.industry.own.use;TJ;0
+1648;Energy Carrier Net LOSS Coking Coal;Losses.and.energy.industry.own.use;TJ;0
+1649;Energy Carrier Net LOSS Crops nec;Losses.and.energy.industry.own.use;TJ;0
+1650;Energy Carrier Net LOSS Crude petroleum and services related to crude oil extraction, excluding surveying;Losses.and.energy.industry.own.use;TJ;0
+1651;Energy Carrier Net LOSS Electricity by biomass and waste;Losses.and.energy.industry.own.use;TJ;0
+1652;Energy Carrier Net LOSS Electricity by coal;Losses.and.energy.industry.own.use;TJ;0
+1653;Energy Carrier Net LOSS Electricity by gas;Losses.and.energy.industry.own.use;TJ;0
+1654;Energy Carrier Net LOSS Electricity by Geothermal;Losses.and.energy.industry.own.use;TJ;0
+1655;Energy Carrier Net LOSS Electricity by hydro;Losses.and.energy.industry.own.use;TJ;0
+1656;Energy Carrier Net LOSS Electricity by nuclear;Losses.and.energy.industry.own.use;TJ;0
+1657;Energy Carrier Net LOSS Electricity by petroleum and other oil derivatives;Losses.and.energy.industry.own.use;TJ;0
+1658;Energy Carrier Net LOSS Electricity by solar photovoltaic;Losses.and.energy.industry.own.use;TJ;0
+1659;Energy Carrier Net LOSS Electricity by solar thermal;Losses.and.energy.industry.own.use;TJ;0
+1660;Energy Carrier Net LOSS Electricity by tide, wave, ocean;Losses.and.energy.industry.own.use;TJ;0
+1661;Energy Carrier Net LOSS Electricity by wind;Losses.and.energy.industry.own.use;TJ;0
+1662;Energy Carrier Net LOSS Electricity nec;Losses.and.energy.industry.own.use;TJ;0
+1663;Energy Carrier Net LOSS Ethane;Losses.and.energy.industry.own.use;TJ;0
+1664;Energy Carrier Net LOSS Food products nec;Losses.and.energy.industry.own.use;TJ;0
+1665;Energy Carrier Net LOSS Food waste for treatment: incineration;Losses.and.energy.industry.own.use;TJ;0
+1666;Energy Carrier Net LOSS Gas Coke;Losses.and.energy.industry.own.use;TJ;0
+1667;Energy Carrier Net LOSS Gas Works Gas;Losses.and.energy.industry.own.use;TJ;0
+1668;Energy Carrier Net LOSS Gas/Diesel Oil;Losses.and.energy.industry.own.use;TJ;0
+1669;Energy Carrier Net LOSS Gasoline Type Jet Fuel;Losses.and.energy.industry.own.use;TJ;0
+1670;Energy Carrier Net LOSS Heavy Fuel Oil;Losses.and.energy.industry.own.use;TJ;0
+1671;Energy Carrier Net LOSS Intert/metal waste for treatment: incineration;Losses.and.energy.industry.own.use;TJ;0
+1672;Energy Carrier Net LOSS Kerosene;Losses.and.energy.industry.own.use;TJ;0
+1673;Energy Carrier Net LOSS Kerosene Type Jet Fuel;Losses.and.energy.industry.own.use;TJ;0
+1674;Energy Carrier Net LOSS Lignite/Brown Coal;Losses.and.energy.industry.own.use;TJ;0
+1675;Energy Carrier Net LOSS Liquefied Petroleum Gases (LPG);Losses.and.energy.industry.own.use;TJ;0
+1676;Energy Carrier Net LOSS Lubricants;Losses.and.energy.industry.own.use;TJ;0
+1677;Energy Carrier Net LOSS Manure (biogas treatment);Losses.and.energy.industry.own.use;TJ;0
+1678;Energy Carrier Net LOSS Manure (conventional treatment);Losses.and.energy.industry.own.use;TJ;0
+1679;Energy Carrier Net LOSS Motor Gasoline;Losses.and.energy.industry.own.use;TJ;0
+1680;Energy Carrier Net LOSS Naphtha;Losses.and.energy.industry.own.use;TJ;0
+1681;Energy Carrier Net LOSS Natural gas and services related to natural gas extraction, excluding surveying;Losses.and.energy.industry.own.use;TJ;0
+1682;Energy Carrier Net LOSS Natural Gas Liquids;Losses.and.energy.industry.own.use;TJ;0
+1683;Energy Carrier Net LOSS Non-specified Petroleum Products;Losses.and.energy.industry.own.use;TJ;0
+1684;Energy Carrier Net LOSS Nuclear fuel;Losses.and.energy.industry.own.use;TJ;0
+1685;Energy Carrier Net LOSS Oil/hazardous waste for treatment: incineration;Losses.and.energy.industry.own.use;TJ;0
+1686;Energy Carrier Net LOSS Other Bituminous Coal;Losses.and.energy.industry.own.use;TJ;0
+1687;Energy Carrier Net LOSS Other Hydrocarbons;Losses.and.energy.industry.own.use;TJ;0
+1688;Energy Carrier Net LOSS Other Liquid Biofuels;Losses.and.energy.industry.own.use;TJ;0
+1689;Energy Carrier Net LOSS Oxygen Steel Furnace Gas;Losses.and.energy.industry.own.use;TJ;0
+1690;Energy Carrier Net LOSS Paper waste for treatment: incineration;Losses.and.energy.industry.own.use;TJ;0
+1691;Energy Carrier Net LOSS Paraffin Waxes;Losses.and.energy.industry.own.use;TJ;0
+1692;Energy Carrier Net LOSS Patent Fuel;Losses.and.energy.industry.own.use;TJ;0
+1693;Energy Carrier Net LOSS Peat;Losses.and.energy.industry.own.use;TJ;0
+1694;Energy Carrier Net LOSS Petroleum Coke;Losses.and.energy.industry.own.use;TJ;0
+1695;Energy Carrier Net LOSS Plastic waste for treatment: incineration;Losses.and.energy.industry.own.use;TJ;0
+1696;Energy Carrier Net LOSS Products of forestry, logging and related services (02);Losses.and.energy.industry.own.use;TJ;0
+1697;Energy Carrier Net LOSS Pulp;Losses.and.energy.industry.own.use;TJ;0
+1698;Energy Carrier Net LOSS Refinery Feedstocks;Losses.and.energy.industry.own.use;TJ;0
+1699;Energy Carrier Net LOSS Refinery Gas;Losses.and.energy.industry.own.use;TJ;0
+1700;Energy Carrier Net LOSS Secondary paper for treatment, Re-processing of secondary paper into new pulp;Losses.and.energy.industry.own.use;TJ;0
+1701;Energy Carrier Net LOSS Steam and hot water supply services;Losses.and.energy.industry.own.use;TJ;0
+1702;Energy Carrier Net LOSS Sub-Bituminous Coal;Losses.and.energy.industry.own.use;TJ;0
+1703;Energy Carrier Net LOSS Sugar;Losses.and.energy.industry.own.use;TJ;0
+1704;Energy Carrier Net LOSS Textiles waste for treatment: incineration;Losses.and.energy.industry.own.use;TJ;0
+1705;Energy Carrier Net LOSS White Spirit & SBP;Losses.and.energy.industry.own.use;TJ;0
+1706;Energy Carrier Net LOSS Wood material for treatment, Re-processing of secondary wood material into new wood material;Losses.and.energy.industry.own.use;TJ;0
+1707;Energy Carrier Net LOSS Wood waste for treatment: incineration;Losses.and.energy.industry.own.use;TJ;0
