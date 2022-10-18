@@ -25,12 +25,6 @@ install.packages("stringr")
 install.packages("backports")
 install.packages("gridExtra")
 install.packages("zoo")
-install.packages("ggsci")
-install.packages("ggthemes")
-install.packages("showtext")
-install.packages("sysfonts")
-install.packages("ggplotify")
-install.packages("gridtext")
 
 library(readxl)
 library(tidyverse)
@@ -44,14 +38,6 @@ library(stringr)
 library(tibble)
 library(gridExtra)
 library(zoo)
-library(ggsci)
-library(ggthemes)
-library(showtext)
-library(sysfonts)
-library(ggplotify)
-library(grid)
-library(gtable)
-library(gridtext)
 
 
 
@@ -62,6 +48,7 @@ library(gridtext)
 ##########################################################################
 # 0.1. Set path
 
+## To be defined by the user
 exiopath <- "D:/EXIOBASE 3.6/parsed/" ## storage of original exiobase data
 datapath <- "C:/Users/Cerny/Documents/Work/Models/IMPACTECH/data/input_data/" ## storage of input files
 intpath <- "C:/Users/Cerny/Documents/Work/Models/IMPACTECH/data/intermediate_data/" ## storage of intermediate data
@@ -71,14 +58,7 @@ respath <- "C:/Users/Cerny/Documents/Work/Models/IMPACTECH/results/" ## storage 
 ##########################################################################
 # 0.2. Load original and adjusted EXIOBASE 3.6 data
 
-IOdet.codes <- read.csv(paste0(intpath,"IOdet.codes.csv"), header = TRUE, sep = ";", dec = ",")
-Y.codes <- read.csv(paste0(intpath,"Y.codes.csv"), header = TRUE, sep = ";", dec = ",")
 Q.codes <- read.csv(paste0(intpath,"Q.codes.csv"), header = TRUE, sep = ";", dec = ",")
-xdet <- read.csv(paste0(intpath,"xdet.csv"), header = TRUE, sep = ";", dec = ",")
-Ydet <- read.csv(paste0(intpath,"Ydet.csv"), header = TRUE, sep = ";", dec = ",")
-Zdet <- read.csv(paste0(intpath,"Zdet.csv"), header = TRUE, sep = ";", dec = ",")
-Edet <- read.csv(paste0(intpath,"Edet.csv"), header = TRUE, sep = ";", dec = ",")
-
 load(paste0(intpath,"IO_CZ.codes.RData"))
 load(paste0(intpath,"Y_CZ.codes.RData"))
 load(paste0(intpath,"Z_CZ.RData"))
@@ -92,7 +72,6 @@ load(paste0(intpath,"EUSTi40.2_CZ.RData"))
 load(paste0(intpath,"A_CZ.RData"))
 load(paste0(intpath,"E_CZ.RData"))
 load(paste0(intpath,"Q_CZ.codes.RData"))
-# load(paste0(intpath,"YGFCF_CZ.codes.RData")) (not necessary ATM, the calculations run - possibly temporarily - without GFCF)
 load(paste0(intpath,"Ext_el_CZ.RData"))
 load(paste0(intpath,"Ext_CZ.RData"))
 load(paste0(intpath,"Ext_CZ_agg.RData"))
