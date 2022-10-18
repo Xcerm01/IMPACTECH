@@ -1,0 +1,26 @@
+Změny na vstupních datech databáze EXIOBASE v3.6
+
+Základní zdrojová databáze modelu EXIOBASE v3.6 je v režimu licence Attribution-ShareAlike 4.0 International (CC BY-SA 4.0), která nařizuje popsat sekvenci změn
+uskutečněných na zdrojovém dokumentu. V souladu s tím níže popisujeme adaptace uskutečněné na vstupních datech ve verzi modelu IMPACTECH_CZ_decarb.
+
+Rozčlenění sektorů v elektroenergetice
+Oproti základní verzi databáze EXIOBASE v3.6 rozdělujeme "Výrobu elektřiny z větrné energie" na "Výrobu elektřiny z větrné energie onshore" a
+"Výrobu elektřiny z větrné energie offshore" a "Výrobu elektřiny ze solární fotovoltaiky" na "Výrobu elektřiny ze solární fotovoltaiky - velkoplošné" a
+"Výrobu elektřiny ze solární fotovoltaiky - maloplošné". Fotovoltaické elektrárny s instalovaným výkonem nad 1 MW klasifikujeme jako užitkové (velkoplošné) a pod 1 MW
+jako rezidenční (maloplošné).
+Podobným způsobem rozdělujeme další modelovaná odvětví. 
+
+Aktualizace dat o zaměstnanosti v detailně členěných sektorech
+Původní data z databáze EXIOBASE v3.6 ohledně přímé intenzity zaměstnanosti (počtu zaměstnaných osob na MW instalované kapacity daného zdroje) u jednotlivých zdrojů
+energie v detailně členěných sektorech elektroenergetiky byla aktualizována a zpřesněna na základě porovnání údajů z ostatních zdrojů
+(např. Cameron and van der Zwaan, 2015; Ortega et al., 2020, 2015; Ram et al., 2020; Rutovitz et al., 2015). Důvodem byl nesoulad původních dat s drtivou většinou
+ostatních dostupných zdrojů. Adaptace spočívá v nahrazení intenzity zaměstnanosti (faktorů zaměstnanosti) z EXIOBASE v3.6 v modelovaných sektorech faktory zaměstnanosti
+na jednotku instalované kapacity v MW uvedenými ve studiích (Ram et al., 2020; Rutovitz et al., 2015; SolarPower Europe, 2015) a jejich konverzi na počet pracovních míst
+na milion EUR (daného základního roku, tj. roku 2015) za pomoci dat ohledně instalované kapacity každého zdroje (členěno dle sektorů) dle dat Capros et al. (2016) a data
+ohledně nákladů (ceny) na MW instalované kapacity dle Carlsson et al. (2014) - pro neobnovitelné zdroje, solární termální energii, geotermální energii a přílivovou
+energii - a dle International Renewable Energy Agency (2019) pro ostatní obnovitelné zdroje. Vzhledem k nepřítomnosti určitých technologií v současné podobě
+energetického mixu a chybějícím údajům k výrobě elektřiny z biomasy a bioplynu v ČR byla rovněž nahrazena intenzita zaměstnanosti pro tyto technologie daty z jiných
+zemí (z týchž odborných zdrojů, citovaných výše) za využití indikativních kritérií geografické blízkosti a porovnatelnosti kupní síly, a to následovně: Větrná energie
+(offshore) - Německo; Biomasa, bioplyn a odpad + Geotermální energie - Rakousko; Solární termální energie - Španělsko; Přílivová energie - Francie (vyznačeno kurzívou
+v tabulce níže).
+Podobným způsobem jsme přistoupili k nahrazení zaměstnaneckých účtů v ostatních modelovaných sektorech. K tomu využíváme data ČSÚ.
