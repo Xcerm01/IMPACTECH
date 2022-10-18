@@ -1,1 +1,43 @@
+# IMPACTECH_CZ_decarb
 
+### Input-output model assessing changes in socioeconomic indicators as a result of the deep decarbonisation with a focus on the Czech Republic
+
+### Input-output model hodnotící změny socioekonomických ukazatelů v důsledku hluboké dekarbonizace se zaměřením na Českou republiku
+
+(EN) This version of IMPACTECH_CZ model is a tool for assessing expected changes in labour demand and consumption of fixed capital associated with technological change in the energy sector and other CO2 emissions intensive industries.
+
+(CZ) Tato verze modelu IMPACTECH_CZ je nástrojem pro hodnocení očekávaných změn v poptávce po práci a spotřebě fixního kapitálu v souvislosti s technologickými změnami v energetice a dalších průmyslových odvětvích náročných na emise CO2.
+
+### How to cite // Jak citovat
+
+(EN) To cite the IMPACTECH_CZ model, please refer to:
+
+(CZ) Chcete-li citovat model IMPACTECH_CZ, uveďte, prosíme: 
+
+Černý, M., Gajdoš, M., & Bruckner, M. (2021). IMPACTECH_CZ - interaktivní model socioekonomických dopadů energetické transformace (IMPACTECH_CZ - an interactive model of the socio-economic impacts of the energy transition).
+
+### License // Licence
+
+(EN) The model and input data are licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). It is free to run, share and adapt, using proper reference and indicating modifications. IMPACTECH project members invite public sector experts, businesses, NGOs, academia and other interested stakeholders to use the model. If you have a query or would like to provide feedback, please email xcerm01@gmail.com (Martin Cerny).
+
+(CZ) Model a vstupní data jsou licencovány pod licencí Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Je možné jej volně užívat, sdílet a upravovat s uvedením řádného odkazu a provedených úprav. K využití modelu vybízíme odborníky jak z veřejného sektoru, soukromého sektoru, nevládního sektoru, akademické sféry, tak další zainteresované strany. Pokud máte dotaz nebo chcete poskytnout zpětnou vazbu, napište, prosíme, na adresu xcerm01@gmail.com (Martin Černý).
+
+### Use and reproducibility // Užívání a reprodukovatelnost
+
+(EN) This repository contains the model script in R and the input data needed to run the model (folder "input").
+
+(CZ) Toto úložiště obsahuje skript modelu v jazyce R a vstupní data potřebná ke spuštění modelu (složka "input").
+
+### Source data // Zdrojová (podkladová) data
+
+(EN) The original version of the main source database (EXIOBASE, version 3.6) is available at:
+
+(CZ) Původní verze hlavní zdrojové databáze (EXIOBASE, verze 3.6) je k dispozici na adrese:
+
+https://zenodo.org/record/3583071#.XrmeL8DgqUl.
+
+(EN) Other sources of input data are:
+
+(CZ) Dalšími zdroji vstupních dat jsou:
+
+To be filled / Bude doplněno
