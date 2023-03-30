@@ -36,8 +36,39 @@
 
 https://zenodo.org/record/3583071#.XrmeL8DgqUl.
 
-(EN) Other sources of input data are:
+(EN) The changes made to the database include a detailed breakdown of the following sectors into individual production technologies (see input data, "input" folder):
+Manufacture of basic iron and steel and of ferro-alloys and first products thereof (i27.a); 	
+Re-processing of secondary steel into new steel	(i27.a.w); 	
+Manufacture of cement, lime and plaster	(i26.d); 	
+Re-processing of ash into clinker	(i26.d.w); 	
+Plastics, basic	(i24.a); 	
+Re-processing of secondary plastic into new plastic	(i24.a.w); 
+N-fertiliser (i24.b); 
+Manufacture of motor vehicles, trailers and semi-trailers	(i34).
 
-(CZ) Dalšími zdroji vstupních dat jsou:
+(CZ) Změny učiněné na databázi zahrnují detailní rozčlenění níže uvedených sektorů na jednotlivé výrobní technologie (viz vstupní data, složka "input"):
+Výroba základního železa a oceli a feroslitin a jejich prvovýrobků (i27.a); 	
+Přepracování druhotné oceli na novou ocel (i27.a.w); 	
+Výroba cementu, vápna a sádry (i26.d); 	
+Přepracování popela na slínku (i26.d.w); 	
+Plasty, základní (i24.a); 	
+Přepracování druhotných plastů na nové plasty (i24.a.w); 
+N-hnojiva (i24.b); 
+Výroba motorových vozidel, přívěsů a návěsů (i34).
 
-To be filled / Bude doplněno
+(EN) Other sources of input data used for the disaggregation and scenario test run are:
+
+(CZ) Dalšími zdroji vstupních dat využitými pro dezagregaci a testování scénářů jsou:
+
+Cambridge Econometrics, Element Energy, 2018. Low-carbon cars in Europe: A socio-economic assessment. European Climate Foundation.
+Collodi, G., Azzaro, G., Ferrari, N., Santos, S., 2017. Techno-economic evaluation of deploying CCS in SMR based merchant H2 production with NG as feedstock and fuel. Energy Procedia 114, 2690–2712.
+Directorate-General for Climate Action (European Commission), Directorate-General for Energy (European Commission), Directorate-General for Mobility and Transport (European Commission), De Vita, A., Capros, P., Paroussos, L., Fragkiadakis, K., Karkatsoulis, P., Höglund-Isaksson, L., Winiwarter, W., Purohit, P., Gómez-Sanabria, A., Rafaj, P., Warnecke, L., Deppermann, A., Gusti, M., Frank, S., Lauri, P., Fulvio, F. di, Florou, A., Kannavou, M., Forsell, N., Fotiou, T., Siskos, P., Havlík, P., Tsiropoulos, I., Evangelopoulou, S., Witzke, P., Kesting, M., Katoufa, N., Mitsios, I., Asimakopoulou, G., Kalokyris, T., 2021. “Fit for 55” MIX-CP scenario (2021). Publications Office of the European Union, LU.
+Directorate-General for Climate Action (European Commission), Directorate-General for Energy (European Commission), Directorate-General for Mobility and Transport (European Commission), De Vita, A., Capros, P., Paroussos, L., Fragkiadakis, K., Karkatsoulis, P., Höglund-Isaksson, L., Winiwarter, W., Purohit, P., Gómez-Sanabria, A., Rafaj, P., Warnecke, L., Deppermann, A., Gusti, M., Frank, S., Lauri, P., Fulvio, F. di, Florou, A., Kannavou, M., Forsell, N., Fotiou, T., Siskos, P., Havlík, P., Tsiropoulos, I., Evangelopoulou, S., Witzke, P., Kesting, M., Katoufa, N., Mitsios, I., Asimakopoulou, G., Kalokyris, T., 2021. EU reference scenario 2020: energy, transport and GHG emissions : trends to 2050. Publications Office of the European Union, LU.
+González Plaza, M., Martínez, S., Rubiera, F., 2020. CO2 Capture, Use, and Storage in the Cement Industry: State of the Art and Expectations. Energies 13, 5692. https://doi.org/10.3390/en13215692
+Material Economics, 2019. Industrial Transformation 2050 - Pathways to Net-Zero Emissions from EU Heavy Industry - Material Economics.
+Miller, J., 2020. Electric car costs to remain higher than traditional engines. Financial Times.
+Rechberger, K., Spanlang, A., Sasiain Conde, A., Wolfmeir, H., Harris, C., 2020. Green Hydrogen-Based Direct Reduction for Low-Carbon Steelmaking. steel research international 91, 2000110. https://doi.org/10.1002/srin.202000110
+Soulopoulos, N., 2017. When Will Electric Vehicles be Cheaper than Conventional Vehicles?
+Stavropoulos, S., Burger, M.J., 2020. Modelling strategy and net employment effects of renewable energy and energy efficiency: A meta-regression. Energy Policy 136, 111047. https://doi.org/10.1016/j.enpol.2019.111047
+van Ruijven, B.J., van Vuuren, D.P., Boskaljon, W., Neelis, M.L., Saygin, D., Patel, M.K., 2016. Long-term model-based projections of energy use and CO2 emissions from the global steel and cement industries. Resources, Conservation and Recycling 112, 15–36. https://doi.org/10.1016/j.resconrec.2016.04.016
+Wesseling, J.H., Lechtenböhmer, S., Åhman, M., Nilsson, L.J., Worrell, E., Coenen, L., 2017. The transition of energy intensive processing industries towards deep decarbonization: Characteristics and implications for future research. Renewable and Sustainable Energy Reviews 79, 1303–1313. https://doi.org/10.1016/j.rser.2017.05.156
