@@ -29,7 +29,9 @@ This repository contains the model script in R and the input data needed to run 
 
 ### Source data
 
-The original version of the main source database (EXIOBASE, version 3.6) is available at: https://zenodo.org/record/3583071#.XrmeL8DgqUl.
+The original version of the main source database (EXIOBASE, version 3.6) is available at:
+
+https://zenodo.org/record/3583071#.XrmeL8DgqUl
 
 
 Other sources of input data are:
