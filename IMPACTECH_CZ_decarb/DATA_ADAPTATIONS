@@ -7,8 +7,8 @@ be described made to the source document. Accordingly, we describe below the ada
 Sectoral breakdown of the modeled sectors
 
 We divide "Wind power generation" into "Onshore wind power generation" and "Offshore wind power generation". 
-We divide "Solar photovoltaic power generation" into "Solar photovoltaic power generation - large scale" and "Solar photovoltaic power generation - small scale". 
-We classify PV plants with an installed capacity above 1 MW as utility-scale (large-scale) and below 1 MW as residential (small-scale).
+We divide "Solar photovoltaic power generation" into "Solar photovoltaic power generation - utility-scale" and "Solar photovoltaic power generation - residential". 
+We classify PV plants with an installed capacity above 1 MW as utility-scale and below 1 MW as residential.
 
 We divide the other modelled sectors in a similar way. "Steel and iron production" is divided into "Steel and iron production - Integrated mill (BF-BOF)", "Steel and 
 Iron Production - Hydrogen Direct Reduction (H-DR)" and "Steel and Iron Production - CCS Smelting Reduction". "Cement production" is divided into "Cement production - 
@@ -41,18 +41,11 @@ into these categories proportionally according to the baseline data from EXIOBAS
 
 
 Sector (EXIOBASE 3.6 codes)						Employment according to EXIOBASE 3.6 (number of persons), 2015	Employment according to CSU (number of persons), 2015
-Výroba surového železa, oceli a feroslitin [...] (i27.a+i27.a.w)	14 798							23 419
-Výroba cementu, vápna a sádry (i26.d+i26.d.w)				12 078							2 052
-Výroba plastů v primárních formách (i24.a+i24.a.w)			171							5 085
-Výroba hnojiv a dusíkatých sloučenin (i24.b)				1 373							1 668
-Výroba motorových vozidel (kromě motocyklů), přívěsů a návěsů (i34)	167 447							225 287
-
-
-Manufacture of pig iron, steel and ferro-alloys [...] (i27.a+i27.a.w)	14 798 23 419
-Manufacture of cement, lime and plaster (i26.d+i26.d.w) 12 078 2 052
-Manufacture of plastics in primary forms (i24.a+i24.a.w) 171 5 085
-Manufacture of fertilisers and nitrogen compounds (i24.b) 1 373 1 668
-Manufacture of motor vehicles (except motorcycles), trailers and semi-trailers (i34) 167 447 225 287
+Manufacture of pig iron, steel and ferro-alloys [...] (i27.a+i27.a.w)	14 798							23 419
+Manufacture of cement, lime and plaster (i26.d+i26.d.w)				12 078							2 052
+Manufacture of plastics in primary forms (i24.a+i24.a.w)			171							5 085
+Manufacture of fertilisers and nitrogen compounds (i24.b)				1 373							1 668
+Manufacture of motor vehicles (except motorcycles), trailers and semi-trailers (i34)	167 447							225 287
 
 --
 
