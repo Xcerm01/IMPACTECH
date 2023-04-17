@@ -2,41 +2,35 @@
 
 ### Input-output model assessing changes in socioeconomic indicators as a result of the deep decarbonisation with a focus on the Czech Republic
 
-### Input-output model hodnotící změny socioekonomických ukazatelů v důsledku hluboké dekarbonizace se zaměřením na Českou republiku
+This version of IMPACTECH_CZ model is a tool for assessing expected changes in labour demand and consumption of fixed capital associated with technological change in the energy sector and other CO2 emissions intensive industries.
 
-(EN) This version of IMPACTECH_CZ model is a tool for assessing expected changes in labour demand and consumption of fixed capital associated with technological change in the energy sector and other CO2 emissions intensive industries.
 
-(CZ) Tato verze modelu IMPACTECH_CZ je nástrojem pro hodnocení očekávaných změn v poptávce po práci a spotřebě fixního kapitálu v souvislosti s technologickými změnami v energetice a dalších průmyslových odvětvích náročných na emise CO2.
+### How to cite
 
-### How to cite // Jak citovat
+To cite the IMPACTECH_CZ model (including this version IMPACTECH_CZ_decarb), please refer to:
 
-(EN) To cite the IMPACTECH_CZ model (including this version IMPACTECH_CZ_decarb), please refer to:
+Cerny, M., & Bruckner, M. (2023). IMPACTECH (Version 1.0) [Computer software]. https://doi.org/10.5281/zenodo.7837489
 
-(CZ) Chcete-li citovat model IMPACTECH_CZ (včetně této verze IMPACTECH_CZ_decarb), uveďte, prosíme: 
 
-Černý, M., Gajdoš, M., & Bruckner, M. (2021). IMPACTECH_CZ - interaktivní model socioekonomických dopadů energetické transformace (IMPACTECH_CZ - an interactive model of the socio-economic impacts of the energy transition).
+### License
 
-### License // Licence
+The model and input data are licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). It is free to run, share and adapt, using proper reference and indicating modifications. IMPACTECH project members invite public sector experts, businesses, NGOs, academia and other interested stakeholders to use the model. If you have a query or would like to provide feedback, please email xcerm01@gmail.com (Martin Cerny).
 
-(EN) The model and input data are licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). It is free to run, share and adapt, using proper reference and indicating modifications. IMPACTECH project members invite public sector experts, businesses, NGOs, academia and other interested stakeholders to use the model. If you have a query or would like to provide feedback, please email xcerm01@gmail.com (Martin Cerny).
 
-(CZ) Model a vstupní data jsou licencovány pod licencí Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Je možné jej volně užívat, sdílet a upravovat s uvedením řádného odkazu a popisu provedených úprav. K využití modelu vybízíme odborníky jak z veřejného sektoru, soukromého sektoru, nevládního sektoru, akademické sféry, tak další zainteresované strany. Pokud máte dotaz nebo chcete poskytnout zpětnou vazbu, napište, prosíme, na adresu xcerm01@gmail.com (Martin Černý).
+### Use and reproducibility
 
-### Use and reproducibility // Užívání a reprodukovatelnost
+This repository contains the model script in R and the input data needed to run the model (folder "input").
 
-(EN) This repository contains the model script in R and the input data needed to run the model (folder "input").
 
-(CZ) Toto úložiště obsahuje skript modelu v jazyce R a vstupní data potřebná ke spuštění modelu (složka "input").
+### Source data
 
-### Source data // Zdrojová (podkladová) data
+The original version of the main source database (EXIOBASE, version 3.6) is available at:
 
-(EN) The original version of the main source database (EXIOBASE, version 3.6) is available at:
+https://zenodo.org/record/3583071#.XrmeL8DgqUl
 
-(CZ) Původní verze hlavní zdrojové databáze (EXIOBASE, verze 3.6) je k dispozici na adrese:
 
-https://zenodo.org/record/3583071#.XrmeL8DgqUl.
+The changes made to the database include a detailed breakdown of the following sectors into individual production technologies (see input data, "input" folder):
 
-(EN) The changes made to the database include a detailed breakdown of the following sectors into individual production technologies (see input data, "input" folder):
 Manufacture of basic iron and steel and of ferro-alloys and first products thereof (i27.a); 
 Re-processing of secondary steel into new steel (i27.a.w); 
 Manufacture of cement, lime and plaster (i26.d); 
@@ -46,19 +40,8 @@ Re-processing of secondary plastic into new plastic (i24.a.w);
 N-fertiliser (i24.b); 
 Manufacture of motor vehicles, trailers and semi-trailers (i34).
 
-(CZ) Změny učiněné na databázi zahrnují detailní rozčlenění níže uvedených sektorů na jednotlivé výrobní technologie (viz vstupní data, složka "input"):
-Výroba základního železa a oceli a feroslitin a jejich prvovýrobků (i27.a); 	
-Přepracování druhotné oceli na novou ocel (i27.a.w); 	
-Výroba cementu, vápna a sádry (i26.d); 	
-Přepracování popela na slínku (i26.d.w); 	
-Plasty, základní (i24.a); 	
-Přepracování druhotných plastů na nové plasty (i24.a.w); 
-N-hnojiva (i24.b); 
-Výroba motorových vozidel, přívěsů a návěsů (i34).
 
-(EN) Other sources of input data used for the disaggregation and scenario test run are:
-
-(CZ) Dalšími zdroji vstupních dat využitými pro dezagregaci a testování scénářů jsou:
+Other sources of input data used for the disaggregation and scenario test run are:
 
 Cambridge Econometrics, Element Energy, 2018. Low-carbon cars in Europe: A socio-economic assessment. European Climate Foundation.
 Collodi, G., Azzaro, G., Ferrari, N., Santos, S., 2017. Techno-economic evaluation of deploying CCS in SMR based merchant H2 production with NG as feedstock and fuel. Energy Procedia 114, 2690–2712.
