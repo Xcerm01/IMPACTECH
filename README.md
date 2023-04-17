@@ -2,8 +2,6 @@
 
 ### Input-output model assessing changes in socioeconomic indicators and greenhouse gas emissions as a result of the energy transition with a focus on the Czech Republic
 
-### Input-output model hodnotící změny socioekonomických ukazatelů a emisí skleníkových plynů v důsledku energetické transformace se zaměřením na Českou republiku
-
 IMPACTECH is a model for assessing expected changes in labor demand and other socioeconomic variables and greenhouse gas emissions (depending on the model version) associated with technological change in the energy sector and, respectively, its selected adjacent downstream sectors (version IMPACTECH_CZ_decarb). Most of its versions include a detailed gross fixed capital formation module (IMPACTECH_CZ, IMPACTECH_AT_CZ, IMPACTECH_EU) and some allow the inclusion of explicit assumptions about future technological change for selected renewable energy sources (IMPACTECH_CZ, IMPACTECH_AT_CZ).
 
 ### How to cite
