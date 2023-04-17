@@ -9,7 +9,7 @@ IMPACTECH is a model for assessing expected changes in labor demand and other so
 
 To cite IMPACTECH, please refer to:
 
-Cerny, M., & Bruckner, M. (2023). IMPACTECH (Version 1.0) [Computer software]. https://doi.org/10.5281/zenodo.7837489
+Cerny, M., & Bruckner, M. (2023). IMPACTECH - an input-output model for assessing the impacts of post-carbon transformation (Version 1.0) [Computer software]. https://doi.org/10.5281/zenodo.7837489
 
 
 Alternatively (if you are using the interactive version of IMPACTECH_CZ, available at http://147.251.124.213:3838/sample-apps/impactech/), please cite:
