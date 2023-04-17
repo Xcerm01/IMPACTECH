@@ -1,7 +1,7 @@
 (EN) Changes on input data of EXIOBASE 3.6
 
-The underlying EXIOBASE 3.6 source database is under the Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license, which mandates that the sequence of changes be described
-made to the source document. Accordingly, we describe below the adaptations made to the input data in the IMPACTECH_CZ_decarb version of the model.
+The underlying EXIOBASE 3.6 source database is under the Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license, which mandates that the sequence of changes 
+be described made to the source document. Accordingly, we describe below the adaptations made to the input data in the IMPACTECH_CZ_decarb version of the model.
 
 
 Sectoral breakdown of the modeled sectors
@@ -11,37 +11,44 @@ We divide "Solar photovoltaic power generation" into "Solar photovoltaic power g
 We classify PV plants with an installed capacity above 1 MW as utility-scale (large-scale) and below 1 MW as residential (small-scale).
 
 We divide the other modelled sectors in a similar way. "Steel and iron production" is divided into "Steel and iron production - Integrated mill (BF-BOF)", "Steel and 
-Iron Production - Hydrogen Direct Reduction (H-DR)" and "Steel and Iron Production - CCS Smelting Reduction". "Cement production" is divided into "Cement production - Conventional Portland 
-Cement (OPC)", "Cement Production - Kiln Electrification + Direct Separation (CCS)" and "Cement Production - CCS with Oxygen Fuel". "Plastics production" is further subdivided into "Plastics production - CCS 
-Steam cracking (unchanged production process)", "Plastics production - Steam cracking + CCS + CCS at the end of the life cycle", "Plastics production - Electric steam cracking + 
-CCS at the end of the life cycle", "Plastics production - Biomass feedstock". "Nitrogen fertiliser production" is subdivided into "Nitrogen fertiliser production - Steam methane reforming 
-(SMR) for ammonia production", "Nitrogen fertiliser production - Steam methane reforming (SMR) with CCS" and "Nitrogen fertiliser production - Water electrolysis". Finally, the sector "Production of 
-Motor Vehicle Manufacturing" is divided into "Motor Vehicle Manufacturing - Internal Combustion Engine" and "Motor Vehicle Manufacturing - Electric Vehicle: 
-Hybrid + Plug-in hybrid + Battery + Fuel cell".
+Iron Production - Hydrogen Direct Reduction (H-DR)" and "Steel and Iron Production - CCS Smelting Reduction". "Cement production" is divided into "Cement production - 
+Conventional Portland Cement (OPC)", "Cement Production - Kiln Electrification + Direct Separation (CCS)" and "Cement Production - CCS with Oxygen Fuel". "Plastics 
+production" is further subdivided into "Plastics production - CCS Steam cracking (unchanged production process)", "Plastics production - Steam cracking + CCS + CCS at 
+the end of the life cycle", "Plastics production - Electric steam cracking + CCS at the end of the life cycle", "Plastics production - Biomass feedstock". "Nitrogen 
+fertiliser production" is subdivided into "Nitrogen fertiliser production - Steam methane reforming (SMR) for ammonia production", "Nitrogen fertiliser production - 
+Steam methane reforming (SMR) with CCS" and "Nitrogen fertiliser production - Water electrolysis". Finally, the sector "Production of Motor Vehicle Manufacturing" is 
+divided into "Motor Vehicle Manufacturing - Internal Combustion Engine" and "Motor Vehicle Manufacturing - Electric Vehicle: Hybrid + Plug-in hybrid + Battery + Fuel 
+cell".
 
 
 Update of employment data in detailed sectors
 
-Original data from the EXIOBASE v3.6 database on the direct employment intensity (number of persons employed per MW of installed capacity of a given source) for individual sources
-of energy in the detailed electricity sectors has been updated and refined based on a comparison of data from other sources
-(e.g., Cameron and van der Zwaan, 2015; Ortega et al., 2020; Ram et al., 2020; Rutovitz et al., 2015). This was due to the inconsistency of the original data with the vast majority of
-other available sources. The adaptation consists of replacing the employment intensity (employment factors) from EXIOBASE 3.6 in the modelled sectors with employment factors
-per unit of installed capacity in MW given in the studies (Ram et al., 2020; Rutovitz et al., 2015; SolarPower Europe, 2015) and converting them to the number of jobs
-per million EUR (of a given base year, i.e. 2015) using data on the installed capacity of each source (broken down by sector) from Capros et al. (2016) and data
-cost (price) per MW of installed capacity from Carlsson et al. (2014) - for non-renewable, solar thermal, geothermal and tidal
-energy - and according to the International Renewable Energy Agency (2019) for other renewables. Given the absence of certain technologies in the current form
-energy mix and the lack of data on electricity generation from biomass and biogas in the country, employment intensity for these technologies was also replaced with data from other
-countries (from the same expert sources cited above) using indicative criteria of geographical proximity and comparability of purchasing power, as follows.
-(offshore) - Germany; Biomass, Biogas and Waste + Geothermal - Austria; Solar Thermal - Spain; Tidal Energy - France (in italics)
-in the table below).
+Original data from the EXIOBASE v3.6 database on the direct employment intensity (number of persons employed per MW of installed capacity of a given source) for 
+individual sources of energy in the detailed electricity sectors has been updated and refined based on a comparison of data from other sources
+(e.g., Cameron and van der Zwaan, 2015; Ortega et al., 2020; Ram et al., 2020; Rutovitz et al., 2015). This was due to the inconsistency of the original data with the 
+vast majority of other available sources. The adaptation consists of replacing the employment intensity (employment factors) from EXIOBASE 3.6 in the modelled sectors 
+with employment factors per unit of installed capacity in MW given in the studies (Ram et al., 2020; Rutovitz et al., 2015; SolarPower Europe, 2015) and converting 
+them to the number of jobs per million EUR (of a given base year, i.e. 2015) using data on the installed capacity of each source (broken down by sector) from Capros et 
+al. (2016) and data cost (price) per MW of installed capacity from Carlsson et al. (2014) - for non-renewable, solar thermal, geothermal and tidal energy - and 
+according to the International Renewable Energy Agency (2019) for other renewables. Given the absence of certain technologies in the current form energy mix and the 
+lack of data on electricity generation from biomass and biogas in the country, employment intensity for these technologies was also replaced with data from other 
+countries (from the same expert sources cited above) using indicative criteria of geographical proximity and comparability of purchasing power, as follows:
+Wind (offshore) - Germany; Biomass, Biogas and Waste + Geothermal - Austria; Solar Thermal - Spain; Tidal Energy - France.
 
 We took a similar approach to replacing employee accounts in the other modelled sectors. To do this, we use employment data by number of persons for 2015 
 provided on request by the Czech Statistical Office (CZSO). Given that the CZSO data lack detail at the level of skill levels and gender, we have disaggregated 
 into these categories proportionally according to the baseline data from EXIOBASE 3.6.
 
 
-Sector (EXIOBASE 3.6 codes) Employment according to EXIOBASE 3.6 (number of persons), 2015 Employment according to CSU (number of persons), 2015
-Manufacture of pig iron, steel and ferro-alloys [...] (i27.a+i27.a.w) 14 798 23 419
+Sector (EXIOBASE 3.6 codes)						Employment according to EXIOBASE 3.6 (number of persons), 2015	Employment according to CSU (number of persons), 2015
+Výroba surového železa, oceli a feroslitin [...] (i27.a+i27.a.w)	14 798							23 419
+Výroba cementu, vápna a sádry (i26.d+i26.d.w)				12 078							2 052
+Výroba plastů v primárních formách (i24.a+i24.a.w)			171							5 085
+Výroba hnojiv a dusíkatých sloučenin (i24.b)				1 373							1 668
+Výroba motorových vozidel (kromě motocyklů), přívěsů a návěsů (i34)	167 447							225 287
+
+
+Manufacture of pig iron, steel and ferro-alloys [...] (i27.a+i27.a.w)	14 798 23 419
 Manufacture of cement, lime and plaster (i26.d+i26.d.w) 12 078 2 052
 Manufacture of plastics in primary forms (i24.a+i24.a.w) 171 5 085
 Manufacture of fertilisers and nitrogen compounds (i24.b) 1 373 1 668
@@ -83,8 +90,7 @@ ohledně nákladů (ceny) na MW instalované kapacity dle Carlsson et al. (2014)
 energii - a dle International Renewable Energy Agency (2019) pro ostatní obnovitelné zdroje. Vzhledem k nepřítomnosti určitých technologií v současné podobě
 energetického mixu a chybějícím údajům k výrobě elektřiny z biomasy a bioplynu v ČR byla rovněž nahrazena intenzita zaměstnanosti pro tyto technologie daty z jiných
 zemí (z týchž odborných zdrojů, citovaných výše) za využití indikativních kritérií geografické blízkosti a porovnatelnosti kupní síly, a to následovně: Větrná energie
-(offshore) - Německo; Biomasa, bioplyn a odpad + Geotermální energie - Rakousko; Solární termální energie - Španělsko; Přílivová energie - Francie (vyznačeno kurzívou
-v tabulce níže).
+(offshore) - Německo; Biomasa, bioplyn a odpad + Geotermální energie - Rakousko; Solární termální energie - Španělsko; Přílivová energie - Francie.
 
 Podobným způsobem jsme přistoupili k nahrazení zaměstnaneckých účtů v ostatních modelovaných sektorech. K tomu využíváme data o zaměstnanosti podle počtu osob za rok 2015 
 poskytnutá na vyžádání Českým statistickým úřadem (ČSÚ). Vzhledem k tomu, že údaje z ČSÚ postrádají podrobnost na úrovni stupňů kvalifikace a pohlaví, rozdělili jsme 
