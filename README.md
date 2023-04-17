@@ -4,11 +4,15 @@
 
 ### Input-output model hodnotící změny socioekonomických ukazatelů a emisí skleníkových plynů v důsledku energetické transformace se zaměřením na Českou republiku
 
-The IMPACTECH_CZ model is a tool for assessing expected changes in labour demand, gross value added, gross domestic product and greenhouse gas emissions associated with technological change in the energy sector. It includes a detailed gross fixed capital formation module and allows the inclusion of explicit assumptions about future technological change for selected renewable energy sources.
+IMPACTECH is a model for assessing expected changes in labor demand and other socioeconomic variables and greenhouse gas emissions (depending on the model version) associated with technological change in the energy sector and, respectively, its selected adjacent downstream sectors (version IMPACTECH_CZ_decarb). Most of its versions include a detailed gross fixed capital formation module (IMPACTECH_CZ, IMPACTECH_AT_CZ, IMPACTECH_EU) and some allow the inclusion of explicit assumptions about future technological change for selected renewable energy sources (IMPACTECH_CZ, IMPACTECH_AT_CZ).
 
 ### How to cite
 
 To cite the IMPACTECH_CZ model, please refer to:
+
+XXX
+
+Alternatively (if you are using the interactive version of IMPACTECH_CZ, available at http://147.251.124.213:3838/sample-apps/impactech/), please cite:
 
 Černý, M., Gajdoš, M., & Bruckner, M. (2021). IMPACTECH_CZ - interaktivní model socioekonomických dopadů energetické transformace (IMPACTECH_CZ - an interactive model of the socio-economic impacts of the energy transition).
 
@@ -22,7 +26,7 @@ This repository contains the model script in R and the input data needed to run 
 
 ### Source data
 
-The original version of the main source database (EXIOBASE, v3.6) is available at:
+The original version of the main source database (EXIOBASE, version 3.6) is available at:
 
 https://zenodo.org/record/3583071#.XrmeL8DgqUl.
 
