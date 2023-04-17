@@ -3,12 +3,12 @@ message: "If you use this software, please cite it as below:"
 authors:
 - family-names: "Cerny"
   given-names: "Martin"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+  orcid: "https://orcid.org/0000-0003-2977-3595"
 - family-names: "Bruckner"
   given-names: "Martin"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+  orcid: "https://orcid.org/0000-0002-1405-7951"
 title: "IMPACTECH"
-version: 1.0.0
+version: 1.0
 doi: 10.5281/zenodo.7837489
 date-released: 2023-04-17
 url: "https://github.com/Xcerm01/IMPACTECH"
