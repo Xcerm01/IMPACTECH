@@ -31,7 +31,15 @@ This repository contains the model script in R and the input data needed to run 
 
 The original version of the main source database (EXIOBASE, version 3.6) is available at:
 
-https://zenodo.org/record/3583071#.XrmeL8DgqUl.
+https://zenodo.org/record/3583071#.XrmeL8DgqUl
+
+
+The changes made to the database include a breakdown of the following sectors (see input data, "input" folder):
+
+Production of electricity from wind (i40.11.e);
+Production of electricity from solar photovoltaic (i40.11.h).
+
+Furthermore, they include the creation of detailed gross fixed capital formation vectors in the electricity generation sectors.
 
 
 Other sources of input data are:
