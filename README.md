@@ -14,7 +14,7 @@ Cerny, M., & Bruckner, M. (2023). IMPACTECH (Version 1.0.0) [Computer software].
 
 Alternatively (if you are using the interactive version of IMPACTECH_CZ, available at http://147.251.124.213:3838/sample-apps/impactech/), please cite:
 
-Černý, M., Gajdoš, M., & Bruckner, M. (2021). IMPACTECH_CZ - interaktivní model socioekonomických dopadů energetické transformace (IMPACTECH_CZ - an interactive model of the socio-economic impacts of the energy transition).
+Cerny, M., Gajdos, M., & Bruckner, M. (2021). IMPACTECH_CZ - interaktivní model socioekonomických dopadů energetické transformace (IMPACTECH_CZ - an interactive model of the socio-economic impacts of the energy transition).
 
 
 ### License
