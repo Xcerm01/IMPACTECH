@@ -35,9 +35,10 @@ zemí (z týchž odborných zdrojů, citovaných výše) za využití indikativn
 (offshore) - Německo; Biomasa, bioplyn a odpad + Geotermální energie - Rakousko; Solární termální energie - Španělsko; Přílivová energie - Francie (vyznačeno kurzívou
 v tabulce níže).
 
-Podobným způsobem jsme přistoupili k nahrazení zaměstnaneckých účtů v ostatních modelovaných sektorech. K tomu využíváme empirická data za rok 2015 poskytnutá 
-Českým statistickým úřadem (ČSÚ). Vzhledem k tomu, že údaje z ČSÚ postrádají podrobnost na úrovni stupňů kvalifikace a pohlaví, rozdělili jsme je do těchto kategorií 
-proporcionálně podle výchozích dat z EXIOBASE 3.6.
+Podobným způsobem jsme přistoupili k nahrazení zaměstnaneckých účtů v ostatních modelovaných sektorech. K tomu využíváme data o zaměstnanosti podle počtu osob za rok 2015 
+poskytnutá na vyžádání Českým statistickým úřadem (ČSÚ). Vzhledem k tomu, že údaje z ČSÚ postrádají podrobnost na úrovni stupňů kvalifikace a pohlaví, rozdělili jsme 
+je do těchto kategorií proporcionálně podle výchozích dat z EXIOBASE 3.6.
+
 
 Sektor (EXIOBASE 3.6 kódy)						Zaměstnanost dle EXIOBASE 3.6 (počet osob), rok 2015	Zaměstnanost dle ČSÚ (počet osob), rok 2015
 Výroba surového železa, oceli a feroslitin [...] (i27.a+i27.a.w)	14 798							23 419
