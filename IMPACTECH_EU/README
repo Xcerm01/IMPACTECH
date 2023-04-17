@@ -4,25 +4,38 @@
 
 IMPACTECH_EU is a tool for assessing expected changes in labour demand associated with technological change in the energy sector. It includes a detailed gross fixed capital formation module and allows the inclusion of explicit assumptions about future technological change for selected renewable energy sources.
 
+
 ### How to cite
 
-To cite the IMPACTECH_EU model, please refer to:
+To cite IMPACTECH (including this version IMPACTECH_EU), please refer to:
 
-Černý, M., Bruckner, M., Weinzettel, J., Wiebe, K., Kimmich, Ch., Kerschner, Ch., & Hubacek, K. (2021). Employment effects of the renewable energy transition in the electricity sector : An input-output approach. 86 pp.
+Cerny, M., & Bruckner, M. (2023). IMPACTECH - an input-output model for assessing the impacts of post-carbon transformation (Version 1.0) [Computer software]. https://doi.org/10.5281/zenodo.7837489
+
 
 ### License
 
 The model and input data are licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). It is free to run, share and adapt, using proper reference and indicating modifications. IMPACTECH project members invite public sector experts, businesses, NGOs, academia and other interested stakeholders to use the model. If you have a query or would like to provide feedback, please email xcerm01@gmail.com (Martin Cerny).
 
+
 ### Use and reproducibility
 
 This repository contains the model script in R and the input data needed to run the model (folder "input").
+
 
 ### Source data
 
 The original version of the main source database (EXIOBASE, version 3.6) is available at:
 
-https://zenodo.org/record/3583071#.XrmeL8DgqUl.
+https://zenodo.org/record/3583071#.XrmeL8DgqUl
+
+
+The changes made to the database include a breakdown of the following sectors (see input data, "input" folder):
+
+Production of electricity from wind (i40.11.e);
+Production of electricity from solar photovoltaic (i40.11.h).
+
+Furthermore, they include the creation of detailed gross fixed capital formation vectors in the electricity generation sectors.
+
 
 Other sources of input data are:
 
