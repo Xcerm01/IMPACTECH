@@ -4,41 +4,29 @@
 
 ### Input-output model hodnotící změny socioekonomických ukazatelů a emisí skleníkových plynů v důsledku energetické transformace se zaměřením na Českou republiku
 
-(EN) The IMPACTECH_CZ model is a tool for assessing expected changes in labour demand, gross value added, gross domestic product and greenhouse gas emissions associated with technological change in the energy sector. It includes a detailed gross fixed capital formation module and allows the inclusion of explicit assumptions about future technological change for selected renewable energy sources.
+The IMPACTECH_CZ model is a tool for assessing expected changes in labour demand, gross value added, gross domestic product and greenhouse gas emissions associated with technological change in the energy sector. It includes a detailed gross fixed capital formation module and allows the inclusion of explicit assumptions about future technological change for selected renewable energy sources.
 
-(CZ) Model IMPACTECH_CZ je nástrojem pro hodnocení očekávaných změn v poptávce po práci, hrubé přidané hodnotě, hrubém domácím produktu a emisích skleníkových plynů v souvislosti s technologickými změnami v energetice. Zahrnuje podrobný modul tvorby hrubého fixního kapitálu a umožňuje zahrnout explicitní předpoklady o budoucích technologických změnách pro vybrané obnovitelné zdroje energie.
+### How to cite
 
-### How to cite // Jak citovat
-
-(EN) To cite the IMPACTECH_CZ model, please refer to:
-
-(CZ) Chcete-li citovat model IMPACTECH_CZ, uveďte, prosím: 
+To cite the IMPACTECH_CZ model, please refer to:
 
 Černý, M., Gajdoš, M., & Bruckner, M. (2021). IMPACTECH_CZ - interaktivní model socioekonomických dopadů energetické transformace (IMPACTECH_CZ - an interactive model of the socio-economic impacts of the energy transition).
 
-### License // Licence
+### License
 
-(EN) The model and input data are licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). It is free to run, share and adapt, using proper reference and indicating modifications. IMPACTECH project members invite public sector experts, businesses, NGOs, academia and other interested stakeholders to use the model. If you have a query or would like to provide feedback, please email xcerm01@gmail.com (Martin Cerny).
+The model and input data are licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). It is free to run, share and adapt, using proper reference and indicating modifications. IMPACTECH project members invite public sector experts, businesses, NGOs, academia and other interested stakeholders to use the model. If you have a query or would like to provide feedback, please email xcerm01@gmail.com (Martin Cerny).
 
-(CZ) Model a vstupní data jsou licencovány pod licencí Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Je možné jej volně užívat, sdílet a upravovat s uvedením řádného odkazu a provedených úprav. K využití modelu vybízíme odborníky jak z veřejného sektoru, soukromého sektoru, nevládního sektoru, akademické sféry, tak další zainteresované strany. Pokud máte dotaz nebo chcete poskytnout zpětnou vazbu, napište, prosíme, na adresu xcerm01@gmail.com (Martin Černý).
+### Use and reproducibility
 
-### Use and reproducibility // Užívání a reprodukovatelnost
+This repository contains the model script in R and the input data needed to run the model (folders "input"). Technical documentation including a user manual is also available in this repository. The user guide provides detailed information on how to use the model and how to run the code. A methodology report describing the logic and broader scientific context of the model is available for download at: https://www.mpo.cz/cz/energetika/vyzkum-a-vyvoj-v-energetice/resene-dokoncene-projekty-a-jejich-vystupy/ekonomicke-dopady-uplatneni-ruznych-technologii-pri-nizkouhlikove-transformaci-projekt-impactech--259465/
 
-(EN) This repository contains the model script in R and the input data needed to run the model (folder "input"). Technical documentation including a user manual is also available in this repository. The user guide provides detailed information on how to use the model and how to run the code. A methodology report describing the logic and broader scientific context of the model is available for download at: https://www.mpo.cz/cz/energetika/vyzkum-a-vyvoj-v-energetice/resene-dokoncene-projekty-a-jejich-vystupy/ekonomicke-dopady-uplatneni-ruznych-technologii-pri-nizkouhlikove-transformaci-projekt-impactech--259465/
+### Source data
 
-(CZ) Toto úložiště obsahuje skript modelu v jazyce R a vstupní data potřebná ke spuštění modelu (složka "input"). V tomto úložišti je také k dispozici technická dokumentace včetně uživatelské příručky. Uživatelská příručka obsahuje podrobné informace o tom, jak model používat a jak spustit kód modelu. Metodika popisující logiku a širší odborný kontext modelu je k dispozici ke stažení na adrese: https://www.mpo.cz/cz/energetika/vyzkum-a-vyvoj-v-energetice/resene-dokoncene-projekty-a-jejich-vystupy/ekonomicke-dopady-uplatneni-ruznych-technologii-pri-nizkouhlikove-transformaci-projekt-impactech--259465/
-
-### Source data // Zdrojová (podkladová) data
-
-(EN) The original version of the main source database (EXIOBASE, version 3.6) is available at:
-
-(CZ) Původní verze hlavní zdrojové databáze (EXIOBASE, verze 3.6) je k dispozici na adrese:
+The original version of the main source database (EXIOBASE, v3.6) is available at:
 
 https://zenodo.org/record/3583071#.XrmeL8DgqUl.
 
-(EN) Other sources of input data are:
-
-(CZ) Dalšími zdroji vstupních dat jsou:
+Other sources of input data are:
 
 EU 2016 Reference Scenario (Capros et al., 2016): https://ec.europa.eu/energy/data-analysis/energy-modelling/eu-reference-scenario-2016_en
 EUROSTAT Complete energy balances (nrg_bal_c): https://ec.europa.eu/eurostat/databrowser/view/NRG_BAL_C__custom_1199953/default/table?lang=en
