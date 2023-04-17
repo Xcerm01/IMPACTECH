@@ -7,7 +7,7 @@ IMPACTECH is a model for assessing expected changes in labor demand and other so
 
 ### How to cite
 
-To cite the IMPACTECH_CZ model, please refer to:
+To cite IMPACTECH, please refer to:
 
 Cerny, M., & Bruckner, M. (2023). IMPACTECH (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.7837489
 
