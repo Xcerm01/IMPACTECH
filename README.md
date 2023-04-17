@@ -34,16 +34,4 @@ The original version of the main source database (EXIOBASE, version 3.6) is avai
 https://zenodo.org/record/3583071#.XrmeL8DgqUl
 
 
-Other sources of input data are:
-
-EU 2016 Reference Scenario (Capros et al., 2016): https://ec.europa.eu/energy/data-analysis/energy-modelling/eu-reference-scenario-2016_en
-
-EUROSTAT Complete energy balances (nrg_bal_c): https://ec.europa.eu/eurostat/databrowser/view/NRG_BAL_C__custom_1199953/default/table?lang=en
-
-ETRI 2014 Energy Technology Reference Indicator projections for 2010-2050 (Carlsson et al., 2014): https://www.researchgate.net/publication/269697741_ETRI_2014_Energy_Technology_Reference_Indicator_projections_for_2010-2050
-
-International Renewable Energy Agency (Renewable Power Generation Costs in 2017, 2018): https://www.irena.org/publications/2018/jan/renewable-power-generation-costs-in-2017
-
-Egiyea et al. (2018): https://www.researchgate.net/figure/Cost-breakdown-for-base-case-scenario_fig4_326255004
-
-Enbar, Weng, & Klise (2015): https://www.osti.gov/biblio/1234935-budgeting-solar-pv-plant-operations-maintenance-practices-pricing
+Other sources of input data are specific to each version of the model and are listed in the corresponding "readme" file.
